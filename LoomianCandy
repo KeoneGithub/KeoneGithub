@@ -407,12 +407,22 @@
 
 
 
-
-
-
-
-
-
+setclipboard("https://discord.gg/Ak6mSFtmDW")
+local global = "_p" --Way too easy tbh
+for i,v in pairs(debug.getregistry()) do
+if type(v) == 'function' then
+for i,v in pairs(debug.getupvalues(v)) do
+local ret,tab = pcall(function() return v["NPCChat"] end)
+if ret == true and type(tab) == "table" then
+global = v
+break
+end
+end
+end
+end
+global.NPCChat:say("This Is Mainly Made And Designed By the one and only CandyLean#2645")
+global.NPCChat:say("Make Sure To Join My Discord, I Copied It To Your ClipBoard! Just Incase This script Dies, changes loadstrings Or Updates to something far more better, youll have my discord ready for the new script!")
+global.NPCChat:say("Other Than That, Enjoy My LoomianLean Menu And Most Of Its Features It Has to offer! - CandyLean#2645")
 
 
 
