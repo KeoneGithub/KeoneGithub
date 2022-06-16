@@ -44,7 +44,7 @@ Sound.SoundId = "rbxassetid://3465873748"
 Sound.Volume = 10
 Sound:Play()
 wait()
-
+--Candylean certified
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
