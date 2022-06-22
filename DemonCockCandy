@@ -18,7 +18,7 @@ Notification:Notify(
 wait(1)
 setclipboard("https://discord.gg/Ak6mSFtmDW")
 Notification:Notify(
-   {Title = "DemonFall Version Patch 3.2.5", Description = "Lean Is Loading Its Cilent Please Wait...  "},
+   {Title = "DemonFall Version Patch 3.5", Description = "Lean Is Loading Its Cilent Please Wait...  "},
    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"},
    {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84)}
 )
