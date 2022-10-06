@@ -6,4 +6,1186 @@ Module.Join("https://discord.gg/X8X5CFNB4e")
 
 wait(1.2)
 
-loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\108\77\48\68\114\83\65\69\117\117\50\70\47\114\97\119\34\44\32\116\114\117\101\41\41\40\41\10\10")()
+
+
+
+--cxattotoguiv1
+--guiinstances
+
+local Ui_penis = Instance.new("ScreenGui")
+local Main_2 = Instance.new("Frame")
+local Glow = Instance.new("ImageLabel")
+local Top_Container = Instance.new("Frame")
+local Title = Instance.new("TextLabel")
+local Tab_Container = Instance.new("Frame")
+local List = Instance.new("UIListLayout")
+local Title_2 = Instance.new("TextLabel")
+local Scroll = Instance.new("ScrollingFrame")
+local Bottom_Container = Instance.new("Frame")
+local List_2 = Instance.new("UIListLayout")
+local Button_1 = Instance.new("TextButton")
+local Title_3 = Instance.new("TextLabel")
+local Button_2 = Instance.new("TextButton")
+local Title_4 = Instance.new("TextLabel")
+local Button_3 = Instance.new("TextButton")
+local Title_5 = Instance.new("TextLabel")
+local Button_4 = Instance.new("TextButton")
+local Title_6 = Instance.new("TextLabel")
+local Button_5 = Instance.new("TextButton")
+local Title_7 = Instance.new("TextLabel")
+local Button_6 = Instance.new("TextButton")
+local Title_8 = Instance.new("TextLabel")
+local Button_7 = Instance.new("TextButton")
+local Title_9 = Instance.new("TextLabel")
+local Button_8 = Instance.new("TextButton")
+local Title_10 = Instance.new("TextLabel")
+local Button_9 = Instance.new("TextButton")
+local Title_11 = Instance.new("TextLabel")
+local ImageLabel = Instance.new("ImageLabel")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local Main = Instance.new("Frame")
+local Glow_2 = Instance.new("ImageLabel")
+local Top_Container_2 = Instance.new("Frame")
+local Title_12 = Instance.new("TextLabel")
+local Tab_Container_2 = Instance.new("Frame")
+local List_3 = Instance.new("UIListLayout")
+local Title_13 = Instance.new("TextLabel")
+local Scroll_2 = Instance.new("ScrollingFrame")
+local Bottom_Container_2 = Instance.new("Frame")
+local List_4 = Instance.new("UIListLayout")
+local Button_1_2 = Instance.new("TextButton")
+local Title_14 = Instance.new("TextLabel")
+local Button_2_2 = Instance.new("TextButton")
+local Title_15 = Instance.new("TextLabel")
+local Button_3_2 = Instance.new("TextButton")
+local Title_16 = Instance.new("TextLabel")
+local Button_4_2 = Instance.new("TextButton")
+local Title_17 = Instance.new("TextLabel")
+local Button_5_2 = Instance.new("TextButton")
+local Title_18 = Instance.new("TextLabel")
+local ButtonTEXT = Instance.new("TextButton")
+local Title_19 = Instance.new("TextLabel")
+local Button_6_2 = Instance.new("TextButton")
+local Title_20 = Instance.new("TextLabel")
+local Button_7_2 = Instance.new("TextButton")
+local Title_21 = Instance.new("TextLabel")
+local Button_8_2 = Instance.new("TextButton")
+local Title_22 = Instance.new("TextLabel")
+local ButtonTEXTv2 = Instance.new("TextButton")
+local Title_23 = Instance.new("TextLabel")
+local Button_9_2 = Instance.new("TextButton")
+local Title_24 = Instance.new("TextLabel")
+local Button_10 = Instance.new("TextButton")
+local Title_25 = Instance.new("TextLabel")
+local ButtonTEXTv3 = Instance.new("TextButton")
+local Title_26 = Instance.new("TextLabel")
+local Button_11 = Instance.new("TextButton")
+local Title_27 = Instance.new("TextLabel")
+local Button_12 = Instance.new("TextButton")
+local Title_28 = Instance.new("TextLabel")
+local ImageLabel_3 = Instance.new("ImageLabel")
+local ImageLabel_4 = Instance.new("ImageLabel")
+
+--Pworptoties
+
+Ui_penis.Name = "Ui_penis"
+Ui_penis.Parent = game.CoreGui
+Ui_penis.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Main_2.Name = "Main_2"
+Main_2.Parent = Ui_penis
+Main_2.BackgroundColor3 = Color3.fromRGB(23, 21, 30)
+Main_2.BorderSizePixel = 0
+Main_2.Position = UDim2.new(0.48455435, 0, 0.1997343, 0)
+Main_2.Size = UDim2.new(0, 395, 0, 388)
+Main_2.Active = true
+Main_2.Draggable = true
+
+Glow.Name = "Glow"
+Glow.Parent = Main_2
+Glow.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Glow.BackgroundTransparency = 1.000
+Glow.BorderSizePixel = 0
+Glow.Position = UDim2.new(0, -15, 0, -15)
+Glow.Size = UDim2.new(1, 30, 1, 30)
+Glow.ZIndex = 0
+Glow.Image = "rbxassetid://4996891970"
+Glow.ScaleType = Enum.ScaleType.Slice
+Glow.SliceCenter = Rect.new(20, 20, 280, 280)
+
+Top_Container.Name = "Top_Container"
+Top_Container.Parent = Main_2
+Top_Container.AnchorPoint = Vector2.new(0.5, 0)
+Top_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Top_Container.BackgroundTransparency = 1.000
+Top_Container.Position = UDim2.new(0.5, 0, 0, 18)
+Top_Container.Size = UDim2.new(1, -40, 0, 20)
+
+Title.Name = "Title"
+Title.Parent = Top_Container
+Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title.BackgroundTransparency = 1.000
+Title.Position = UDim2.new(0.211267605, 0, 0, 0)
+Title.Size = UDim2.new(0.788732409, 0, 1, 0)
+Title.Font = Enum.Font.GothamBlack
+Title.Text = ""
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextSize = 20.000
+Title.TextXAlignment = Enum.TextXAlignment.Left
+
+Tab_Container.Name = "Tab_Container"
+Tab_Container.Parent = Top_Container
+Tab_Container.AnchorPoint = Vector2.new(1, 0)
+Tab_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Tab_Container.BackgroundTransparency = 1.000
+Tab_Container.Position = UDim2.new(1, 0, 0, 0)
+Tab_Container.Size = UDim2.new(1, 0, 1, 0)
+
+List.Name = "List"
+List.Parent = Tab_Container
+List.FillDirection = Enum.FillDirection.Horizontal
+List.HorizontalAlignment = Enum.HorizontalAlignment.Right
+List.SortOrder = Enum.SortOrder.LayoutOrder
+List.Padding = UDim.new(0, 14)
+
+Title_2.Name = "Title"
+Title_2.Parent = Top_Container
+Title_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_2.BackgroundTransparency = 1.000
+Title_2.Position = UDim2.new(0.064788729, 0, 0.25000152, 0)
+Title_2.Size = UDim2.new(0.1859155, 0, 1.09999847, 0)
+Title_2.Font = Enum.Font.GothamBlack
+Title_2.Text = "Extras"
+Title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_2.TextSize = 20.000
+Title_2.TextXAlignment = Enum.TextXAlignment.Left
+
+Scroll.Name = "Scroll"
+Scroll.Parent = Main_2
+Scroll.Active = true
+Scroll.AnchorPoint = Vector2.new(0.5, 0)
+Scroll.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scroll.BackgroundTransparency = 1.000
+Scroll.BorderSizePixel = 0
+Scroll.Position = UDim2.new(0.5, 4, 0, 59)
+Scroll.Size = UDim2.new(1, -20, 1, -77)
+Scroll.BottomImage = "rbxassetid://5234388158"
+Scroll.CanvasSize = UDim2.new(0, 0, 0, 450)
+Scroll.MidImage = "rbxassetid://5234388158"
+Scroll.ScrollBarThickness = 6
+Scroll.TopImage = "rbxassetid://5234388158"
+
+Bottom_Container.Name = "Bottom_Container"
+Bottom_Container.Parent = Scroll
+Bottom_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Bottom_Container.BackgroundTransparency = 1.000
+Bottom_Container.Size = UDim2.new(1, -11, 1, 0)
+
+List_2.Name = "List"
+List_2.Parent = Bottom_Container
+List_2.SortOrder = Enum.SortOrder.LayoutOrder
+List_2.Padding = UDim.new(0, 4)
+
+Button_1.Name = "Button_1"
+Button_1.Parent = Bottom_Container
+Button_1.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_1.BorderSizePixel = 0
+Button_1.LayoutOrder = 1
+Button_1.Position = UDim2.new(0.0467032976, 0, 0.0088888891, 0)
+Button_1.Size = UDim2.new(1, 0, 0, 26)
+Button_1.AutoButtonColor = false
+Button_1.Font = Enum.Font.SourceSans
+Button_1.Text = ""
+Button_1.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_1.TextSize = 14.000
+Button_1.MouseButton1Down:connect(function()
+	local cf =game:GetService("Workspace").NPCS.sk3tchyt.HumanoidRootPart.CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+end)
+
+Title_3.Name = "Title"
+Title_3.Parent = Button_1
+Title_3.AnchorPoint = Vector2.new(0, 0.5)
+Title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.BackgroundTransparency = 1.000
+Title_3.Position = UDim2.new(0, 8, 0.5, 0)
+Title_3.Size = UDim2.new(0, 49, 1, -8)
+Title_3.Font = Enum.Font.Gotham
+Title_3.Text = "MEET YOUTUBER"
+Title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.TextSize = 10.000
+Title_3.TextTransparency = 0.300
+Title_3.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_2.Name = "Button_2"
+Button_2.Parent = Bottom_Container
+Button_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_2.BorderSizePixel = 0
+Button_2.LayoutOrder = 1
+Button_2.Position = UDim2.new(-0.00824175868, 0, -0.0311111119, 0)
+Button_2.Size = UDim2.new(1, 0, 0, 26)
+Button_2.AutoButtonColor = false
+Button_2.Font = Enum.Font.SourceSans
+Button_2.Text = ""
+Button_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_2.TextSize = 14.000
+Button_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/whEkR4hF", true))()
+end)
+
+Title_4.Name = "Title"
+Title_4.Parent = Button_2
+Title_4.AnchorPoint = Vector2.new(0, 0.5)
+Title_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_4.BackgroundTransparency = 1.000
+Title_4.Position = UDim2.new(0, 8, 0.5, 0)
+Title_4.Size = UDim2.new(0, 49, 1, -8)
+Title_4.Font = Enum.Font.Gotham
+Title_4.Text = "MEET PUMPKINHEAD"
+Title_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_4.TextSize = 10.000
+Title_4.TextTransparency = 0.300
+Title_4.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_3.Name = "Button_3"
+Button_3.Parent = Bottom_Container
+Button_3.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_3.BorderSizePixel = 0
+Button_3.LayoutOrder = 1
+Button_3.Position = UDim2.new(-0.0384615399, 0, -0.0422222205, 0)
+Button_3.Size = UDim2.new(1, 0, 0, 26)
+Button_3.AutoButtonColor = false
+Button_3.Font = Enum.Font.SourceSans
+Button_3.Text = ""
+Button_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_3.TextSize = 14.000
+Button_3.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/JLN7nXCz", true))()
+end)
+
+Title_5.Name = "Title"
+Title_5.Parent = Button_3
+Title_5.AnchorPoint = Vector2.new(0, 0.5)
+Title_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_5.BackgroundTransparency = 1.000
+Title_5.Position = UDim2.new(0, 8, 0.5, 0)
+Title_5.Size = UDim2.new(0, 49, 1, -8)
+Title_5.Font = Enum.Font.Gotham
+Title_5.Text = "MEET MR FROGGYHEAD"
+Title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_5.TextSize = 10.000
+Title_5.TextTransparency = 0.300
+Title_5.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_4.Name = "Button_4"
+Button_4.Parent = Bottom_Container
+Button_4.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_4.BorderSizePixel = 0
+Button_4.LayoutOrder = 1
+Button_4.Size = UDim2.new(1, 0, 0, 26)
+Button_4.AutoButtonColor = false
+Button_4.Font = Enum.Font.SourceSans
+Button_4.Text = ""
+Button_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_4.TextSize = 14.000
+Button_4.MouseButton1Down:connect(function()
+	local cf =game:GetService("Workspace").NPCS.DenisDaily.HumanoidRootPart.CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+end)
+
+Title_6.Name = "Title"
+Title_6.Parent = Button_4
+Title_6.AnchorPoint = Vector2.new(0, 0.5)
+Title_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_6.BackgroundTransparency = 1.000
+Title_6.Position = UDim2.new(0, 8, 0.5, 0)
+Title_6.Size = UDim2.new(0, 49, 1, -8)
+Title_6.Font = Enum.Font.Gotham
+Title_6.Text = "MEET MR DENISDAILY"
+Title_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_6.TextSize = 10.000
+Title_6.TextTransparency = 0.300
+Title_6.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_5.Name = "Button_5"
+Button_5.Parent = Bottom_Container
+Button_5.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_5.BorderSizePixel = 0
+Button_5.LayoutOrder = 1
+Button_5.Size = UDim2.new(1, 0, 0, 26)
+Button_5.AutoButtonColor = false
+Button_5.Font = Enum.Font.Gotham
+Button_5.Text = "DIE FROM CARS"
+Button_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_5.TextSize = 14.000
+
+
+Title_7.Name = "Title"
+Title_7.Parent = Button_5
+Title_7.AnchorPoint = Vector2.new(0, 0.5)
+Title_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_7.BackgroundTransparency = 1.000
+Title_7.Position = UDim2.new(0, 8, 0.5, 0)
+Title_7.Size = UDim2.new(0.843406618, 49, 1, -8)
+Title_7.Font = Enum.Font.Gotham
+Title_7.Text = ""
+Title_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_7.TextSize = 10.000
+Title_7.TextTransparency = 0.300
+Title_7.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_6.Name = "Button_6"
+Button_6.Parent = Bottom_Container
+Button_6.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_6.BorderSizePixel = 0
+Button_6.LayoutOrder = 1
+Button_6.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_6.Size = UDim2.new(1, 0, 0, 26)
+Button_6.AutoButtonColor = false
+Button_6.Font = Enum.Font.Gotham
+Button_6.Text = ""
+Button_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_6.TextSize = 14.000
+Button_6.MouseButton1Down:connect(function()
+	local cf =game:GetService("Workspace").Cars.Truck.CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	---------------
+	--Die By Truck
+	--------------
+end)
+
+Title_8.Name = "Title"
+Title_8.Parent = Button_6
+Title_8.AnchorPoint = Vector2.new(0, 0.5)
+Title_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_8.BackgroundTransparency = 1.000
+Title_8.Position = UDim2.new(0, 8, 0.5, 0)
+Title_8.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_8.Font = Enum.Font.Gotham
+Title_8.Text = "DIE BY TRUCK"
+Title_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_8.TextSize = 10.000
+Title_8.TextTransparency = 0.300
+Title_8.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_7.Name = "Button_7"
+Button_7.Parent = Bottom_Container
+Button_7.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_7.BorderSizePixel = 0
+Button_7.LayoutOrder = 1
+Button_7.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_7.Size = UDim2.new(1, 0, 0, 26)
+Button_7.AutoButtonColor = false
+Button_7.Font = Enum.Font.Gotham
+Button_7.Text = ""
+Button_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_7.TextSize = 14.000
+Button_7.MouseButton1Down:connect(function()
+
+
+	local cf =game:GetService("Workspace").Cars["2019 Kia Telluride Mesh Car"].CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	wait(0)
+	local cf =game:GetService("Workspace").Cars["2019 Kia Telluride Mesh Car"].CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	---------------
+	--Hit By Kia
+	--------------
+end)
+
+Title_9.Name = "Title"
+Title_9.Parent = Button_7
+Title_9.AnchorPoint = Vector2.new(0, 0.5)
+Title_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_9.BackgroundTransparency = 1.000
+Title_9.Position = UDim2.new(0, 8, 0.5, 0)
+Title_9.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_9.Font = Enum.Font.Gotham
+Title_9.Text = "DIE BY KIA"
+Title_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_9.TextSize = 10.000
+Title_9.TextTransparency = 0.300
+Title_9.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_8.Name = "Button_8"
+Button_8.Parent = Bottom_Container
+Button_8.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_8.BorderSizePixel = 0
+Button_8.LayoutOrder = 1
+Button_8.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_8.Size = UDim2.new(1, 0, 0, 26)
+Button_8.AutoButtonColor = false
+Button_8.Font = Enum.Font.Gotham
+Button_8.Text = ""
+Button_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_8.TextSize = 14.000
+Button_8.MouseButton1Down:connect(function()
+
+
+
+	local cf =game:GetService("Workspace").Cars["Polestar 1 Mesh Car"].CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	wait(0)
+	local cf =game:GetService("Workspace").Cars["Polestar 1 Mesh Car"].CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	wait(0)
+	local cf =game:GetService("Workspace").Cars["Polestar 1 Mesh Car"].CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+
+	--------------------
+	--Hit By Polestar Car
+	---------------------
+end)
+
+Title_10.Name = "Title"
+Title_10.Parent = Button_8
+Title_10.AnchorPoint = Vector2.new(0, 0.5)
+Title_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_10.BackgroundTransparency = 1.000
+Title_10.Position = UDim2.new(0, 8, 0.5, 0)
+Title_10.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_10.Font = Enum.Font.Gotham
+Title_10.Text = "DIE BY POLESTAR"
+Title_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_10.TextSize = 10.000
+Title_10.TextTransparency = 0.300
+Title_10.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_9.Name = "Button_9"
+Button_9.Parent = Bottom_Container
+Button_9.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_9.BorderSizePixel = 0
+Button_9.LayoutOrder = 1
+Button_9.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_9.Size = UDim2.new(1, 0, 0, 26)
+Button_9.AutoButtonColor = false
+Button_9.Font = Enum.Font.Gotham
+Button_9.Text = ""
+Button_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_9.TextSize = 14.000
+Button_9.MouseButton1Down:connect(function()
+
+
+	local cf =game:GetService("Workspace").Cars.Car3.CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	wait(0)
+	local cf =game:GetService("Workspace").Cars.Car3.CFrame ------- make sure .Cframe is behind the part so it can tween
+	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0), {CFrame = cf})                    
+	tween:Play()
+	---------------
+	--Hit By Car 4
+	----------------
+end)
+
+Title_11.Name = "Title"
+Title_11.Parent = Button_9
+Title_11.AnchorPoint = Vector2.new(0, 0.5)
+Title_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_11.BackgroundTransparency = 1.000
+Title_11.Position = UDim2.new(0, 8, 0.5, 0)
+Title_11.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_11.Font = Enum.Font.Gotham
+Title_11.Text = "DIE BY CAR-4"
+Title_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_11.TextSize = 10.000
+Title_11.TextTransparency = 0.300
+Title_11.TextXAlignment = Enum.TextXAlignment.Left
+
+ImageLabel.Parent = Main_2
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.Size = UDim2.new(0, 395, 0, 392)
+ImageLabel.ZIndex = 0
+ImageLabel.Image = "rbxassetid://8403538736"
+ImageLabel.ImageColor3 = Color3.fromRGB(173, 173, 173)
+
+ImageLabel_2.Parent = Main_2
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BackgroundTransparency = 1.000
+ImageLabel_2.BorderSizePixel = 0
+ImageLabel_2.Position = UDim2.new(0, 0, 0.0128865978, 0)
+ImageLabel_2.Size = UDim2.new(0, 51, 0, 52)
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=10351144577"
+
+Main.Name = "Main"
+Main.Parent = Ui_penis
+Main.BackgroundColor3 = Color3.fromRGB(23, 21, 30)
+Main.BorderSizePixel = 0
+Main.Position = UDim2.new(0.0198420752, 0, 0.198272318, 0)
+Main.Size = UDim2.new(0, 395, 0, 388)
+Main.Draggable = true
+Main.Active = true
+
+Glow_2.Name = "Glow"
+Glow_2.Parent = Main
+Glow_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Glow_2.BackgroundTransparency = 1.000
+Glow_2.BorderSizePixel = 0
+Glow_2.Position = UDim2.new(0, -15, 0, -15)
+Glow_2.Size = UDim2.new(1, 30, 1, 30)
+Glow_2.ZIndex = 0
+Glow_2.Image = "rbxassetid://4996891970"
+Glow_2.ImageColor3 = Color3.fromRGB(255, 176, 111)
+Glow_2.ScaleType = Enum.ScaleType.Slice
+Glow_2.SliceCenter = Rect.new(20, 20, 280, 280)
+
+Top_Container_2.Name = "Top_Container"
+Top_Container_2.Parent = Main
+Top_Container_2.AnchorPoint = Vector2.new(0.5, 0)
+Top_Container_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Top_Container_2.BackgroundTransparency = 1.000
+Top_Container_2.Position = UDim2.new(0.5, 0, 0, 18)
+Top_Container_2.Size = UDim2.new(1, -40, 0, 20)
+
+Title_12.Name = "Title"
+Title_12.Parent = Top_Container_2
+Title_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_12.BackgroundTransparency = 1.000
+Title_12.Position = UDim2.new(0, 0, -0.049999997, 0)
+Title_12.Size = UDim2.new(1, 0, 1, 0)
+Title_12.Font = Enum.Font.GothamBlack
+Title_12.Text = "Roblox Game: Fall 🎃"
+Title_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_12.TextSize = 20.000
+Title_12.TextXAlignment = Enum.TextXAlignment.Left
+
+Tab_Container_2.Name = "Tab_Container"
+Tab_Container_2.Parent = Top_Container_2
+Tab_Container_2.AnchorPoint = Vector2.new(1, 0)
+Tab_Container_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Tab_Container_2.BackgroundTransparency = 1.000
+Tab_Container_2.Position = UDim2.new(1, 0, 0, 0)
+Tab_Container_2.Size = UDim2.new(1, 0, 1, 0)
+
+List_3.Name = "List"
+List_3.Parent = Tab_Container_2
+List_3.FillDirection = Enum.FillDirection.Horizontal
+List_3.HorizontalAlignment = Enum.HorizontalAlignment.Right
+List_3.SortOrder = Enum.SortOrder.LayoutOrder
+List_3.Padding = UDim.new(0, 14)
+
+Title_13.Name = "Title"
+Title_13.Parent = Top_Container_2
+Title_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_13.BackgroundTransparency = 1.000
+Title_13.Position = UDim2.new(0, 0, 1, 0)
+Title_13.Size = UDim2.new(0.563380301, 0, 1, 0)
+Title_13.Font = Enum.Font.GothamBlack
+Title_13.Text = "By CandyLean#2645"
+Title_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_13.TextSize = 20.000
+Title_13.TextXAlignment = Enum.TextXAlignment.Left
+
+Scroll_2.Name = "Scroll"
+Scroll_2.Parent = Main
+Scroll_2.Active = true
+Scroll_2.AnchorPoint = Vector2.new(0.5, 0)
+Scroll_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scroll_2.BackgroundTransparency = 1.000
+Scroll_2.BorderSizePixel = 0
+Scroll_2.Position = UDim2.new(0.5, 4, 0, 59)
+Scroll_2.Size = UDim2.new(1, -20, 1, -77)
+Scroll_2.BottomImage = "rbxassetid://5234388158"
+Scroll_2.CanvasPosition = Vector2.new(0, 139)
+Scroll_2.CanvasSize = UDim2.new(0, 0, 0, 450)
+Scroll_2.MidImage = "rbxassetid://5234388158"
+Scroll_2.ScrollBarThickness = 6
+Scroll_2.TopImage = "rbxassetid://5234388158"
+
+Bottom_Container_2.Name = "Bottom_Container"
+Bottom_Container_2.Parent = Scroll_2
+Bottom_Container_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Bottom_Container_2.BackgroundTransparency = 1.000
+Bottom_Container_2.Size = UDim2.new(1, -11, 1, 0)
+
+List_4.Name = "List"
+List_4.Parent = Bottom_Container_2
+List_4.SortOrder = Enum.SortOrder.LayoutOrder
+List_4.Padding = UDim.new(0, 4)
+
+Button_1_2.Name = "Button_1"
+Button_1_2.Parent = Bottom_Container_2
+Button_1_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_1_2.BorderSizePixel = 0
+Button_1_2.LayoutOrder = 1
+Button_1_2.Size = UDim2.new(1, 0, 0, 26)
+Button_1_2.AutoButtonColor = false
+Button_1_2.Font = Enum.Font.SourceSans
+Button_1_2.Text = ""
+Button_1_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_1_2.TextSize = 14.000
+Button_1_2.MouseButton1Down:connect(function()
+
+
+	game.Players.LocalPlayer.Character.Humanoid.Changed:Connect(function(property)
+		if property == "Health" then
+			game.Players.LocalPlayer.Character.Humanoid.Health = 100
+		end
+	end)
+end)
+
+Title_14.Name = "Title"
+Title_14.Parent = Button_1_2
+Title_14.AnchorPoint = Vector2.new(0, 0.5)
+Title_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_14.BackgroundTransparency = 1.000
+Title_14.Position = UDim2.new(0, 8, 0.5, 0)
+Title_14.Size = UDim2.new(0, 49, 1, -8)
+Title_14.Font = Enum.Font.Gotham
+Title_14.Text = "GODMODE"
+Title_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_14.TextSize = 10.000
+Title_14.TextTransparency = 0.300
+Title_14.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_2_2.Name = "Button_2"
+Button_2_2.Parent = Bottom_Container_2
+Button_2_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_2_2.BorderSizePixel = 0
+Button_2_2.LayoutOrder = 1
+Button_2_2.Size = UDim2.new(1, 0, 0, 26)
+Button_2_2.AutoButtonColor = false
+Button_2_2.Font = Enum.Font.SourceSans
+Button_2_2.Text = ""
+Button_2_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_2_2.TextSize = 14.000
+Button_2_2.MouseButton1Down:connect(function()
+
+
+	local MessageBox = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/NotificationGUI/main/source.lua"))()
+	-------
+	MessageBox.Show({Position = UDim2.new(0.5,0,0.5,0), Text = "Notification :3", Description = "Pop Up Message\nMade by : CandyLean\n \nFlying Script?", MessageBoxIcon = "Question", MessageBoxButtons = "YesNo", Result = function(res)
+		if (res == "Yes") then
+			MessageBox.Show({MessageBoxButtons = "OK", Description = "Wow, you said Yes! Command is [ E ]", Text = "Noice!"})
+		elseif (res == "No") then
+			MessageBox.Show({MessageBoxButtons = "OK", Description = "Ahh, Well To Bad, Command is Comma [ E ] ", Text = "Dam Fr"})
+		end
+	end})
+	-----
+
+
+	local Speed = 150
+
+
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/LegitH3x0R/Roblox-Scripts/main/AEBypassing/RootAnchor.lua"))()
+	local UIS = game:GetService("UserInputService")
+	local OnRender = game:GetService("RunService").RenderStepped
+
+	local Player = game:GetService("Players").LocalPlayer
+	local Character = Player.Character or Player.CharacterAdded:Wait()
+
+	local Camera = workspace.CurrentCamera
+	local Root = Character:WaitForChild("HumanoidRootPart")
+
+	local C1, C2, C3;
+	local Nav = {Flying = false, Forward = false, Backward = false, Left = false, Right = false}
+	C1 = UIS.InputBegan:Connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.Keyboard then
+			if Input.KeyCode == Enum.KeyCode.E then
+				Nav.Flying = not Nav.Flying
+				Root.Anchored = Nav.Flying
+			elseif Input.KeyCode == Enum.KeyCode.W then
+				Nav.Forward = true
+			elseif Input.KeyCode == Enum.KeyCode.S then
+				Nav.Backward = true
+			elseif Input.KeyCode == Enum.KeyCode.A then
+				Nav.Left = true
+			elseif Input.KeyCode == Enum.KeyCode.D then
+				Nav.Right = true
+			end
+		end
+	end)
+
+	C2 = UIS.InputEnded:Connect(function(Input)
+		if Input.UserInputType == Enum.UserInputType.Keyboard then
+			if Input.KeyCode == Enum.KeyCode.W then
+				Nav.Forward = false
+			elseif Input.KeyCode == Enum.KeyCode.S then
+				Nav.Backward = false
+			elseif Input.KeyCode == Enum.KeyCode.A then
+				Nav.Left = false
+			elseif Input.KeyCode == Enum.KeyCode.D then
+				Nav.Right = false
+			end
+		end
+	end)
+
+	C3 = Camera:GetPropertyChangedSignal("CFrame"):Connect(function()
+		if Nav.Flying then
+			Root.CFrame = CFrame.new(Root.CFrame.Position, Root.CFrame.Position + Camera.CFrame.LookVector)
+		end
+	end)
+
+	while true do -- not EndAll
+		local Delta = OnRender:Wait()
+		if Nav.Flying then
+			if Nav.Forward then
+				Root.CFrame = Root.CFrame + (Camera.CFrame.LookVector * (Delta * Speed))
+			end
+			if Nav.Backward then
+				Root.CFrame = Root.CFrame + (-Camera.CFrame.LookVector * (Delta * Speed))
+			end
+			if Nav.Left then
+				Root.CFrame = Root.CFrame + (-Camera.CFrame.RightVector * (Delta * Speed))
+			end
+			if Nav.Right then
+				Root.CFrame = Root.CFrame + (Camera.CFrame.RightVector * (Delta * Speed))
+			end
+		end
+	end
+
+--[[C1:Disconnect()
+C2:Disconnect()
+C3:Disconnect()
+if Nav.Flying then
+    Root.Anchored = false
+end]]
+	----------
+	--FreeFly
+	----------
+end)
+
+Title_15.Name = "Title"
+Title_15.Parent = Button_2_2
+Title_15.AnchorPoint = Vector2.new(0, 0.5)
+Title_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_15.BackgroundTransparency = 1.000
+Title_15.Position = UDim2.new(0, 8, 0.5, 0)
+Title_15.Size = UDim2.new(0, 49, 1, -8)
+Title_15.Font = Enum.Font.Gotham
+Title_15.Text = "FREE FLYING"
+Title_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_15.TextSize = 10.000
+Title_15.TextTransparency = 0.300
+Title_15.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_3_2.Name = "Button_3"
+Button_3_2.Parent = Bottom_Container_2
+Button_3_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_3_2.BorderSizePixel = 0
+Button_3_2.LayoutOrder = 1
+Button_3_2.Size = UDim2.new(1, 0, 0, 26)
+Button_3_2.AutoButtonColor = false
+Button_3_2.Font = Enum.Font.SourceSans
+Button_3_2.Text = ""
+Button_3_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_3_2.TextSize = 14.000
+Button_3_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/4LgNFTix", true))()
+end)
+
+Title_16.Name = "Title"
+Title_16.Parent = Button_3_2
+Title_16.AnchorPoint = Vector2.new(0, 0.5)
+Title_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_16.BackgroundTransparency = 1.000
+Title_16.Position = UDim2.new(0, 8, 0.5, 0)
+Title_16.Size = UDim2.new(0, 49, 1, -8)
+Title_16.Font = Enum.Font.Gotham
+Title_16.Text = "FAST PICKUP ITEMS / FAST PRESS"
+Title_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_16.TextSize = 10.000
+Title_16.TextTransparency = 0.300
+Title_16.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_4_2.Name = "Button_4"
+Button_4_2.Parent = Bottom_Container_2
+Button_4_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_4_2.BorderSizePixel = 0
+Button_4_2.LayoutOrder = 1
+Button_4_2.Size = UDim2.new(1, 0, 0, 26)
+Button_4_2.AutoButtonColor = false
+Button_4_2.Font = Enum.Font.SourceSans
+Button_4_2.Text = ""
+Button_4_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_4_2.TextSize = 14.000
+Button_4_2.MouseButton1Down:connect(function()
+
+
+	local MessageBox = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/NotificationGUI/main/source.lua"))()
+	-------
+	MessageBox.Show({Position = UDim2.new(0.5,0,0.5,0), Text = "Notification :3", Description = "Pop Up Message\nMade by : CandyLean\n \nUsing Emote Script?", MessageBoxIcon = "Question", MessageBoxButtons = "YesNo", Result = function(res)
+		if (res == "Yes") then
+			MessageBox.Show({MessageBoxButtons = "OK", Description = "Wow, you said Yes! Command is Comma [ , ]", Text = "Okie!"})
+		elseif (res == "No") then
+			MessageBox.Show({MessageBoxButtons = "OK", Description = "Ahh, Well To Bad, Command is Comma [ , ] ", Text = "Dam Fr"})
+		end
+	end})
+	------
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Gi7331/scripts/main/Emote.lua"))()
+	-------------------
+	--All Free Emotes
+	-------------------
+end)
+
+Title_17.Name = "Title"
+Title_17.Parent = Button_4_2
+Title_17.AnchorPoint = Vector2.new(0, 0.5)
+Title_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_17.BackgroundTransparency = 1.000
+Title_17.Position = UDim2.new(0, 8, 0.5, 0)
+Title_17.Size = UDim2.new(0, 49, 1, -8)
+Title_17.Font = Enum.Font.Gotham
+Title_17.Text = "FREE COMMANDS ALL EMOTES"
+Title_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_17.TextSize = 10.000
+Title_17.TextTransparency = 0.300
+Title_17.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_5_2.Name = "Button_5"
+Button_5_2.Parent = Bottom_Container_2
+Button_5_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_5_2.BorderSizePixel = 0
+Button_5_2.LayoutOrder = 1
+Button_5_2.Size = UDim2.new(1, 0, 0, 26)
+Button_5_2.AutoButtonColor = false
+Button_5_2.Font = Enum.Font.SourceSans
+Button_5_2.Text = ""
+Button_5_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_5_2.TextSize = 14.000
+Button_5_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/loqZgIjKkijW/raw", true))()
+end)
+
+Title_18.Name = "Title"
+Title_18.Parent = Button_5_2
+Title_18.AnchorPoint = Vector2.new(0, 0.5)
+Title_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_18.BackgroundTransparency = 1.000
+Title_18.Position = UDim2.new(0, 8, 0.5, 0)
+Title_18.Size = UDim2.new(0, 49, 1, -8)
+Title_18.Font = Enum.Font.Gotham
+Title_18.Text = "HIDE USERNAME / SPOOF USERNAME"
+Title_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_18.TextSize = 10.000
+Title_18.TextTransparency = 0.300
+Title_18.TextXAlignment = Enum.TextXAlignment.Left
+
+ButtonTEXT.Name = "ButtonTEXT"
+ButtonTEXT.Parent = Bottom_Container_2
+ButtonTEXT.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+ButtonTEXT.BorderSizePixel = 0
+ButtonTEXT.LayoutOrder = 1
+ButtonTEXT.Size = UDim2.new(1, 0, 0, 26)
+ButtonTEXT.AutoButtonColor = false
+ButtonTEXT.Font = Enum.Font.Gotham
+ButtonTEXT.Text = "TELEPORTING"
+ButtonTEXT.TextColor3 = Color3.fromRGB(255, 255, 255)
+ButtonTEXT.TextSize = 14.000
+
+Title_19.Name = "Title"
+Title_19.Parent = ButtonTEXT
+Title_19.AnchorPoint = Vector2.new(0, 0.5)
+Title_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_19.BackgroundTransparency = 1.000
+Title_19.Position = UDim2.new(0, 8, 0.5, 0)
+Title_19.Size = UDim2.new(0.8186813, 49, 1, -8)
+Title_19.Font = Enum.Font.Gotham
+Title_19.Text = ""
+Title_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_19.TextSize = 10.000
+Title_19.TextTransparency = 0.300
+Title_19.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_6_2.Name = "Button_6"
+Button_6_2.Parent = Bottom_Container_2
+Button_6_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_6_2.BorderSizePixel = 0
+Button_6_2.LayoutOrder = 1
+Button_6_2.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_6_2.Size = UDim2.new(1, 0, 0, 26)
+Button_6_2.AutoButtonColor = false
+Button_6_2.Font = Enum.Font.Gotham
+Button_6_2.Text = ""
+Button_6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_6_2.TextSize = 14.000
+Button_6_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/sQ8lPMjEvlCn/raw", true))()
+end)
+
+Title_20.Name = "Title"
+Title_20.Parent = Button_6_2
+Title_20.AnchorPoint = Vector2.new(0, 0.5)
+Title_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_20.BackgroundTransparency = 1.000
+Title_20.Position = UDim2.new(0, 8, 0.5, 0)
+Title_20.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_20.Font = Enum.Font.Gotham
+Title_20.Text = "WIN TOWER"
+Title_20.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_20.TextSize = 10.000
+Title_20.TextTransparency = 0.300
+Title_20.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_7_2.Name = "Button_7"
+Button_7_2.Parent = Bottom_Container_2
+Button_7_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_7_2.BorderSizePixel = 0
+Button_7_2.LayoutOrder = 1
+Button_7_2.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_7_2.Size = UDim2.new(1, 0, 0, 26)
+Button_7_2.AutoButtonColor = false
+Button_7_2.Font = Enum.Font.Gotham
+Button_7_2.Text = ""
+Button_7_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_7_2.TextSize = 14.000
+Button_7_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/Ub3Owvf9ECbR/raw", true))()
+end)
+
+Title_21.Name = "Title"
+Title_21.Parent = Button_7_2
+Title_21.AnchorPoint = Vector2.new(0, 0.5)
+Title_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_21.BackgroundTransparency = 1.000
+Title_21.Position = UDim2.new(0, 8, 0.5, 0)
+Title_21.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_21.Font = Enum.Font.Gotham
+Title_21.Text = "WIN TOWER ROLEPLAY"
+Title_21.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_21.TextSize = 10.000
+Title_21.TextTransparency = 0.300
+Title_21.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_8_2.Name = "Button_8"
+Button_8_2.Parent = Bottom_Container_2
+Button_8_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_8_2.BorderSizePixel = 0
+Button_8_2.LayoutOrder = 1
+Button_8_2.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_8_2.Size = UDim2.new(1, 0, 0, 26)
+Button_8_2.AutoButtonColor = false
+Button_8_2.Font = Enum.Font.Gotham
+Button_8_2.Text = ""
+Button_8_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_8_2.TextSize = 14.000
+Button_8_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/UVcNdJcHtcLB/raw", true))()
+end)
+
+Title_22.Name = "Title"
+Title_22.Parent = Button_8_2
+Title_22.AnchorPoint = Vector2.new(0, 0.5)
+Title_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_22.BackgroundTransparency = 1.000
+Title_22.Position = UDim2.new(0, 8, 0.5, 0)
+Title_22.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_22.Font = Enum.Font.Gotham
+Title_22.Text = "WIN TWICE OBBY'S"
+Title_22.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_22.TextSize = 10.000
+Title_22.TextTransparency = 0.300
+Title_22.TextXAlignment = Enum.TextXAlignment.Left
+
+ButtonTEXTv2.Name = "ButtonTEXTv2"
+ButtonTEXTv2.Parent = Bottom_Container_2
+ButtonTEXTv2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+ButtonTEXTv2.BorderSizePixel = 0
+ButtonTEXTv2.LayoutOrder = 1
+ButtonTEXTv2.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+ButtonTEXTv2.Size = UDim2.new(1, 0, 0, 26)
+ButtonTEXTv2.AutoButtonColor = false
+ButtonTEXTv2.Font = Enum.Font.Gotham
+ButtonTEXTv2.Text = "ITEMS"
+ButtonTEXTv2.TextColor3 = Color3.fromRGB(255, 255, 255)
+ButtonTEXTv2.TextSize = 14.000
+
+Title_23.Name = "Title"
+Title_23.Parent = ButtonTEXTv2
+Title_23.AnchorPoint = Vector2.new(0, 0.5)
+Title_23.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_23.BackgroundTransparency = 1.000
+Title_23.Position = UDim2.new(0, 8, 0.5, 0)
+Title_23.Size = UDim2.new(0.835164845, 49, 1, -8)
+Title_23.Font = Enum.Font.Gotham
+Title_23.Text = ""
+Title_23.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_23.TextSize = 10.000
+Title_23.TextTransparency = 0.300
+Title_23.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_9_2.Name = "Button_9"
+Button_9_2.Parent = Bottom_Container_2
+Button_9_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_9_2.BorderSizePixel = 0
+Button_9_2.LayoutOrder = 1
+Button_9_2.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_9_2.Size = UDim2.new(1, 0, 0, 26)
+Button_9_2.AutoButtonColor = false
+Button_9_2.Font = Enum.Font.Gotham
+Button_9_2.Text = ""
+Button_9_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_9_2.TextSize = 14.000
+Button_9_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/Qsm8sW6Sasqu/raw", true))()
+end)
+
+Title_24.Name = "Title"
+Title_24.Parent = Button_9_2
+Title_24.AnchorPoint = Vector2.new(0, 0.5)
+Title_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_24.BackgroundTransparency = 1.000
+Title_24.Position = UDim2.new(0, 8, 0.5, 0)
+Title_24.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_24.Font = Enum.Font.Gotham
+Title_24.Text = "BACKPACK TELEPORT"
+Title_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_24.TextSize = 10.000
+Title_24.TextTransparency = 0.300
+Title_24.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_10.Name = "Button_10"
+Button_10.Parent = Bottom_Container_2
+Button_10.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_10.BorderSizePixel = 0
+Button_10.LayoutOrder = 1
+Button_10.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_10.Size = UDim2.new(1, 0, 0, 26)
+Button_10.AutoButtonColor = false
+Button_10.Font = Enum.Font.Gotham
+Button_10.Text = ""
+Button_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_10.TextSize = 14.000
+Button_10.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/40hXTsc68SNx/raw", true))()
+end)
+
+Title_25.Name = "Title"
+Title_25.Parent = Button_10
+Title_25.AnchorPoint = Vector2.new(0, 0.5)
+Title_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_25.BackgroundTransparency = 1.000
+Title_25.Position = UDim2.new(0, 8, 0.5, 0)
+Title_25.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_25.Font = Enum.Font.Gotham
+Title_25.Text = "DRONE TELEPORT"
+Title_25.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_25.TextSize = 10.000
+Title_25.TextTransparency = 0.300
+Title_25.TextXAlignment = Enum.TextXAlignment.Left
+
+ButtonTEXTv3.Name = "ButtonTEXTv3"
+ButtonTEXTv3.Parent = Bottom_Container_2
+ButtonTEXTv3.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+ButtonTEXTv3.BorderSizePixel = 0
+ButtonTEXTv3.LayoutOrder = 1
+ButtonTEXTv3.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+ButtonTEXTv3.Size = UDim2.new(1, 0, 0, 26)
+ButtonTEXTv3.AutoButtonColor = false
+ButtonTEXTv3.Font = Enum.Font.Gotham
+ButtonTEXTv3.Text = "CHARACTERS"
+ButtonTEXTv3.TextColor3 = Color3.fromRGB(255, 255, 255)
+ButtonTEXTv3.TextSize = 14.000
+
+Title_26.Name = "Title"
+Title_26.Parent = ButtonTEXTv3
+Title_26.AnchorPoint = Vector2.new(0, 0.5)
+Title_26.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_26.BackgroundTransparency = 1.000
+Title_26.Position = UDim2.new(0, 8, 0.5, 0)
+Title_26.Size = UDim2.new(0.835164845, 49, 1, -8)
+Title_26.Font = Enum.Font.Gotham
+Title_26.Text = ""
+Title_26.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_26.TextSize = 10.000
+Title_26.TextTransparency = 0.300
+Title_26.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_11.Name = "Button_11"
+Button_11.Parent = Bottom_Container_2
+Button_11.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_11.BorderSizePixel = 0
+Button_11.LayoutOrder = 1
+Button_11.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_11.Size = UDim2.new(1, 0, 0, 26)
+Button_11.AutoButtonColor = false
+Button_11.Font = Enum.Font.Gotham
+Button_11.Text = ""
+Button_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_11.TextSize = 14.000
+Button_11.MouseButton1Down:connect(function()
+
+	local args = {
+		[1] = "BeckyChar"
+	}
+
+	game:GetService("ReplicatedStorage").ChangePlayerCharacter:FireServer(unpack(args))
+	-----------------
+	--Becky Character
+	------------------
+end)
+
+Title_27.Name = "Title"
+Title_27.Parent = Button_11
+Title_27.AnchorPoint = Vector2.new(0, 0.5)
+Title_27.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_27.BackgroundTransparency = 1.000
+Title_27.Position = UDim2.new(0, 8, 0.5, 0)
+Title_27.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_27.Font = Enum.Font.Gotham
+Title_27.Text = "BECKY CHARACTER"
+Title_27.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_27.TextSize = 10.000
+Title_27.TextTransparency = 0.300
+Title_27.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_12.Name = "Button_12"
+Button_12.Parent = Bottom_Container_2
+Button_12.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_12.BorderSizePixel = 0
+Button_12.LayoutOrder = 1
+Button_12.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_12.Size = UDim2.new(1, 0, 0, 26)
+Button_12.AutoButtonColor = false
+Button_12.Font = Enum.Font.Gotham
+Button_12.Text = ""
+Button_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_12.TextSize = 14.000
+Button_12.MouseButton1Down:connect(function()
+
+	local args = {
+		[1] = "HunterChar"
+	}
+
+	game:GetService("ReplicatedStorage").ChangePlayerCharacter:FireServer(unpack(args))
+	-------------------
+	--Hunter Character
+	-------------------
+end)
+
+Title_28.Name = "Title"
+Title_28.Parent = Button_12
+Title_28.AnchorPoint = Vector2.new(0, 0.5)
+Title_28.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_28.BackgroundTransparency = 1.000
+Title_28.Position = UDim2.new(0, 8, 0.5, 0)
+Title_28.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_28.Font = Enum.Font.Gotham
+Title_28.Text = "HUNTER CHARACTER"
+Title_28.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_28.TextSize = 10.000
+Title_28.TextTransparency = 0.300
+Title_28.TextXAlignment = Enum.TextXAlignment.Left
+
+ImageLabel_3.Parent = Main
+ImageLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_3.Size = UDim2.new(0, 395, 0, 388)
+ImageLabel_3.ZIndex = 0
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=11178049966"
+ImageLabel_3.ImageColor3 = Color3.fromRGB(207, 137, 90)
+
+ImageLabel_4.Parent = Main
+ImageLabel_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ImageLabel_4.BackgroundTransparency = 1.000
+ImageLabel_4.Position = UDim2.new(0.74683547, 0, -0.0386597924, 0)
+ImageLabel_4.Size = UDim2.new(0, 100, 0, 100)
+ImageLabel_4.Image = "http://www.roblox.com/asset/?id=4118541709"
+ImageLabel_4.ImageColor3 = Color3.fromRGB(0, 0, 0)
