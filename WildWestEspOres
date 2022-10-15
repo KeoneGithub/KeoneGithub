@@ -1,7 +1,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-	Title = "[Press L to reset ore esp] Starter Ore Finder By CandyLean#2645",
+	Title = "[Press L to reset ore esp] Starter Ore Finder",
 	Style = 3,
 	SizeX = 500,
 	SizeY = 350,
