@@ -3,12 +3,12 @@
 
 
   ^~^  ,                                    
- ('Y') )        Updated At v1.1.66                            
- /   \/  »»» 𝗟𝗲𝗮𝗻𝗦𝗹𝗮𝘆𝗲𝗿 -- By 𝗖𝗮𝗻𝗱𝘆𝗟𝗲𝗮𝗻#𝟮𝟲𝟰𝟱
+ ('Y') )        Updated At [UPDATE 1] DEC 4th                          
+ /   \/  »»» SLAYER LEAN -- By 𝗖𝗮𝗻𝗱𝘆𝗟𝗲𝗮𝗻#𝟮𝟲𝟰𝟱
 (\|||/)                               
    
                 
-                Discord.gg/scriptcity                                   
+                Discord.gg/ve8uSveEBV                                   
 --]]
 
 
@@ -419,2043 +419,1329 @@
 
 
 
-local ScreenGui = Instance.new("ScreenGui")
-local MainBar = Instance.new("Frame")
-local Page = Instance.new("ScrollingFrame")
-local PageName = Instance.new("TextLabel")
-local About = Instance.new("TextLabel")
-local ColorBar = Instance.new("Frame")
-local UIGradient = Instance.new("UIGradient")
-local Button2 = Instance.new("TextButton")
-local UICorner = Instance.new("UICorner")
-local About_2 = Instance.new("TextLabel")
-local Button1 = Instance.new("TextButton")
-local UICorner_2 = Instance.new("UICorner")
-local About_3 = Instance.new("TextLabel")
-local Button3 = Instance.new("TextButton")
-local UICorner_3 = Instance.new("UICorner")
-local About_4 = Instance.new("TextLabel")
-local Button4 = Instance.new("TextButton")
-local UICorner_4 = Instance.new("UICorner")
-local About_5 = Instance.new("TextLabel")
-local Button5 = Instance.new("TextButton")
-local UICorner_5 = Instance.new("UICorner")
-local About_6 = Instance.new("TextLabel")
-local Button30 = Instance.new("TextButton")
-local UICorner_6 = Instance.new("UICorner")
-local About_7 = Instance.new("TextLabel")
-local Button6 = Instance.new("TextButton")
-local UICorner_7 = Instance.new("UICorner")
-local About_8 = Instance.new("TextLabel")
-local Button7 = Instance.new("TextButton")
-local UICorner_8 = Instance.new("UICorner")
-local About_9 = Instance.new("TextLabel")
-local Button8 = Instance.new("TextButton")
-local UICorner_9 = Instance.new("UICorner")
-local About_10 = Instance.new("TextLabel")
-local Button9 = Instance.new("TextButton")
-local UICorner_10 = Instance.new("UICorner")
-local About_11 = Instance.new("TextLabel")
-local Button10 = Instance.new("TextButton")
-local UICorner_11 = Instance.new("UICorner")
-local About_12 = Instance.new("TextLabel")
-local Page1FarmShitBar = Instance.new("Frame")
-local UIGradient_2 = Instance.new("UIGradient")
-local TextLabel = Instance.new("TextLabel")
-local TextLabel_2 = Instance.new("TextLabel")
-local TextLabel_3 = Instance.new("TextLabel")
-local Button11 = Instance.new("TextButton")
-local UICorner_12 = Instance.new("UICorner")
-local About_13 = Instance.new("TextLabel")
-local Button12 = Instance.new("TextButton")
-local UICorner_13 = Instance.new("UICorner")
-local About_14 = Instance.new("TextLabel")
-local Button13 = Instance.new("TextButton")
-local UICorner_14 = Instance.new("UICorner")
-local About_15 = Instance.new("TextLabel")
-local Button14 = Instance.new("TextButton")
-local UICorner_15 = Instance.new("UICorner")
-local About_16 = Instance.new("TextLabel")
-local Button15 = Instance.new("TextButton")
-local UICorner_16 = Instance.new("UICorner")
-local About_17 = Instance.new("TextLabel")
-local Button16 = Instance.new("TextButton")
-local UICorner_17 = Instance.new("UICorner")
-local About_18 = Instance.new("TextLabel")
-local Button17 = Instance.new("TextButton")
-local UICorner_18 = Instance.new("UICorner")
-local About_19 = Instance.new("TextLabel")
-local Button18 = Instance.new("TextButton")
-local UICorner_19 = Instance.new("UICorner")
-local About_20 = Instance.new("TextLabel")
-local Button19 = Instance.new("TextButton")
-local UICorner_20 = Instance.new("UICorner")
-local About_21 = Instance.new("TextLabel")
-local Button20 = Instance.new("TextButton")
-local UICorner_21 = Instance.new("UICorner")
-local About_22 = Instance.new("TextLabel")
-local Button21 = Instance.new("TextButton")
-local UICorner_22 = Instance.new("UICorner")
-local Button22 = Instance.new("TextButton")
-local UICorner_23 = Instance.new("UICorner")
-local Button23 = Instance.new("TextButton")
-local UICorner_24 = Instance.new("UICorner")
-local Button24 = Instance.new("TextButton")
-local UICorner_25 = Instance.new("UICorner")
-local About_23 = Instance.new("TextLabel")
-local Button25 = Instance.new("TextButton")
-local UICorner_26 = Instance.new("UICorner")
-local About_24 = Instance.new("TextLabel")
-local Page1FarmShitBar_2 = Instance.new("Frame")
-local UIGradient_3 = Instance.new("UIGradient")
-local TextLabel_4 = Instance.new("TextLabel")
-local TextLabel_5 = Instance.new("TextLabel")
-local TextLabel_6 = Instance.new("TextLabel")
-local Button26 = Instance.new("TextButton")
-local UICorner_27 = Instance.new("UICorner")
-local About_25 = Instance.new("TextLabel")
-local Button27 = Instance.new("TextButton")
-local UICorner_28 = Instance.new("UICorner")
-local About_26 = Instance.new("TextLabel")
-local Button28 = Instance.new("TextButton")
-local UICorner_29 = Instance.new("UICorner")
-local About_27 = Instance.new("TextLabel")
-local Button29 = Instance.new("TextButton")
-local UICorner_30 = Instance.new("UICorner")
-local About_28 = Instance.new("TextLabel")
-local TextLabel_7 = Instance.new("TextLabel")
-local TextLabel_8 = Instance.new("TextLabel")
-local ImageButton = Instance.new("ImageButton")
-local TextButton = Instance.new("TextButton")
-local BottomBar = Instance.new("Frame")
-local TextLabel_9 = Instance.new("TextLabel")
-local TextBox = Instance.new("TextBox")
-local Helder = Instance.new("Frame")
-local Page1b = Instance.new("TextButton")
-local UICorner_31 = Instance.new("UICorner")
-local Page2b = Instance.new("TextButton")
-local UICorner_32 = Instance.new("UICorner")
-local UIListLayout = Instance.new("UIListLayout")
-local Page2 = Instance.new("ScrollingFrame")
-local PageName_2 = Instance.new("TextLabel")
-local About_29 = Instance.new("TextLabel")
-local ColorBar_2 = Instance.new("Frame")
-local UIGradient_4 = Instance.new("UIGradient")
-local Button2_2 = Instance.new("TextButton")
-local UICorner_33 = Instance.new("UICorner")
-local About_30 = Instance.new("TextLabel")
-local Button1_2 = Instance.new("TextButton")
-local UICorner_34 = Instance.new("UICorner")
-local About_31 = Instance.new("TextLabel")
-local Button3_2 = Instance.new("TextButton")
-local UICorner_35 = Instance.new("UICorner")
-local About_32 = Instance.new("TextLabel")
-local Button4_2 = Instance.new("TextButton")
-local UICorner_36 = Instance.new("UICorner")
-local About_33 = Instance.new("TextLabel")
-local Button5_2 = Instance.new("TextButton")
-local UICorner_37 = Instance.new("UICorner")
-local About_34 = Instance.new("TextLabel")
-local Button6_2 = Instance.new("TextButton")
-local UICorner_38 = Instance.new("UICorner")
-local About_35 = Instance.new("TextLabel")
-local Button7_2 = Instance.new("TextButton")
-local UICorner_39 = Instance.new("UICorner")
-local About_36 = Instance.new("TextLabel")
-local Button8_2 = Instance.new("TextButton")
-local UICorner_40 = Instance.new("UICorner")
-local About_37 = Instance.new("TextLabel")
-local Button9_2 = Instance.new("TextButton")
-local UICorner_41 = Instance.new("UICorner")
-local About_38 = Instance.new("TextLabel")
-local Button10_2 = Instance.new("TextButton")
-local UICorner_42 = Instance.new("UICorner")
-local About_39 = Instance.new("TextLabel")
-local Button11_2 = Instance.new("TextButton")
-local UICorner_43 = Instance.new("UICorner")
-local About_40 = Instance.new("TextLabel")
-local Button12_2 = Instance.new("TextButton")
-local UICorner_44 = Instance.new("UICorner")
-local About_41 = Instance.new("TextLabel")
-local Button13_2 = Instance.new("TextButton")
-local UICorner_45 = Instance.new("UICorner")
-local About_42 = Instance.new("TextLabel")
-local Button14_2 = Instance.new("TextButton")
-local UICorner_46 = Instance.new("UICorner")
-local About_43 = Instance.new("TextLabel")
-local Button15_2 = Instance.new("TextButton")
-local UICorner_47 = Instance.new("UICorner")
-local About_44 = Instance.new("TextLabel")
-local Button16_2 = Instance.new("TextButton")
-local UICorner_48 = Instance.new("UICorner")
-local About_45 = Instance.new("TextLabel")
+
+local Ui_penis = Instance.new("ScreenGui")
+local Main_2 = Instance.new("Frame")
+local Glow = Instance.new("ImageLabel")
+local Top_Container = Instance.new("Frame")
+local Title = Instance.new("TextLabel")
+local Tab_Container = Instance.new("Frame")
+local List = Instance.new("UIListLayout")
+local Title_2 = Instance.new("TextLabel")
+local Scroll = Instance.new("ScrollingFrame")
+local Bottom_Container = Instance.new("Frame")
+local List_2 = Instance.new("UIListLayout")
+local Button_1title = Instance.new("TextButton")
+local Title_3 = Instance.new("TextLabel")
+local Button_2 = Instance.new("TextButton")
+local Title_4 = Instance.new("TextLabel")
+local Button_3 = Instance.new("TextButton")
+local Title_5 = Instance.new("TextLabel")
+local Button_4 = Instance.new("TextButton")
+local Title_6 = Instance.new("TextLabel")
+local Button_4_4 = Instance.new("TextButton")
+local Title_7 = Instance.new("TextLabel")
+local Button_6 = Instance.new("TextButton")
+local Title_8 = Instance.new("TextLabel")
+local Button_7 = Instance.new("TextButton")
+local Title_9 = Instance.new("TextLabel")
+local Button_8 = Instance.new("TextButton")
+local Title_10 = Instance.new("TextLabel")
+local Button_9 = Instance.new("TextButton")
+local Title_11 = Instance.new("TextLabel")
+local Button_10title = Instance.new("TextButton")
+local Title_12 = Instance.new("TextLabel")
+local Button_11 = Instance.new("TextButton")
+local Title_13 = Instance.new("TextLabel")
+local Button_11_2 = Instance.new("TextButton")
+local Title_14 = Instance.new("TextLabel")
 local ImageLabel = Instance.new("ImageLabel")
 local ImageLabel_2 = Instance.new("ImageLabel")
+local UsernameNprofile = Instance.new("Frame")
+local PlayerImage = Instance.new("ImageLabel")
+local PlayerName = Instance.new("TextLabel")
+local Frame = Instance.new("Frame")
 
---Properties of s3x:
+--Properties:
 
-ScreenGui.Parent = game.CoreGui
+Ui_penis.Name = "Ui_penis"
+Ui_penis.Parent = game.CoreGui
+Ui_penis.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-MainBar.Name = "MainBar"
-MainBar.Parent = ScreenGui
-MainBar.BackgroundColor3 = Color3.fromRGB(159, 29, 29)
-MainBar.BorderSizePixel = 0
-MainBar.Position = UDim2.new(0.0666666627, 0, 0.097065486, 0)
-MainBar.Size = UDim2.new(0, 636, 0, 49)
-MainBar.Active = true
-MainBar.Draggable = true
+Main_2.Name = "Main_2"
+Main_2.Parent = Ui_penis
+Main_2.BackgroundColor3 = Color3.fromRGB(23, 21, 30)
+Main_2.BorderSizePixel = 0
+Main_2.Position = UDim2.new(0.280657262, 0, 0.283490002, 0)
+Main_2.Size = UDim2.new(0, 395, 0, 179)
+Main_2.Active = true
+Main_2.Draggable = true
 
-Page.Name = "Page"
-Page.Parent = MainBar
-Page.Active = true
-Page.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
-Page.BackgroundTransparency = 0.100
-Page.BorderSizePixel = 0
-Page.Position = UDim2.new(0, 0, 0.999999821, 0)
-Page.Size = UDim2.new(0, 636, 0, 325)
-Page.Visible = false
-Page.ScrollBarThickness = 0
-Page.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
+Glow.Name = "Glow"
+Glow.Parent = Main_2
+Glow.BackgroundColor3 = Color3.fromRGB(99, 85, 255)
+Glow.BackgroundTransparency = 1.000
+Glow.BorderSizePixel = 3
+Glow.Position = UDim2.new(0, -15, 0, -15)
+Glow.Size = UDim2.new(1, 30, 1, 30)
+Glow.ZIndex = 0
+Glow.Image = "rbxassetid://4996891970"
+Glow.ImageColor3 = Color3.fromRGB(145, 101, 255)
+Glow.ScaleType = Enum.ScaleType.Slice
+Glow.SliceCenter = Rect.new(20, 20, 280, 280)
 
-PageName.Name = "PageName"
-PageName.Parent = Page
-PageName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-PageName.BackgroundTransparency = 1.000
-PageName.BorderSizePixel = 0
-PageName.Position = UDim2.new(0.0108845066, 0, 0, 0)
-PageName.Size = UDim2.new(0, 141, 0, 13)
-PageName.Font = Enum.Font.SourceSansBold
-PageName.Text = "Project Slayers Lastest Version: 1.6.6"
-PageName.TextColor3 = Color3.fromRGB(255, 255, 255)
-PageName.TextSize = 14.000
-PageName.TextXAlignment = Enum.TextXAlignment.Left
+Top_Container.Name = "Top_Container"
+Top_Container.Parent = Main_2
+Top_Container.AnchorPoint = Vector2.new(0.5, 0)
+Top_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Top_Container.BackgroundTransparency = 1.000
+Top_Container.Position = UDim2.new(0.5, 0, 0, 18)
+Top_Container.Size = UDim2.new(1, -40, 0, 20)
 
-About.Name = "About"
-About.Parent = PageName
-About.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About.BackgroundTransparency = 1.000
-About.BorderSizePixel = 0
-About.Position = UDim2.new(0, 0, 1.09846139, 0)
-About.Size = UDim2.new(0, 217, 0, 13)
-About.Font = Enum.Font.SourceSansBold
-About.Text = "Made By CandyLean#2645"
-About.TextColor3 = Color3.fromRGB(255, 255, 255)
-About.TextSize = 16.000
-About.TextWrapped = true
-About.TextXAlignment = Enum.TextXAlignment.Left
+Title.Name = "Title"
+Title.Parent = Top_Container
+Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title.BackgroundTransparency = 1.000
+Title.Position = UDim2.new(0.0760563388, 0, 1.14999998, 0)
+Title.Size = UDim2.new(0.414084464, 0, 0.600000024, 0)
+Title.Font = Enum.Font.GothamBlack
+Title.Text = "By CandyLean#2645"
+Title.TextColor3 = Color3.fromRGB(148, 75, 148)
+Title.TextSize = 14.000
+Title.TextXAlignment = Enum.TextXAlignment.Left
 
-ColorBar.Name = "ColorBar"
-ColorBar.Parent = Page
-ColorBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ColorBar.BorderSizePixel = 0
-ColorBar.Position = UDim2.new(0.0108845066, 0, 0.0399999991, 0)
-ColorBar.Size = UDim2.new(0, 226, 0, 2)
+Tab_Container.Name = "Tab_Container"
+Tab_Container.Parent = Top_Container
+Tab_Container.AnchorPoint = Vector2.new(1, 0)
+Tab_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Tab_Container.BackgroundTransparency = 1.000
+Tab_Container.Position = UDim2.new(1, 0, 0, 0)
+Tab_Container.Size = UDim2.new(1, 0, 1, 0)
 
-UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(86, 86, 86)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(57, 57, 57))}
-UIGradient.Parent = ColorBar
+List.Name = "List"
+List.Parent = Tab_Container
+List.FillDirection = Enum.FillDirection.Horizontal
+List.HorizontalAlignment = Enum.HorizontalAlignment.Right
+List.SortOrder = Enum.SortOrder.LayoutOrder
+List.Padding = UDim.new(0, 14)
 
-Button2.Name = "Button2"
-Button2.Parent = Page
-Button2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button2.BorderSizePixel = 0
-Button2.Position = UDim2.new(0.190218762, 0, 0.0836804211, 0)
-Button2.Size = UDim2.new(0, 111, 0, 27)
-Button2.Font = Enum.Font.SourceSansBold
-Button2.Text = "AntiBan V2"
-Button2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button2.TextSize = 16.000
-Button2.MouseButton1Down:connect(function()
-	for i,v in pairs(game:GetDescendants()) do
-		if v.Name == "AC" or v.Name == "..." or v.Name == "AntiExploit" or v.Name == ".]./]]." or v.Name == "DIR_AntiExploit" or v.Name == "ac" or v.Name == "nil" then
-			v:Destroy()
-		end
+Title_2.Name = "Title"
+Title_2.Parent = Top_Container
+Title_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_2.BackgroundTransparency = 1.000
+Title_2.Position = UDim2.new(0.0957746431, 0, 0.0500015318, 0)
+Title_2.Size = UDim2.new(0.394366145, 0, 1.09999847, 0)
+Title_2.Font = Enum.Font.GothamBlack
+Title_2.Text = "SLAYER LEAN"
+Title_2.TextColor3 = Color3.fromRGB(132, 67, 132)
+Title_2.TextSize = 20.000
+Title_2.TextXAlignment = Enum.TextXAlignment.Left
+
+Scroll.Name = "Scroll"
+Scroll.Parent = Main_2
+Scroll.Active = true
+Scroll.AnchorPoint = Vector2.new(0.5, 0)
+Scroll.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scroll.BackgroundTransparency = 1.000
+Scroll.BorderSizePixel = 0
+Scroll.Position = UDim2.new(0.5, 4, 0, 59)
+Scroll.Size = UDim2.new(1, -20, 1, -77)
+Scroll.BottomImage = "rbxassetid://5234388158"
+Scroll.CanvasSize = UDim2.new(0, 0, 0, 535)
+Scroll.MidImage = "rbxassetid://5234388158"
+Scroll.ScrollBarThickness = 6
+Scroll.TopImage = "rbxassetid://5234388158"
+
+Bottom_Container.Name = "Bottom_Container"
+Bottom_Container.Parent = Scroll
+Bottom_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Bottom_Container.BackgroundTransparency = 1.000
+Bottom_Container.Size = UDim2.new(1, -11, 1, 0)
+
+List_2.Name = "List"
+List_2.Parent = Bottom_Container
+List_2.SortOrder = Enum.SortOrder.LayoutOrder
+List_2.Padding = UDim.new(0, 2)
+
+Button_1title.Name = "Button_1title"
+Button_1title.Parent = Bottom_Container
+Button_1title.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_1title.BorderColor3 = Color3.fromRGB(107, 54, 107)
+Button_1title.LayoutOrder = 1
+Button_1title.Position = UDim2.new(0.0467032976, 0, 0.0088888891, 0)
+Button_1title.Size = UDim2.new(1, 0, 0, 26)
+Button_1title.AutoButtonColor = false
+Button_1title.Font = Enum.Font.GothamBold
+Button_1title.Text = "KILL AURAS [ENABLE ONE ONLY] {DONT M1}"
+Button_1title.TextColor3 = Color3.fromRGB(132, 67, 132)
+Button_1title.TextSize = 14.000
+
+Title_3.Name = "Title"
+Title_3.Parent = Button_1title
+Title_3.AnchorPoint = Vector2.new(0, 0.5)
+Title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.BackgroundTransparency = 1.000
+Title_3.Position = UDim2.new(0, 8, 0.5, 0)
+Title_3.Size = UDim2.new(0, 49, 1, -8)
+Title_3.Font = Enum.Font.Gotham
+Title_3.Text = ""
+Title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.TextSize = 10.000
+Title_3.TextTransparency = 0.300
+Title_3.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_2.Name = "Button_2"
+Button_2.Parent = Bottom_Container
+Button_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_2.BorderSizePixel = 0
+Button_2.LayoutOrder = 1
+Button_2.Position = UDim2.new(-0.00824175868, 0, -0.0311111119, 0)
+Button_2.Size = UDim2.new(1, 0, 0, 26)
+Button_2.AutoButtonColor = false
+Button_2.Font = Enum.Font.SourceSans
+Button_2.Text = ""
+Button_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_2.TextSize = 14.000
+Button_2.MouseButton1Down:connect(function()
+
+
+
+	while true do
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 4
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 4
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+		wait(1.75)
 	end
 end)
 
-UICorner.CornerRadius = UDim.new(0, 6)
-UICorner.Parent = Button2
+Title_4.Name = "Title"
+Title_4.Parent = Button_2
+Title_4.AnchorPoint = Vector2.new(0, 0.5)
+Title_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_4.BackgroundTransparency = 1.000
+Title_4.Position = UDim2.new(0, 8, 0.5, 0)
+Title_4.Size = UDim2.new(0, 49, 1, -8)
+Title_4.Font = Enum.Font.Gotham
+Title_4.Text = "FIST KILL AURA V1"
+Title_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_4.TextSize = 10.000
+Title_4.TextTransparency = 0.300
+Title_4.TextXAlignment = Enum.TextXAlignment.Left
 
-About_2.Name = "About"
-About_2.Parent = Button2
-About_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_2.BackgroundTransparency = 1.000
-About_2.BorderSizePixel = 0
-About_2.Position = UDim2.new(-0.00297285197, 0, 0.999034166, 0)
-About_2.Size = UDim2.new(0, 112, 0, 11)
-About_2.Font = Enum.Font.SourceSansBold
-About_2.Text = "About: Preventing Kicks"
-About_2.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_2.TextSize = 12.000
-About_2.TextXAlignment = Enum.TextXAlignment.Left
+Button_3.Name = "Button_3"
+Button_3.Parent = Bottom_Container
+Button_3.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_3.BorderSizePixel = 0
+Button_3.LayoutOrder = 1
+Button_3.Position = UDim2.new(-0.0384615399, 0, -0.0422222205, 0)
+Button_3.Size = UDim2.new(1, 0, 0, 26)
+Button_3.AutoButtonColor = false
+Button_3.Font = Enum.Font.SourceSans
+Button_3.Text = ""
+Button_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_3.TextSize = 14.000
+Button_3.MouseButton1Down:connect(function()
 
-Button1.Name = "Button1"
-Button1.Parent = Page
-Button1.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button1.BorderSizePixel = 0
-Button1.Position = UDim2.new(0.014118134, 0, 0.0836804211, 0)
-Button1.Size = UDim2.new(0, 111, 0, 27)
-Button1.Font = Enum.Font.SourceSansBold
-Button1.Text = "Antiban"
-Button1.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button1.TextSize = 16.000
-Button1.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/v3xh6ZSOODTE/raw"))()
-end)
 
-UICorner_2.CornerRadius = UDim.new(0, 6)
-UICorner_2.Parent = Button1
 
-About_3.Name = "About"
-About_3.Parent = Button1
-About_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_3.BackgroundTransparency = 1.000
-About_3.BorderSizePixel = 0
-About_3.Position = UDim2.new(-0.0299998783, 0, 0.999034166, 0)
-About_3.Size = UDim2.new(0, 114, 0, 11)
-About_3.Font = Enum.Font.SourceSansBold
-About_3.Text = "About: Preventing Bans"
-About_3.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_3.TextSize = 12.000
-About_3.TextXAlignment = Enum.TextXAlignment.Left
+	while true do
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1
+		}
 
-Button3.Name = "Button3"
-Button3.Parent = Page
-Button3.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button3.BorderSizePixel = 0
-Button3.Position = UDim2.new(0.364747107, 0, 0.0836804211, 0)
-Button3.Size = UDim2.new(0, 111, 0, 26)
-Button3.Font = Enum.Font.SourceSansBold
-Button3.Text = "Inf Stam/Breathe"
-Button3.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button3.TextSize = 16.000
-Button3.MouseButton1Down:connect(function()
-	while wait() do
-		local stam = game:GetService("ReplicatedStorage").PlayerValues[game.Players.LocalPlayer.Name].Stamina
-		local breathing = game:GetService("ReplicatedStorage").PlayerValues[game.Players.LocalPlayer.Name].Breath
-		if not stam.Value == stam.MaxValue or  not breathing.Value == breathing.MaxValue then
-			wait()
-		else
-			stam.Value=stam.MaxValue
-			breathing.Value = breathing.MaxValue
-		end end
-end)
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-UICorner_3.CornerRadius = UDim.new(0, 6)
-UICorner_3.Parent = Button3
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2
+		}
 
-About_4.Name = "About"
-About_4.Parent = Button3
-About_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_4.BackgroundTransparency = 1.000
-About_4.BorderSizePixel = 0
-About_4.Position = UDim2.new(0.0355260372, 0, 0.999034166, 0)
-About_4.Size = UDim2.new(0, 105, 0, 11)
-About_4.Font = Enum.Font.SourceSansBold
-About_4.Text = "About: Explains itself"
-About_4.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_4.TextSize = 12.000
-About_4.TextXAlignment = Enum.TextXAlignment.Left
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-Button4.Name = "Button4"
-Button4.Parent = Page
-Button4.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button4.BorderSizePixel = 0
-Button4.Position = UDim2.new(0.539275348, 0, 0.0836804211, 0)
-Button4.Size = UDim2.new(0, 111, 0, 27)
-Button4.Font = Enum.Font.SourceSansBold
-Button4.Text = "Fast Pickup"
-Button4.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button4.TextSize = 16.000
-Button4.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/n61vvWuZ"))()
-end)
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3
+		}
 
-UICorner_4.CornerRadius = UDim.new(0, 6)
-UICorner_4.Parent = Button4
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-About_5.Name = "About"
-About_5.Parent = Button4
-About_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_5.BackgroundTransparency = 1.000
-About_5.BorderSizePixel = 0
-About_5.Position = UDim2.new(-0.0185277443, 0, 0.999034166, 0)
-About_5.Size = UDim2.new(0, 120, 0, 11)
-About_5.Font = Enum.Font.SourceSansBold
-About_5.Text = "About: Get All Items Quick"
-About_5.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_5.TextSize = 12.000
-About_5.TextXAlignment = Enum.TextXAlignment.Left
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 4
+		}
 
-Button5.Name = "Button5"
-Button5.Parent = Page
-Button5.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button5.BorderSizePixel = 0
-Button5.Position = UDim2.new(0.712231338, 0, 0.0836804211, 0)
-Button5.Size = UDim2.new(0, 111, 0, 27)
-Button5.Font = Enum.Font.SourceSansBold
-Button5.Text = "Remove Hit Delay"
-Button5.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button5.TextSize = 16.000
-Button5.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/DukyCFyb"))()
-end)
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-UICorner_5.CornerRadius = UDim.new(0, 6)
-UICorner_5.Parent = Button5
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919
+		}
 
-About_6.Name = "About"
-About_6.Parent = Button5
-About_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_6.BackgroundTransparency = 1.000
-About_6.BorderSizePixel = 0
-About_6.Position = UDim2.new(0.117117114, 0, 0.999034166, 0)
-About_6.Size = UDim2.new(0, 98, 0, 11)
-About_6.Font = Enum.Font.SourceSansBold
-About_6.Text = "About: Hits Are Faster"
-About_6.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_6.TextSize = 12.000
-About_6.TextWrapped = true
-About_6.TextXAlignment = Enum.TextXAlignment.Left
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-Button30.Name = "Button30"
-Button30.Parent = Page
-Button30.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button30.BorderSizePixel = 0
-Button30.Position = UDim2.new(0.712231398, 0, 0.82144624, 0)
-Button30.Size = UDim2.new(0, 104, 0, 22)
-Button30.Font = Enum.Font.SourceSansBold
-Button30.Text = "InstaBreath Gui"
-Button30.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button30.TextSize = 16.000
-Button30.MouseButton1Down:connect(function()
-	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Revamped Menu...Remember, Only Breathings Work ", "All")
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/ProjectSlayers1"))()
-	--------------------------------
-end)
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1
+		}
 
-UICorner_6.CornerRadius = UDim.new(0, 6)
-UICorner_6.Parent = Button30
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-About_7.Name = "About"
-About_7.Parent = Button30
-About_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_7.BackgroundTransparency = 1.000
-About_7.BorderSizePixel = 0
-About_7.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_7.Size = UDim2.new(0, 129, 0, 11)
-About_7.Font = Enum.Font.SourceSansBold
-About_7.Text = ""
-About_7.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_7.TextSize = 12.000
-About_7.TextXAlignment = Enum.TextXAlignment.Left
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2
+		}
 
-Button6.Name = "Button6"
-Button6.Parent = Page
-Button6.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button6.BorderSizePixel = 0
-Button6.Position = UDim2.new(0.0156904627, 0, 0.225218892, 0)
-Button6.Size = UDim2.new(0, 111, 0, 27)
-Button6.Font = Enum.Font.SourceSansBold
-Button6.Text = "Hide Name Cilent"
-Button6.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button6.TextSize = 16.000
-Button6.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/tpVvGQzCWh4G/raw"))()
-end)
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-UICorner_7.CornerRadius = UDim.new(0, 6)
-UICorner_7.Parent = Button6
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3
+		}
 
-About_8.Name = "About"
-About_8.Parent = Button6
-About_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_8.BackgroundTransparency = 1.000
-About_8.BorderSizePixel = 0
-About_8.Position = UDim2.new(-0.0275367536, 0, 0.999034166, 0)
-About_8.Size = UDim2.new(0, 121, 0, 11)
-About_8.Font = Enum.Font.SourceSansBold
-About_8.Text = "About: Fake Spoof Name"
-About_8.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_8.TextSize = 12.000
-About_8.TextXAlignment = Enum.TextXAlignment.Left
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
 
-Button7.Name = "Button7"
-Button7.Parent = Page
-Button7.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button7.BorderSizePixel = 0
-Button7.Position = UDim2.new(0.190218762, 0, 0.225218877, 0)
-Button7.Size = UDim2.new(0, 111, 0, 27)
-Button7.Font = Enum.Font.SourceSansBold
-Button7.Text = "Anti Mods"
-Button7.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button7.TextSize = 16.000
-Button7.MouseButton1Down:connect(function()
-	local vu = game:GetService("VirtualUser")
-	game:GetService("Players").LocalPlayer.Idled:connect(function()
-		vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-		wait(1)
-		vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-	end)
-	while wait() do
-		for i,player in pairs(game.Players:GetChildren()) do
-			if player:IsInGroup(12851171) then
-				game:GetService("TeleportService"):Teleport(6152116144)
-			end
-		end
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 4
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "fist_combat",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		wait(1.86)
 	end
 end)
 
-UICorner_8.CornerRadius = UDim.new(0, 6)
-UICorner_8.Parent = Button7
+Title_5.Name = "Title"
+Title_5.Parent = Button_3
+Title_5.AnchorPoint = Vector2.new(0, 0.5)
+Title_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_5.BackgroundTransparency = 1.000
+Title_5.Position = UDim2.new(0, 8, 0.5, 0)
+Title_5.Size = UDim2.new(0, 49, 1, -8)
+Title_5.Font = Enum.Font.Gotham
+Title_5.Text = "FIST KILL AURA V2"
+Title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_5.TextSize = 10.000
+Title_5.TextTransparency = 0.300
+Title_5.TextXAlignment = Enum.TextXAlignment.Left
 
-About_9.Name = "About"
-About_9.Parent = Button7
-About_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_9.BackgroundTransparency = 1.000
-About_9.BorderSizePixel = 0
-About_9.Position = UDim2.new(0.0625533387, 0, 0.999034166, 0)
-About_9.Size = UDim2.new(0, 104, 0, 11)
-About_9.Font = Enum.Font.SourceSansBold
-About_9.Text = "About: Prevent Mods"
-About_9.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_9.TextSize = 12.000
-About_9.TextXAlignment = Enum.TextXAlignment.Left
+Button_4.Name = "Button_4"
+Button_4.Parent = Bottom_Container
+Button_4.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_4.BorderSizePixel = 0
+Button_4.LayoutOrder = 1
+Button_4.Size = UDim2.new(1, 0, 0, 26)
+Button_4.AutoButtonColor = false
+Button_4.Font = Enum.Font.SourceSans
+Button_4.Text = ""
+Button_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_4.TextSize = 14.000
+Button_4.MouseButton1Down:connect(function()
 
-Button8.Name = "Button8"
-Button8.Parent = Page
-Button8.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button8.BorderSizePixel = 0
-Button8.Position = UDim2.new(0.364747047, 0, 0.225218892, 0)
-Button8.Size = UDim2.new(0, 111, 0, 27)
-Button8.Font = Enum.Font.SourceSansBold
-Button8.Text = "Invisible"
-Button8.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button8.TextSize = 16.000
-Button8.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://paste.gg/p/anonymous/ae32c4d42d584577a5756581ff7411fd/files/6630049f922f493b93c74585e950fd64/raw"))()
+
+	while true do
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 50,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 51,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+		wait(1.57)
+	end
 end)
 
-UICorner_9.CornerRadius = UDim.new(0, 6)
-UICorner_9.Parent = Button8
+Title_6.Name = "Title"
+Title_6.Parent = Button_4
+Title_6.AnchorPoint = Vector2.new(0, 0.5)
+Title_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_6.BackgroundTransparency = 1.000
+Title_6.Position = UDim2.new(0, 8, 0.5, 0)
+Title_6.Size = UDim2.new(0, 49, 1, -8)
+Title_6.Font = Enum.Font.Gotham
+Title_6.Text = "SWORD AURA V1"
+Title_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_6.TextSize = 10.000
+Title_6.TextTransparency = 0.300
+Title_6.TextXAlignment = Enum.TextXAlignment.Left
 
-About_10.Name = "About"
-About_10.Parent = Button8
-About_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_10.BackgroundTransparency = 1.000
-About_10.BorderSizePixel = 0
-About_10.Position = UDim2.new(-0.0299998783, 0, 0.999034166, 0)
-About_10.Size = UDim2.new(0, 121, 0, 11)
-About_10.Font = Enum.Font.SourceSansBold
-About_10.Text = "About: Q To Toggle On/Off"
-About_10.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_10.TextSize = 12.000
-About_10.TextXAlignment = Enum.TextXAlignment.Left
+Button_4_4.Name = "Button_4_4"
+Button_4_4.Parent = Bottom_Container
+Button_4_4.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_4_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Button_4_4.BorderSizePixel = 0
+Button_4_4.LayoutOrder = 1
+Button_4_4.Position = UDim2.new(0.0467032976, 0, 0.0088888891, 0)
+Button_4_4.Size = UDim2.new(1, 0, 0, 26)
+Button_4_4.AutoButtonColor = false
+Button_4_4.Font = Enum.Font.GothamBold
+Button_4_4.Text = ""
+Button_4_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_4_4.TextSize = 14.000
+Button_4_4.MouseButton1Down:connect(function()
 
-Button9.Name = "Button9"
-Button9.Parent = Page
-Button9.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button9.BorderSizePixel = 0
-Button9.Position = UDim2.new(0.539275348, 0, 0.225218877, 0)
-Button9.Size = UDim2.new(0, 111, 0, 27)
-Button9.Font = Enum.Font.SourceSansBold
-Button9.Text = "Reset Character"
-Button9.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button9.TextSize = 16.000
-Button9.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/QJn3ceWE"))()
+
+
+	while true do
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 50,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919,
+			[9] = 50
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S:FireServer(unpack(args))
+
+		-- Script generated by SimpleSpy - credits to exx#9394
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 51,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 2,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 3,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 919,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+
+		local args = {
+			[1] = "Sword_Combat_Slash",
+			[2] = game:GetService("Players").LocalPlayer,
+			[3] = game:GetService("Players").LocalPlayer.Character,
+			[4] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+			[5] = game:GetService("Players").LocalPlayer.Character.Humanoid,
+			[6] = 1,
+			[9] = 51
+		}
+
+		game:GetService("ReplicatedStorage").Remotes.To_Server.Handle_Initiate_S_:InvokeServer(unpack(args))
+		wait(1.57)
+	end
 end)
 
-UICorner_10.CornerRadius = UDim.new(0, 6)
-UICorner_10.Parent = Button9
+Title_7.Name = "Title"
+Title_7.Parent = Button_4_4
+Title_7.AnchorPoint = Vector2.new(0, 0.5)
+Title_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_7.BackgroundTransparency = 1.000
+Title_7.Position = UDim2.new(0, 8, 0.5, 0)
+Title_7.Size = UDim2.new(0, 49, 1, -8)
+Title_7.Font = Enum.Font.Gotham
+Title_7.Text = "SWORD AURA V2"
+Title_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_7.TextSize = 10.000
+Title_7.TextTransparency = 0.300
+Title_7.TextXAlignment = Enum.TextXAlignment.Left
 
-About_11.Name = "About"
-About_11.Parent = Button9
-About_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_11.BackgroundTransparency = 1.000
-About_11.BorderSizePixel = 0
-About_11.Position = UDim2.new(0.0625533387, 0, 0.999034166, 0)
-About_11.Size = UDim2.new(0, 104, 0, 11)
-About_11.Font = Enum.Font.SourceSansBold
-About_11.Text = "About: Respawn Easily"
-About_11.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_11.TextSize = 12.000
-About_11.TextXAlignment = Enum.TextXAlignment.Left
+Button_6.Name = "Button_6"
+Button_6.Parent = Bottom_Container
+Button_6.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_6.BorderColor3 = Color3.fromRGB(107, 54, 107)
+Button_6.LayoutOrder = 1
+Button_6.Size = UDim2.new(1, 0, 0, 26)
+Button_6.AutoButtonColor = false
+Button_6.Font = Enum.Font.GothamBold
+Button_6.Text = "OTHER STUFF"
+Button_6.TextColor3 = Color3.fromRGB(132, 67, 132)
+Button_6.TextSize = 14.000
 
-Button10.Name = "Button10"
-Button10.Parent = Page
-Button10.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button10.BorderSizePixel = 0
-Button10.Position = UDim2.new(0.712231338, 0, 0.225218892, 0)
-Button10.Size = UDim2.new(0, 111, 0, 27)
-Button10.Font = Enum.Font.SourceSansBold
-Button10.Text = "Anti Afk "
-Button10.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button10.TextSize = 16.000
-Button10.MouseButton1Down:connect(function()
-	local vu = game:GetService("VirtualUser")
-	game:GetService("Players").LocalPlayer.Idled:connect(function()
-		vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-		wait(1)
-		vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+Title_8.Name = "Title"
+Title_8.Parent = Button_6
+Title_8.AnchorPoint = Vector2.new(0, 0.5)
+Title_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_8.BackgroundTransparency = 1.000
+Title_8.Position = UDim2.new(0, 8, 0.5, 0)
+Title_8.Size = UDim2.new(0, 49, 1, -8)
+Title_8.Font = Enum.Font.Gotham
+Title_8.Text = ""
+Title_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_8.TextSize = 10.000
+Title_8.TextTransparency = 0.300
+Title_8.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_7.Name = "Button_7"
+Button_7.Parent = Bottom_Container
+Button_7.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_7.BorderSizePixel = 0
+Button_7.LayoutOrder = 1
+Button_7.Size = UDim2.new(1, 0, 0, 26)
+Button_7.AutoButtonColor = false
+Button_7.Font = Enum.Font.SourceSans
+Button_7.Text = ""
+Button_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_7.TextSize = 14.000
+Button_7.MouseButton1Down:connect(function()
+
+	game:GetService("ProximityPromptService").PromptButtonHoldBegan:Connect(function(prompt)
+		fireproximityprompt(prompt)
 	end)
 end)
 
-UICorner_11.CornerRadius = UDim.new(0, 6)
-UICorner_11.Parent = Button10
-
-About_12.Name = "About"
-About_12.Parent = Button10
-About_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_12.BackgroundTransparency = 1.000
-About_12.BorderSizePixel = 0
-About_12.Position = UDim2.new(0.00900900923, 0, 0.999034166, 0)
-About_12.Size = UDim2.new(0, 153, 0, 11)
-About_12.Font = Enum.Font.SourceSansBold
-About_12.Text = "About: No Idle Msg"
-About_12.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_12.TextSize = 12.000
-About_12.TextXAlignment = Enum.TextXAlignment.Left
-
-Page1FarmShitBar.Name = "Page1FarmShitBar"
-Page1FarmShitBar.Parent = Page
-Page1FarmShitBar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Page1FarmShitBar.BorderSizePixel = 0
-Page1FarmShitBar.Position = UDim2.new(-0.00012178241, 0, 0.366153836, 0)
-Page1FarmShitBar.Size = UDim2.new(0, 636, 0, 15)
-
-UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(86, 86, 86)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(57, 57, 57))}
-UIGradient_2.Parent = Page1FarmShitBar
-
-TextLabel.Parent = Page1FarmShitBar
-TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel.BackgroundTransparency = 1.000
-TextLabel.BorderSizePixel = 0
-TextLabel.Position = UDim2.new(0.00911877863, 0, 0, 0)
-TextLabel.Size = UDim2.new(0, 621, 0, 15)
-TextLabel.Font = Enum.Font.SourceSansBold
-TextLabel.Text = "Farm Shit"
-TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel.TextSize = 20.000
-
-TextLabel_2.Parent = TextLabel
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_2.BackgroundTransparency = 1.000
-TextLabel_2.BorderSizePixel = 0
-TextLabel_2.Position = UDim2.new(0.196780145, 0, -0.266666681, 0)
-TextLabel_2.Size = UDim2.new(0, 95, 0, 22)
-TextLabel_2.Font = Enum.Font.SourceSansBold
-TextLabel_2.Text = "\"Bro Im Legit Farming what You Mean\""
-TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_2.TextSize = 11.000
-
-TextLabel_3.Parent = TextLabel
-TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_3.BackgroundTransparency = 1.000
-TextLabel_3.BorderSizePixel = 0
-TextLabel_3.Position = UDim2.new(0.628342152, 0, -0.266666681, 0)
-TextLabel_3.Size = UDim2.new(0, 95, 0, 22)
-TextLabel_3.Font = Enum.Font.SourceSansBold
-TextLabel_3.Text = "\"Ngl He Do Be Farming Tho\""
-TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_3.TextSize = 11.000
-
-Button11.Name = "Button11"
-Button11.Parent = Page
-Button11.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button11.BorderSizePixel = 0
-Button11.Position = UDim2.new(0.0156904627, 0, 0.419065058, 0)
-Button11.Size = UDim2.new(0, 111, 0, 27)
-Button11.Font = Enum.Font.SourceSansBold
-Button11.Text = "RiceFarm Forever"
-Button11.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button11.TextSize = 16.000
-Button11.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/6cTpJCqsC3MM/raw"))()
-end)
-
-
-UICorner_12.CornerRadius = UDim.new(0, 6)
-UICorner_12.Parent = Button11
-
-About_13.Name = "About"
-About_13.Parent = Button11
-About_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_13.BackgroundTransparency = 1.000
-About_13.BorderSizePixel = 0
-About_13.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_13.Size = UDim2.new(0, 109, 0, 11)
-About_13.Font = Enum.Font.SourceSansBold
-About_13.Text = "About: Autofarms Rice"
-About_13.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_13.TextSize = 12.000
-About_13.TextXAlignment = Enum.TextXAlignment.Left
-
-Button12.Name = "Button12"
-Button12.Parent = Page
-Button12.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button12.BorderSizePixel = 0
-Button12.Position = UDim2.new(0.190218762, 0, 0.419065058, 0)
-Button12.Size = UDim2.new(0, 111, 0, 27)
-Button12.Font = Enum.Font.SourceSansBold
-Button12.Text = "Tp To SARAH"
-Button12.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button12.TextSize = 16.000
-Button12.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/UblQloIOxFdj/raw"))()
-end)
-
-
-UICorner_13.CornerRadius = UDim.new(0, 6)
-UICorner_13.Parent = Button12
-
-About_14.Name = "About"
-About_14.Parent = Button12
-About_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_14.BackgroundTransparency = 1.000
-About_14.BorderSizePixel = 0
-About_14.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_14.Size = UDim2.new(0, 109, 0, 11)
-About_14.Font = Enum.Font.SourceSansBold
-About_14.Text = "About: RiceString Lady"
-About_14.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_14.TextSize = 12.000
-About_14.TextXAlignment = Enum.TextXAlignment.Left
-
-Button13.Name = "Button13"
-Button13.Parent = Page
-Button13.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button13.BorderSizePixel = 0
-Button13.Position = UDim2.new(0.364747047, 0, 0.419065058, 0)
-Button13.Size = UDim2.new(0, 111, 0, 27)
-Button13.Font = Enum.Font.SourceSansBold
-Button13.Text = "WonFarm Forever"
-Button13.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button13.TextSize = 16.000
-Button13.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/I0YKPcFH7Il9/raw"))()
-end)
-
-UICorner_14.CornerRadius = UDim.new(0, 6)
-UICorner_14.Parent = Button13
-
-About_15.Name = "About"
-About_15.Parent = Button13
-About_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_15.BackgroundTransparency = 1.000
-About_15.BorderSizePixel = 0
-About_15.Position = UDim2.new(-0.0180180185, 0, 0.99903363, 0)
-About_15.Size = UDim2.new(0, 118, 0, 11)
-About_15.Font = Enum.Font.SourceSansBold
-About_15.Text = "About: Autofarms Wagons"
-About_15.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_15.TextSize = 12.000
-About_15.TextXAlignment = Enum.TextXAlignment.Left
-
-Button14.Name = "Button14"
-Button14.Parent = Page
-Button14.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button14.BorderSizePixel = 0
-Button14.Position = UDim2.new(0.539275348, 0, 0.419065058, 0)
-Button14.Size = UDim2.new(0, 111, 0, 27)
-Button14.Font = Enum.Font.SourceSansBold
-Button14.Text = "Tp To WagWon "
-Button14.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button14.TextSize = 16.000
-Button14.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/aWvfsiUj1bOO/raw"))()
-end)
-
-UICorner_15.CornerRadius = UDim.new(0, 6)
-UICorner_15.Parent = Button14
-
-About_16.Name = "About"
-About_16.Parent = Button14
-About_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_16.BackgroundTransparency = 1.000
-About_16.BorderSizePixel = 0
-About_16.Position = UDim2.new(0.117117122, 0, 0.99903363, 0)
-About_16.Size = UDim2.new(0, 104, 0, 11)
-About_16.Font = Enum.Font.SourceSansBold
-About_16.Text = "About: Wagon Guy"
-About_16.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_16.TextSize = 12.000
-About_16.TextXAlignment = Enum.TextXAlignment.Left
-
-Button15.Name = "Button15"
-Button15.Parent = Page
-Button15.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button15.BorderSizePixel = 0
-Button15.Position = UDim2.new(0.712231338, 0, 0.419065058, 0)
-Button15.Size = UDim2.new(0, 111, 0, 27)
-Button15.Font = Enum.Font.SourceSansBold
-Button15.Text = "Finish Wagon Tp"
-Button15.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button15.TextSize = 16.000
-Button15.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/MBvAblGdKcf4/raw"))()
-end)
-
-UICorner_16.CornerRadius = UDim.new(0, 6)
-UICorner_16.Parent = Button15
-
-About_17.Name = "About"
-About_17.Parent = Button15
-About_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_17.BackgroundTransparency = 1.000
-About_17.BorderSizePixel = 0
-About_17.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_17.Size = UDim2.new(0, 116, 0, 11)
-About_17.Font = Enum.Font.SourceSansBold
-About_17.Text = "About: Finish Wagon Farm"
-About_17.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_17.TextSize = 12.000
-About_17.TextXAlignment = Enum.TextXAlignment.Left
-
-Button16.Name = "Button16"
-Button16.Parent = Page
-Button16.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button16.BorderSizePixel = 0
-Button16.Position = UDim2.new(0.014118135, 0, 0.532911181, 0)
-Button16.Size = UDim2.new(0, 111, 0, 27)
-Button16.Font = Enum.Font.SourceSansBold
-Button16.Text = "Tp To Kurake"
-Button16.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button16.TextSize = 16.000
-Button16.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/RcogEdKzKJEu/raw"))()
-end)
-
-UICorner_17.CornerRadius = UDim.new(0, 6)
-UICorner_17.Parent = Button16
-
-About_18.Name = "About"
-About_18.Parent = Button16
-About_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_18.BackgroundTransparency = 1.000
-About_18.BorderSizePixel = 0
-About_18.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_18.Size = UDim2.new(0, 116, 0, 11)
-About_18.Font = Enum.Font.SourceSansBold
-About_18.Text = "About: BucketFood Guy"
-About_18.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_18.TextSize = 12.000
-About_18.TextXAlignment = Enum.TextXAlignment.Left
-
-Button17.Name = "Button17"
-Button17.Parent = Page
-Button17.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button17.BorderSizePixel = 0
-Button17.Position = UDim2.new(0.190218762, 0, 0.532911181, 0)
-Button17.Size = UDim2.new(0, 111, 0, 27)
-Button17.Font = Enum.Font.SourceSansBold
-Button17.Text = "Tp To Naratia"
-Button17.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button17.TextSize = 16.000
-Button17.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/Nz9cJhQbNHTr/raw"))()
-end)
-
-UICorner_18.CornerRadius = UDim.new(0, 6)
-UICorner_18.Parent = Button17
-
-About_19.Name = "About"
-About_19.Parent = Button17
-About_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_19.BackgroundTransparency = 1.000
-About_19.BorderSizePixel = 0
-About_19.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_19.Size = UDim2.new(0, 116, 0, 11)
-About_19.Font = Enum.Font.SourceSansBold
-About_19.Text = "About: Give Food Tp"
-About_19.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_19.TextSize = 12.000
-About_19.TextXAlignment = Enum.TextXAlignment.Left
-
-Button18.Name = "Button18"
-Button18.Parent = Page
-Button18.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button18.BorderSizePixel = 0
-Button18.Position = UDim2.new(0.364747047, 0, 0.532911181, 0)
-Button18.Size = UDim2.new(0, 111, 0, 27)
-Button18.Font = Enum.Font.SourceSansBold
-Button18.Text = "Tp To Mark"
-Button18.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button18.TextSize = 16.000
-Button18.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/ZN3XUOygK07b/raw"))()
-end)
-
-UICorner_19.CornerRadius = UDim.new(0, 6)
-UICorner_19.Parent = Button18
-
-About_20.Name = "About"
-About_20.Parent = Button18
-About_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_20.BackgroundTransparency = 1.000
-About_20.BorderSizePixel = 0
-About_20.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_20.Size = UDim2.new(0, 116, 0, 11)
-About_20.Font = Enum.Font.SourceSansBold
-About_20.Text = "About: FishingRod Guy"
-About_20.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_20.TextSize = 12.000
-About_20.TextXAlignment = Enum.TextXAlignment.Left
-
-Button19.Name = "Button19"
-Button19.Parent = Page
-Button19.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button19.BorderSizePixel = 0
-Button19.Position = UDim2.new(0.539275348, 0, 0.532911181, 0)
-Button19.Size = UDim2.new(0, 111, 0, 27)
-Button19.Font = Enum.Font.SourceSansBold
-Button19.Text = "AutoFish Farm"
-Button19.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button19.TextSize = 16.000
-Button19.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/tlXtJC0Tfffg/raw"))()
-end)
-
-UICorner_20.CornerRadius = UDim.new(0, 6)
-UICorner_20.Parent = Button19
-
-About_21.Name = "About"
-About_21.Parent = Button19
-About_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_21.BackgroundTransparency = 1.000
-About_21.BorderSizePixel = 0
-About_21.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_21.Size = UDim2.new(0, 116, 0, 11)
-About_21.Font = Enum.Font.SourceSansBold
-About_21.Text = "About: Autofish On/Off"
-About_21.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_21.TextSize = 12.000
-About_21.TextXAlignment = Enum.TextXAlignment.Left
-
-Button20.Name = "Button20"
-Button20.Parent = Page
-Button20.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button20.BorderSizePixel = 0
-Button20.Position = UDim2.new(0.712231338, 0, 0.532911181, 0)
-Button20.Size = UDim2.new(0, 111, 0, 27)
-Button20.Font = Enum.Font.SourceSansBold
-Button20.Text = "Tp To Betty"
-Button20.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button20.TextSize = 16.000
-Button20.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/I4h4kfxAAa2s/raw"))()
-end)
-
-UICorner_21.CornerRadius = UDim.new(0, 6)
-UICorner_21.Parent = Button20
-
-About_22.Name = "About"
-About_22.Parent = Button20
-About_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_22.BackgroundTransparency = 1.000
-About_22.BorderSizePixel = 0
-About_22.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_22.Size = UDim2.new(0, 129, 0, 11)
-About_22.Font = Enum.Font.SourceSansBold
-About_22.Text = "About: Diamond Lady"
-About_22.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_22.TextSize = 12.000
-About_22.TextXAlignment = Enum.TextXAlignment.Left
-
-Button21.Name = "Button21"
-Button21.Parent = Page
-Button21.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button21.BorderSizePixel = 0
-Button21.Position = UDim2.new(0.886759639, 0, 0.532911181, 0)
-Button21.Size = UDim2.new(0, 72, 0, 12)
-Button21.Font = Enum.Font.SourceSansBold
-Button21.Text = "Diamond 1"
-Button21.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button21.TextSize = 16.000
-Button21.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/SNyTTnJxKsZH/raw"))()
-end)
-
-UICorner_22.CornerRadius = UDim.new(0, 6)
-UICorner_22.Parent = Button21
-
-Button22.Name = "Button22"
-Button22.Parent = Page
-Button22.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button22.BorderSizePixel = 0
-Button22.Position = UDim2.new(0.886759639, 0, 0.569834232, 0)
-Button22.Size = UDim2.new(0, 72, 0, 12)
-Button22.Font = Enum.Font.SourceSansBold
-Button22.Text = "Diamond 2"
-Button22.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button22.TextSize = 16.000
-Button22.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/dd6azyldODlG/raw"))()
-end)
-
-UICorner_23.CornerRadius = UDim.new(0, 6)
-UICorner_23.Parent = Button22
-
-Button23.Name = "Button23"
-Button23.Parent = Page
-Button23.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button23.BorderSizePixel = 0
-Button23.Position = UDim2.new(0.886759639, 0, 0.606757224, 0)
-Button23.Size = UDim2.new(0, 72, 0, 12)
-Button23.Font = Enum.Font.SourceSansBold
-Button23.Text = "Diamond 3"
-Button23.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button23.TextSize = 16.000
-Button23.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/oAOGbIfN3Hsl/raw"))()
-end)
-
-UICorner_24.CornerRadius = UDim.new(0, 6)
-UICorner_24.Parent = Button23
-
-Button24.Name = "Button24"
-Button24.Parent = Page
-Button24.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button24.BorderSizePixel = 0
-Button24.Position = UDim2.new(0.014118135, 0, 0.646757364, 0)
-Button24.Size = UDim2.new(0, 111, 0, 27)
-Button24.Font = Enum.Font.SourceSansBold
-Button24.Text = "Tp To Poma"
-Button24.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button24.TextSize = 16.000
-Button24.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/xbFj8g2uOS1o/raw"))()
-end)
-
-UICorner_25.CornerRadius = UDim.new(0, 6)
-UICorner_25.Parent = Button24
-
-About_23.Name = "About"
-About_23.Parent = Button24
-About_23.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_23.BackgroundTransparency = 1.000
-About_23.BorderSizePixel = 0
-About_23.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_23.Size = UDim2.new(0, 129, 0, 11)
-About_23.Font = Enum.Font.SourceSansBold
-About_23.Text = "About:  Crying Lady"
-About_23.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_23.TextSize = 12.000
-About_23.TextXAlignment = Enum.TextXAlignment.Left
-
-Button25.Name = "Button25"
-Button25.Parent = Page
-Button25.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button25.BorderSizePixel = 0
-Button25.Position = UDim2.new(0.190218762, 0, 0.646757364, 0)
-Button25.Size = UDim2.new(0, 111, 0, 27)
-Button25.Font = Enum.Font.SourceSansBold
-Button25.Text = "Tp To Tomi"
-Button25.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button25.TextSize = 16.000
-Button25.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/G3X7ahEaKPP0/raw"))()
-end)
-
-UICorner_26.CornerRadius = UDim.new(0, 6)
-UICorner_26.Parent = Button25
-
-About_24.Name = "About"
-About_24.Parent = Button25
-About_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_24.BackgroundTransparency = 1.000
-About_24.BorderSizePixel = 0
-About_24.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_24.Size = UDim2.new(0, 129, 0, 11)
-About_24.Font = Enum.Font.SourceSansBold
-About_24.Text = "About: Tp To Tomi"
-About_24.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_24.TextSize = 12.000
-About_24.TextXAlignment = Enum.TextXAlignment.Left
-
-Page1FarmShitBar_2.Name = "Page1FarmShitBar"
-Page1FarmShitBar_2.Parent = Page
-Page1FarmShitBar_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Page1FarmShitBar_2.BorderSizePixel = 0
-Page1FarmShitBar_2.Position = UDim2.new(-0.00012178241, 0, 0.763076901, 0)
-Page1FarmShitBar_2.Size = UDim2.new(0, 636, 0, 15)
-
-UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(86, 86, 86)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(57, 57, 57))}
-UIGradient_3.Parent = Page1FarmShitBar_2
-
-TextLabel_4.Parent = Page1FarmShitBar_2
-TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_4.BackgroundTransparency = 1.000
-TextLabel_4.BorderSizePixel = 0
-TextLabel_4.Position = UDim2.new(-0.00031520435, 0, 0.0113362633, 0)
-TextLabel_4.Size = UDim2.new(0, 636, 0, 12)
-TextLabel_4.Font = Enum.Font.SourceSansBold
-TextLabel_4.Text = "Breathing Shit/Demon"
-TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_4.TextSize = 20.000
-
-TextLabel_5.Parent = TextLabel_4
-TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_5.BackgroundTransparency = 1.000
-TextLabel_5.BorderSizePixel = 0
-TextLabel_5.Position = UDim2.new(0.0851449072, 0, -0.266667694, 0)
-TextLabel_5.Size = UDim2.new(0, 225, 0, 22)
-TextLabel_5.Font = Enum.Font.SourceSansBold
-TextLabel_5.Text = "\"Ez Demon And Breathing\""
-TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_5.TextSize = 11.000
-
-TextLabel_6.Parent = TextLabel_4
-TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_6.BackgroundTransparency = 1.000
-TextLabel_6.BorderSizePixel = 0
-TextLabel_6.Position = UDim2.new(0.628342152, 0, -0.266666681, 0)
-TextLabel_6.Size = UDim2.new(0, 95, 0, 22)
-TextLabel_6.Font = Enum.Font.SourceSansBold
-TextLabel_6.Text = "\"Experimentals\""
-TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_6.TextSize = 11.000
-
-Button26.Name = "Button26"
-Button26.Parent = Page
-Button26.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button26.BorderSizePixel = 0
-Button26.Position = UDim2.new(0.0141181229, 0, 0.82144624, 0)
-Button26.Size = UDim2.new(0, 111, 0, 22)
-Button26.Font = Enum.Font.SourceSansBold
-Button26.Text = "Muzan Esp"
-Button26.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button26.TextSize = 16.000
-Button26.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/RHea2dQh"))()
-end)
-
-UICorner_27.CornerRadius = UDim.new(0, 6)
-UICorner_27.Parent = Button26
-
-About_25.Name = "About"
-About_25.Parent = Button26
-About_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_25.BackgroundTransparency = 1.000
-About_25.BorderSizePixel = 0
-About_25.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_25.Size = UDim2.new(0, 129, 0, 11)
-About_25.Font = Enum.Font.SourceSansBold
-About_25.Text = ""
-About_25.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_25.TextSize = 12.000
-About_25.TextXAlignment = Enum.TextXAlignment.Left
-
-Button27.Name = "Button27"
-Button27.Parent = Page
-Button27.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button27.BorderSizePixel = 0
-Button27.Position = UDim2.new(0.188646421, 0, 0.82144624, 0)
-Button27.Size = UDim2.new(0, 111, 0, 22)
-Button27.Font = Enum.Font.SourceSansBold
-Button27.Text = "Tp To Muzan"
-Button27.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button27.TextSize = 16.000
-Button27.MouseButton1Down:connect(function()
-	local cf = CFrame.new(game:GetService("Workspace").Muzan.SpawnPos.Value)
-	local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(5), {CFrame = cf})                    
-	tween:Play()
-end)
-
-UICorner_28.CornerRadius = UDim.new(0, 6)
-UICorner_28.Parent = Button27
-
-About_26.Name = "About"
-About_26.Parent = Button27
-About_26.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_26.BackgroundTransparency = 1.000
-About_26.BorderSizePixel = 0
-About_26.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_26.Size = UDim2.new(0, 129, 0, 11)
-About_26.Font = Enum.Font.SourceSansBold
-About_26.Text = ""
-About_26.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_26.TextSize = 12.000
-About_26.TextXAlignment = Enum.TextXAlignment.Left
-
-Button28.Name = "Button28"
-Button28.Parent = Page
-Button28.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button28.BorderSizePixel = 0
-Button28.Position = UDim2.new(0.364747047, 0, 0.82144624, 0)
-Button28.Size = UDim2.new(0, 111, 0, 22)
-Button28.Font = Enum.Font.SourceSansBold
-Button28.Text = "Higoshima Tp"
-Button28.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button28.TextSize = 16.000
-Button28.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/oNMuGdnCq6pk/raw"))()
-end)
-
-UICorner_29.CornerRadius = UDim.new(0, 6)
-UICorner_29.Parent = Button28
-
-About_27.Name = "About"
-About_27.Parent = Button28
-About_27.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_27.BackgroundTransparency = 1.000
-About_27.BorderSizePixel = 0
-About_27.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_27.Size = UDim2.new(0, 129, 0, 11)
-About_27.Font = Enum.Font.SourceSansBold
-About_27.Text = ""
-About_27.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_27.TextSize = 12.000
-About_27.TextXAlignment = Enum.TextXAlignment.Left
-
-Button29.Name = "Button29"
-Button29.Parent = Page
-Button29.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button29.BorderSizePixel = 0
-Button29.Position = UDim2.new(0.539275348, 0, 0.82144624, 0)
-Button29.Size = UDim2.new(0, 111, 0, 22)
-Button29.Font = Enum.Font.SourceSansBold
-Button29.Text = "Esp Lilly Flowers"
-Button29.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button29.TextSize = 16.000
-Button29.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/65uwqHBM"))()
-end)
-
-UICorner_30.CornerRadius = UDim.new(0, 6)
-UICorner_30.Parent = Button29
-
-About_28.Name = "About"
-About_28.Parent = Button29
-About_28.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_28.BackgroundTransparency = 1.000
-About_28.BorderSizePixel = 0
-About_28.Position = UDim2.new(0.00900900923, 0, 0.99903363, 0)
-About_28.Size = UDim2.new(0, 129, 0, 11)
-About_28.Font = Enum.Font.SourceSansBold
-About_28.Text = ""
-About_28.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_28.TextSize = 12.000
-About_28.TextXAlignment = Enum.TextXAlignment.Left
-
-TextLabel_7.Parent = MainBar
-TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_7.BackgroundTransparency = 1.000
-TextLabel_7.BorderSizePixel = 0
-TextLabel_7.Position = UDim2.new(0.102201261, 0, 0.122448981, 0)
-TextLabel_7.Size = UDim2.new(0, 97, 0, 30)
-TextLabel_7.Font = Enum.Font.SourceSansBold
-TextLabel_7.Text = "LeanSlayer"
-TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_7.TextSize = 35.000
-
-TextLabel_8.Parent = TextLabel_7
-TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_8.BackgroundTransparency = 1.000
-TextLabel_8.BorderSizePixel = 0
-TextLabel_8.Position = UDim2.new(3.54637575, 0, 0.0666666627, 0)
-TextLabel_8.Size = UDim2.new(0, 187, 0, 32)
-TextLabel_8.Font = Enum.Font.SourceSansBold
-TextLabel_8.Text = "Made By CandyLean#2645"
-TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_8.TextScaled = true
-TextLabel_8.TextSize = 11.000
-TextLabel_8.TextWrapped = true
-
-ImageButton.Parent = MainBar
-ImageButton.Active = false
-ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ImageButton.BackgroundTransparency = 1.000
-ImageButton.Position = UDim2.new(0.943610609, 0, 0.265306115, 0)
-ImageButton.Selectable = false
-ImageButton.Size = UDim2.new(0, 26, 0, 28)
-
-TextButton.Parent = ImageButton
-TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton.BackgroundTransparency = 1.000
-TextButton.Position = UDim2.new(0.307692349, 0, -0.392857134, 0)
-TextButton.Size = UDim2.new(0, 27, 0, 28)
-TextButton.Font = Enum.Font.SourceSansBold
-TextButton.Text = "X"
-TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextButton.TextSize = 26.000
-
-BottomBar.Name = "BottomBar"
-BottomBar.Parent = MainBar
-BottomBar.BackgroundColor3 = Color3.fromRGB(159, 29, 29)
-BottomBar.BorderSizePixel = 0
-BottomBar.Position = UDim2.new(0, 0, 6.95420885, 0)
-BottomBar.Size = UDim2.new(0, 636, 0, 33)
-BottomBar.ZIndex = 999999999
-
-TextLabel_9.Parent = BottomBar
-TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_9.BackgroundTransparency = 1.000
-TextLabel_9.BorderSizePixel = 0
-TextLabel_9.Position = UDim2.new(0.0095820874, 0, 0.151515156, 0)
-TextLabel_9.Size = UDim2.new(0, 374, 0, 22)
-TextLabel_9.ZIndex = 999999999
-TextLabel_9.Font = Enum.Font.SourceSansBold
-TextLabel_9.Text = "Made For The Best Project Slayer Experience"
-TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_9.TextSize = 22.000
-
-TextBox.Parent = BottomBar
-TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextBox.BackgroundTransparency = 1.000
-TextBox.Position = UDim2.new(0.594339609, 0, 0, 0)
-TextBox.Size = UDim2.new(0, 257, 0, 33)
-TextBox.ZIndex = 999999999
-TextBox.ClearTextOnFocus = false
-TextBox.Font = Enum.Font.SourceSansBold
-TextBox.Text = "discord.gg/scriptcity"
-TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextBox.TextSize = 30.000
-TextBox.TextWrapped = true
-
-Helder.Name = "Helder"
-Helder.Parent = MainBar
-Helder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Helder.BackgroundTransparency = 1.000
-Helder.Position = UDim2.new(0.297169805, 0, 0.10204082, 0)
-Helder.Size = UDim2.new(0, 419, 0, 43)
-
-Page1b.Name = "Page1b"
-Page1b.Parent = Helder
-Page1b.BackgroundColor3 = Color3.fromRGB(163, 50, 50)
-Page1b.BorderSizePixel = 0
-Page1b.Position = UDim2.new(0.465408802, 0, 0.163265303, 0)
-Page1b.Size = UDim2.new(0, 102, 0, 33)
-Page1b.Font = Enum.Font.SourceSansBold
-Page1b.Text = "Page1"
-Page1b.TextColor3 = Color3.fromRGB(255, 255, 255)
-Page1b.TextSize = 16.000
-
-UICorner_31.CornerRadius = UDim.new(0, 6)
-UICorner_31.Parent = Page1b
-
-Page2b.Name = "Page2b"
-Page2b.Parent = Helder
-Page2b.BackgroundColor3 = Color3.fromRGB(163, 50, 50)
-Page2b.BorderSizePixel = 0
-Page2b.Position = UDim2.new(0.295597494, 0, 0.163265303, 0)
-Page2b.Size = UDim2.new(0, 102, 0, 33)
-Page2b.Font = Enum.Font.SourceSansBold
-Page2b.Text = "Page 2"
-Page2b.TextColor3 = Color3.fromRGB(255, 255, 255)
-Page2b.TextSize = 16.000
-
-UICorner_32.CornerRadius = UDim.new(0, 6)
-UICorner_32.Parent = Page2b
-
-UIListLayout.Parent = Helder
-UIListLayout.FillDirection = Enum.FillDirection.Horizontal
-UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
-UIListLayout.Padding = UDim.new(0, 3)
-
-Page2.Name = "Page2"
-Page2.Parent = MainBar
-Page2.Active = true
-Page2.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
-Page2.BackgroundTransparency = 0.100
-Page2.BorderSizePixel = 0
-Page2.Position = UDim2.new(0, 0, 0.999999821, 0)
-Page2.Size = UDim2.new(0, 636, 0, 325)
-Page2.Visible = false
-Page2.ScrollBarThickness = 0
-Page2.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
-
-PageName_2.Name = "PageName"
-PageName_2.Parent = Page2
-PageName_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-PageName_2.BackgroundTransparency = 1.000
-PageName_2.BorderSizePixel = 0
-PageName_2.Position = UDim2.new(0.0108845066, 0, 0, 0)
-PageName_2.Size = UDim2.new(0, 141, 0, 13)
-PageName_2.Font = Enum.Font.SourceSansBold
-PageName_2.Text = "Player/Misc/Other"
-PageName_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-PageName_2.TextSize = 14.000
-PageName_2.TextXAlignment = Enum.TextXAlignment.Left
-
-About_29.Name = "About"
-About_29.Parent = PageName_2
-About_29.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_29.BackgroundTransparency = 1.000
-About_29.BorderSizePixel = 0
-About_29.Position = UDim2.new(0, 0, 1.09846139, 0)
-About_29.Size = UDim2.new(0, 217, 0, 13)
-About_29.Font = Enum.Font.SourceSansBold
-About_29.Text = "Experimental Stuff"
-About_29.TextColor3 = Color3.fromRGB(255, 255, 255)
-About_29.TextSize = 12.000
-About_29.TextXAlignment = Enum.TextXAlignment.Left
-
-ColorBar_2.Name = "ColorBar"
-ColorBar_2.Parent = Page2
-ColorBar_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ColorBar_2.BorderSizePixel = 0
-ColorBar_2.Position = UDim2.new(0.0108845066, 0, 0.0399999991, 0)
-ColorBar_2.Size = UDim2.new(0, 226, 0, 2)
-
-UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(86, 86, 86)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(57, 57, 57))}
-UIGradient_4.Parent = ColorBar_2
-
-Button2_2.Name = "Button2"
-Button2_2.Parent = Page2
-Button2_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button2_2.BorderSizePixel = 0
-Button2_2.Position = UDim2.new(0.190218762, 0, 0.0836804211, 0)
-Button2_2.Size = UDim2.new(0, 111, 0, 27)
-Button2_2.Font = Enum.Font.SourceSansBold
-Button2_2.Text = "Low Gravity"
-Button2_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button2_2.TextSize = 16.000
-Button2_2.MouseButton1Down:connect(function()
-	game.workspace.Gravity = 10.5
-end)
-
-UICorner_33.CornerRadius = UDim.new(0, 6)
-UICorner_33.Parent = Button2_2
-
-About_30.Name = "About"
-About_30.Parent = Button2_2
-About_30.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_30.BackgroundTransparency = 1.000
-About_30.BorderSizePixel = 0
-About_30.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_30.Size = UDim2.new(0, 111, 0, 11)
-About_30.Font = Enum.Font.SourceSansBold
-About_30.Text = "  About: No Gravity"
-About_30.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_30.TextSize = 12.000
-About_30.TextXAlignment = Enum.TextXAlignment.Left
-
-Button1_2.Name = "Button1"
-Button1_2.Parent = Page2
-Button1_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button1_2.BorderSizePixel = 0
-Button1_2.Position = UDim2.new(0.014118134, 0, 0.0836804211, 0)
-Button1_2.Size = UDim2.new(0, 111, 0, 27)
-Button1_2.Font = Enum.Font.SourceSansBold
-Button1_2.Text = "Walkspeed"
-Button1_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button1_2.TextSize = 16.000
-Button1_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/Ech9rjn58lkr/raw"))()
-end)
-
-UICorner_34.CornerRadius = UDim.new(0, 6)
-UICorner_34.Parent = Button1_2
-
-About_31.Name = "About"
-About_31.Parent = Button1_2
-About_31.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_31.BackgroundTransparency = 1.000
-About_31.BorderSizePixel = 0
-About_31.Position = UDim2.new(-0.0299998783, 0, 0.999034166, 0)
-About_31.Size = UDim2.new(0, 115, 0, 11)
-About_31.Font = Enum.Font.SourceSansBold
-About_31.Text = "  About: Explains Itself"
-About_31.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_31.TextSize = 12.000
-About_31.TextXAlignment = Enum.TextXAlignment.Left
-
-Button3_2.Name = "Button3"
-Button3_2.Parent = Page2
-Button3_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button3_2.BorderSizePixel = 0
-Button3_2.Position = UDim2.new(0.364747077, 0, 0.0836804211, 0)
-Button3_2.Size = UDim2.new(0, 111, 0, 27)
-Button3_2.Font = Enum.Font.SourceSansBold
-Button3_2.Text = "Gravity Off"
-Button3_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button3_2.TextSize = 16.000
-Button3_2.MouseButton1Down:connect(function()
-	game.workspace.Gravity = 155.0
-end)
-
-
-UICorner_35.CornerRadius = UDim.new(0, 6)
-UICorner_35.Parent = Button3_2
-
-About_32.Name = "About"
-About_32.Parent = Button3_2
-About_32.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_32.BackgroundTransparency = 1.000
-About_32.BorderSizePixel = 0
-About_32.Position = UDim2.new(-0.0299998783, 0, 0.999034166, 0)
-About_32.Size = UDim2.new(0, 115, 0, 11)
-About_32.Font = Enum.Font.SourceSansBold
-About_32.Text = "  About: Explains Itself"
-About_32.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_32.TextSize = 12.000
-About_32.TextXAlignment = Enum.TextXAlignment.Left
-
-Button4_2.Name = "Button4"
-Button4_2.Parent = Page2
-Button4_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button4_2.BorderSizePixel = 0
-Button4_2.Position = UDim2.new(0.539275348, 0, 0.0836804211, 0)
-Button4_2.Size = UDim2.new(0, 111, 0, 27)
-Button4_2.Font = Enum.Font.SourceSansBold
-Button4_2.Text = "Inf Jump"
-Button4_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button4_2.TextSize = 16.000
-Button4_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/Oaj0wIImcxoM/raw"))()
-end)
-
-
-UICorner_36.CornerRadius = UDim.new(0, 6)
-UICorner_36.Parent = Button4_2
-
-About_33.Name = "About"
-About_33.Parent = Button4_2
-About_33.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_33.BackgroundTransparency = 1.000
-About_33.BorderSizePixel = 0
-About_33.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_33.Size = UDim2.new(0, 111, 0, 11)
-About_33.Font = Enum.Font.SourceSansBold
-About_33.Text = "  About: Unlimited Jump"
-About_33.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_33.TextSize = 12.000
-About_33.TextXAlignment = Enum.TextXAlignment.Left
-
-Button5_2.Name = "Button5"
-Button5_2.Parent = Page2
-Button5_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button5_2.BorderSizePixel = 0
-Button5_2.Position = UDim2.new(0.713803649, 0, 0.0836804211, 0)
-Button5_2.Size = UDim2.new(0, 111, 0, 27)
-Button5_2.Font = Enum.Font.SourceSansBold
-Button5_2.Text = "Invisible Fly"
-Button5_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button5_2.TextSize = 16.000
-Button5_2.MouseButton1Down:connect(function()
-
-
-	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Press X Invisible Fly ", "All")
-	--loadstring(game:HttpGet("https://raw.githubusercontent.com/KeoneGithub/KeoneGithub/main/DemonCockCandy"))()
-	local Speed = 500
-
-
-	loadstring(game:HttpGet("https://pastebin.com/raw/7kQvN82t"))()
-	local UIS = game:GetService("UserInputService")
-	local OnRender = game:GetService("RunService").RenderStepped
-
-	local Player = game:GetService("Players").LocalPlayer
-	local Character = Player.Character or Player.CharacterAdded:Wait()
-
-	local Camera = workspace.CurrentCamera
-	local Root = Character:WaitForChild("HumanoidRootPart")
-
-	local C1, C2, C3;
-	local Nav = {Flying = false, Forward = false, Backward = false, Left = false, Right = false}
-	C1 = UIS.InputBegan:Connect(function(Input)
-		if Input.UserInputType == Enum.UserInputType.Keyboard then
-			if Input.KeyCode == Enum.KeyCode.X then
-				Nav.Flying = not Nav.Flying
-				Root.Anchored = Nav.Flying
-			elseif Input.KeyCode == Enum.KeyCode.W then
-				Nav.Forward = true
-			elseif Input.KeyCode == Enum.KeyCode.S then
-				Nav.Backward = true
-			elseif Input.KeyCode == Enum.KeyCode.A then
-				Nav.Left = true
-			elseif Input.KeyCode == Enum.KeyCode.D then
-				Nav.Right = true
-			end
-		end
+Title_9.Name = "Title"
+Title_9.Parent = Button_7
+Title_9.AnchorPoint = Vector2.new(0, 0.5)
+Title_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_9.BackgroundTransparency = 1.000
+Title_9.Position = UDim2.new(0, 8, 0.5, 0)
+Title_9.Size = UDim2.new(0, 49, 1, -8)
+Title_9.Font = Enum.Font.Gotham
+Title_9.Text = "FAST PICKUP ITEMS"
+Title_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_9.TextSize = 10.000
+Title_9.TextTransparency = 0.300
+Title_9.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_8.Name = "Button_8"
+Button_8.Parent = Bottom_Container
+Button_8.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_8.BorderSizePixel = 0
+Button_8.LayoutOrder = 1
+Button_8.Size = UDim2.new(1, 0, 0, 26)
+Button_8.AutoButtonColor = false
+Button_8.Font = Enum.Font.SourceSans
+Button_8.Text = ""
+Button_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_8.TextSize = 14.000
+Button_8.MouseButton1Down:connect(function()
+
+
+	local mod = require(game:GetService("ReplicatedStorage").Modules.Client["Player_skills_handler"])
+
+	testicles = hookfunction(mod.KeyDown, function(a, b)
+		a.delay_between_moves = 0
+		a.waiting_for_action = false
+		return testicles(a, b)
 	end)
+end)
 
-	C2 = UIS.InputEnded:Connect(function(Input)
-		if Input.UserInputType == Enum.UserInputType.Keyboard then
-			if Input.KeyCode == Enum.KeyCode.W then
-				Nav.Forward = false
-			elseif Input.KeyCode == Enum.KeyCode.S then
-				Nav.Backward = false
-			elseif Input.KeyCode == Enum.KeyCode.A then
-				Nav.Left = false
-			elseif Input.KeyCode == Enum.KeyCode.D then
-				Nav.Right = false
-			end
-		end
-	end)
+Title_10.Name = "Title"
+Title_10.Parent = Button_8
+Title_10.AnchorPoint = Vector2.new(0, 0.5)
+Title_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_10.BackgroundTransparency = 1.000
+Title_10.Position = UDim2.new(0, 8, 0.5, 0)
+Title_10.Size = UDim2.new(0, 49, 1, -8)
+Title_10.Font = Enum.Font.Gotham
+Title_10.Text = "REMOVE HIT DELAY"
+Title_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_10.TextSize = 10.000
+Title_10.TextTransparency = 0.300
+Title_10.TextXAlignment = Enum.TextXAlignment.Left
 
-	C3 = Camera:GetPropertyChangedSignal("CFrame"):Connect(function()
-		if Nav.Flying then
-			Root.CFrame = CFrame.new(Root.CFrame.Position, Root.CFrame.Position + Camera.CFrame.LookVector)
-		end
-	end)
+Button_9.Name = "Button_9"
+Button_9.Parent = Bottom_Container
+Button_9.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_9.BorderSizePixel = 0
+Button_9.LayoutOrder = 1
+Button_9.Size = UDim2.new(1, 0, 0, 26)
+Button_9.AutoButtonColor = false
+Button_9.Font = Enum.Font.SourceSans
+Button_9.Text = ""
+Button_9.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_9.TextSize = 14.000
+Button_9.MouseButton1Down:connect(function()
 
-	while true do -- not EndAll
-		local Delta = OnRender:Wait()
-		if Nav.Flying then
-			if Nav.Forward then
-				Root.CFrame = Root.CFrame + (Camera.CFrame.LookVector * (Delta * Speed))
+
+
+	getgenv().name = "UnknownUser"
+
+	local Plr = game.Players.LocalPlayer
+	for Index, Value in next, game:GetDescendants() do 
+		if Value.ClassName == "TextLabel" then 
+			local has = string.find(Value.Text,Plr.Name) 
+			if has then 
+				local str = Value.Text:gsub(Plr.Name,name)
+				Value.Text = str 
 			end
-			if Nav.Backward then
-				Root.CFrame = Root.CFrame + (-Camera.CFrame.LookVector * (Delta * Speed))
-			end
-			if Nav.Left then
-				Root.CFrame = Root.CFrame + (-Camera.CFrame.RightVector * (Delta * Speed))
-			end
-			if Nav.Right then
-				Root.CFrame = Root.CFrame + (Camera.CFrame.RightVector * (Delta * Speed))
-			end
+			Value:GetPropertyChangedSignal("Text"):Connect(function()
+				local str = Value.Text:gsub(Plr.Name,name)
+				Value.Text = str 
+			end)
 		end
 	end
 
---[[C1:Disconnect()
-C2:Disconnect()
-C3:Disconnect()
-if Nav.Flying then
-    Root.Anchored = false
-end]]
-end)
+	game.DescendantAdded:Connect(function(Value)
+		if Value.ClassName == "TextLabel" then 
+			local has = string.find(Value.Text,Plr.Name)
+			Value:GetPropertyChangedSignal("Text"):Connect(function()
+				local str = Value.Text:gsub(Plr.Name,name)
+				Value.Text = str 
+			end)
+			if has then 
+				local str = Value.Text:gsub(Plr.Name,name)
+				Value.Text = str 
+			end
 
-
-UICorner_37.CornerRadius = UDim.new(0, 6)
-UICorner_37.Parent = Button5_2
-
-About_34.Name = "About"
-About_34.Parent = Button5_2
-About_34.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_34.BackgroundTransparency = 1.000
-About_34.BorderSizePixel = 0
-About_34.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_34.Size = UDim2.new(0, 123, 0, 11)
-About_34.Font = Enum.Font.SourceSansBold
-About_34.Text = "  About:  Kickable But Works"
-About_34.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_34.TextSize = 12.000
-About_34.TextXAlignment = Enum.TextXAlignment.Left
-
-Button6_2.Name = "Button6"
-Button6_2.Parent = Page2
-Button6_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button6_2.BorderSizePixel = 0
-Button6_2.Position = UDim2.new(0.0141180912, 0, 0.197526574, 0)
-Button6_2.Size = UDim2.new(0, 111, 0, 27)
-Button6_2.Font = Enum.Font.SourceSansBold
-Button6_2.Text = "Clear Fog"
-Button6_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button6_2.TextSize = 16.000
-Button6_2.MouseButton1Down:connect(function()
-	game.Lighting.Atmosphere:Destroy()
-	game.Lighting.DepthOfField:Destroy()
-	game.Lighting.FogStart = 1e20
-	game.Lighting.FogEnd = 1e20
-	-------------
-end)
-
-UICorner_38.CornerRadius = UDim.new(0, 6)
-UICorner_38.Parent = Button6_2
-
-About_35.Name = "About"
-About_35.Parent = Button6_2
-About_35.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_35.BackgroundTransparency = 1.000
-About_35.BorderSizePixel = 0
-About_35.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_35.Size = UDim2.new(0, 123, 0, 11)
-About_35.Font = Enum.Font.SourceSansBold
-About_35.Text = "  About:  Explains Itself"
-About_35.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_35.TextSize = 12.000
-About_35.TextXAlignment = Enum.TextXAlignment.Left
-
-Button7_2.Name = "Button7"
-Button7_2.Parent = Page2
-Button7_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button7_2.BorderSizePixel = 0
-Button7_2.Position = UDim2.new(0.190218717, 0, 0.197526574, 0)
-Button7_2.Size = UDim2.new(0, 111, 0, 27)
-Button7_2.Font = Enum.Font.SourceSansBold
-Button7_2.Text = "Full Bright"
-Button7_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button7_2.TextSize = 16.000
-Button7_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/zawf2WJv0jvi/raw"))()
-end)
-
-UICorner_39.CornerRadius = UDim.new(0, 6)
-UICorner_39.Parent = Button7_2
-
-About_36.Name = "About"
-About_36.Parent = Button7_2
-About_36.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_36.BackgroundTransparency = 1.000
-About_36.BorderSizePixel = 0
-About_36.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_36.Size = UDim2.new(0, 123, 0, 11)
-About_36.Font = Enum.Font.SourceSansBold
-About_36.Text = "  About:  Explains Itself"
-About_36.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_36.TextSize = 12.000
-About_36.TextXAlignment = Enum.TextXAlignment.Left
-
-Button8_2.Name = "Button8"
-Button8_2.Parent = Page2
-Button8_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button8_2.BorderSizePixel = 0
-Button8_2.Position = UDim2.new(0.364747018, 0, 0.197526574, 0)
-Button8_2.Size = UDim2.new(0, 111, 0, 27)
-Button8_2.Font = Enum.Font.SourceSansBold
-Button8_2.Text = "Smooth Graphics"
-Button8_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button8_2.TextSize = 16.000
-Button8_2.MouseButton1Down:connect(function()
-	game:GetService("MaterialService")["Use2022Materials"] = true
-end)
-
-UICorner_40.CornerRadius = UDim.new(0, 6)
-UICorner_40.Parent = Button8_2
-
-About_37.Name = "About"
-About_37.Parent = Button8_2
-About_37.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_37.BackgroundTransparency = 1.000
-About_37.BorderSizePixel = 0
-About_37.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_37.Size = UDim2.new(0, 123, 0, 11)
-About_37.Font = Enum.Font.SourceSansBold
-About_37.Text = "  About:  Explains Itself"
-About_37.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_37.TextSize = 12.000
-About_37.TextXAlignment = Enum.TextXAlignment.Left
-
-Button9_2.Name = "Button9"
-Button9_2.Parent = Page2
-Button9_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button9_2.BorderSizePixel = 0
-Button9_2.Position = UDim2.new(0.539275289, 0, 0.197526574, 0)
-Button9_2.Size = UDim2.new(0, 111, 0, 27)
-Button9_2.Font = Enum.Font.SourceSansBold
-Button9_2.Text = "Chat Spy [F9]"
-Button9_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button9_2.TextSize = 16.000
-Button9_2.MouseButton1Down:connect(function()
-	local event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents
-	event.OnMessageDoneFiltering.OnClientEvent:Connect(function(object)
-		print(string.format("%s : %s", object.FromSpeaker, object.Message or ""))
+		end
 	end)
 end)
 
-UICorner_41.CornerRadius = UDim.new(0, 6)
-UICorner_41.Parent = Button9_2
+Title_11.Name = "Title"
+Title_11.Parent = Button_9
+Title_11.AnchorPoint = Vector2.new(0, 0.5)
+Title_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_11.BackgroundTransparency = 1.000
+Title_11.Position = UDim2.new(0, 8, 0.5, 0)
+Title_11.Size = UDim2.new(0, 49, 1, -8)
+Title_11.Font = Enum.Font.Gotham
+Title_11.Text = "HIDE NAME CLIENT"
+Title_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_11.TextSize = 10.000
+Title_11.TextTransparency = 0.300
+Title_11.TextXAlignment = Enum.TextXAlignment.Left
 
-About_38.Name = "About"
-About_38.Parent = Button9_2
-About_38.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_38.BackgroundTransparency = 1.000
-About_38.BorderSizePixel = 0
-About_38.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_38.Size = UDim2.new(0, 123, 0, 11)
-About_38.Font = Enum.Font.SourceSansBold
-About_38.Text = "  About:  Explains Itself"
-About_38.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_38.TextSize = 12.000
-About_38.TextXAlignment = Enum.TextXAlignment.Left
+Button_10title.Name = "Button_10title"
+Button_10title.Parent = Bottom_Container
+Button_10title.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_10title.BorderColor3 = Color3.fromRGB(107, 54, 107)
+Button_10title.LayoutOrder = 1
+Button_10title.Position = UDim2.new(0.0467032976, 0, 0.0088888891, 0)
+Button_10title.Size = UDim2.new(1, 0, 0, 26)
+Button_10title.AutoButtonColor = false
+Button_10title.Font = Enum.Font.GothamBold
+Button_10title.Text = "OP MENUS"
+Button_10title.TextColor3 = Color3.fromRGB(132, 67, 132)
+Button_10title.TextSize = 14.000
 
-Button10_2.Name = "Button10"
-Button10_2.Parent = Page2
-Button10_2.BackgroundColor3 = Color3.fromRGB(157, 157, 157)
-Button10_2.BorderSizePixel = 0
-Button10_2.Position = UDim2.new(0.713803589, 0, 0.197526574, 0)
-Button10_2.Size = UDim2.new(0, 111, 0, 27)
-Button10_2.Font = Enum.Font.SourceSansBold
-Button10_2.Text = "Anti Afk "
-Button10_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button10_2.TextSize = 16.000
-Button10_2.MouseButton1Down:connect(function()
-	local vu = game:GetService("VirtualUser")
-	game:GetService("Players").LocalPlayer.Idled:connect(function()
-		vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-		wait(1)
-		vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
-	end)
+Title_12.Name = "Title"
+Title_12.Parent = Button_10title
+Title_12.AnchorPoint = Vector2.new(0, 0.5)
+Title_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_12.BackgroundTransparency = 1.000
+Title_12.Position = UDim2.new(0, 8, 0.5, 0)
+Title_12.Size = UDim2.new(0, 49, 1, -8)
+Title_12.Font = Enum.Font.Gotham
+Title_12.Text = ""
+Title_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_12.TextSize = 10.000
+Title_12.TextTransparency = 0.300
+Title_12.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_11.Name = "Button_11"
+Button_11.Parent = Bottom_Container
+Button_11.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_11.BorderSizePixel = 0
+Button_11.LayoutOrder = 1
+Button_11.Size = UDim2.new(1, 0, 0, 26)
+Button_11.AutoButtonColor = false
+Button_11.Font = Enum.Font.SourceSans
+Button_11.Text = ""
+Button_11.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_11.TextSize = 14.000
+Button_11.MouseButton1Down:connect(function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Blackout4781/thing/main/ggg"))()
 end)
 
-UICorner_42.CornerRadius = UDim.new(0, 6)
-UICorner_42.Parent = Button10_2
+Title_13.Name = "Title"
+Title_13.Parent = Button_11
+Title_13.AnchorPoint = Vector2.new(0, 0.5)
+Title_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_13.BackgroundTransparency = 1.000
+Title_13.Position = UDim2.new(0, 8, 0.5, 0)
+Title_13.Size = UDim2.new(0, 49, 1, -8)
+Title_13.Font = Enum.Font.Gotham
+Title_13.Text = "BEST OP KILLAURA MENU [GRINCH-WARE]"
+Title_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_13.TextSize = 10.000
+Title_13.TextTransparency = 0.300
+Title_13.TextXAlignment = Enum.TextXAlignment.Left
 
-About_39.Name = "About"
-About_39.Parent = Button10_2
-About_39.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_39.BackgroundTransparency = 1.000
-About_39.BorderSizePixel = 0
-About_39.Position = UDim2.new(0, 0, 0.999034166, 0)
-About_39.Size = UDim2.new(0, 123, 0, 11)
-About_39.Font = Enum.Font.SourceSansBold
-About_39.Text = "  About:  Explains Itself"
-About_39.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_39.TextSize = 12.000
-About_39.TextXAlignment = Enum.TextXAlignment.Left
-
-Button11_2.Name = "Button11"
-Button11_2.Parent = Page2
-Button11_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button11_2.BorderSizePixel = 0
-Button11_2.Position = UDim2.new(0.0141181359, 0, 0.311372727, 0)
-Button11_2.Size = UDim2.new(0, 111, 0, 27)
-Button11_2.Font = Enum.Font.SourceSansBold
-Button11_2.Text = "Esp Players"
-Button11_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button11_2.TextSize = 16.000
-Button11_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/KRBp1aTPQbXN/raw"))()
+Button_11_2.Name = "Button_11"
+Button_11_2.Parent = Bottom_Container
+Button_11_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_11_2.BorderSizePixel = 0
+Button_11_2.LayoutOrder = 1
+Button_11_2.Size = UDim2.new(1, 0, 0, 26)
+Button_11_2.AutoButtonColor = false
+Button_11_2.Font = Enum.Font.SourceSans
+Button_11_2.Text = ""
+Button_11_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_11_2.TextSize = 14.000
+Button_11_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet(('https://moonrise.gay/Whitelist.lua'),true))()
 end)
 
-UICorner_43.CornerRadius = UDim.new(0, 6)
-UICorner_43.Parent = Button11_2
+Title_14.Name = "Title"
+Title_14.Parent = Button_11_2
+Title_14.AnchorPoint = Vector2.new(0, 0.5)
+Title_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_14.BackgroundTransparency = 1.000
+Title_14.Position = UDim2.new(0, 8, 0.5, 0)
+Title_14.Size = UDim2.new(0, 49, 1, -8)
+Title_14.Font = Enum.Font.Gotham
+Title_14.Text = "OP KILL AURA MENU [MOON-RISE]"
+Title_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_14.TextSize = 10.000
+Title_14.TextTransparency = 0.300
+Title_14.TextXAlignment = Enum.TextXAlignment.Left
 
-About_40.Name = "About"
-About_40.Parent = Button11_2
-About_40.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_40.BackgroundTransparency = 1.000
-About_40.BorderSizePixel = 0
-About_40.Position = UDim2.new(-0.0259902533, 0, 0.99903363, 0)
-About_40.Size = UDim2.new(0, 113, 0, 11)
-About_40.Font = Enum.Font.SourceSansBold
-About_40.Text = "  About: Highlights Them"
-About_40.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_40.TextSize = 12.000
-About_40.TextXAlignment = Enum.TextXAlignment.Left
-
-Button12_2.Name = "Button12"
-Button12_2.Parent = Page2
-Button12_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button12_2.BorderSizePixel = 0
-Button12_2.Position = UDim2.new(0.190218762, 0, 0.311372727, 0)
-Button12_2.Size = UDim2.new(0, 111, 0, 27)
-Button12_2.Font = Enum.Font.SourceSansBold
-Button12_2.Text = "Fist KillAura"
-Button12_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button12_2.TextSize = 16.000
-Button12_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/Ih24YGRQ5yCb/raw"))()
-end)
-
-UICorner_44.CornerRadius = UDim.new(0, 6)
-UICorner_44.Parent = Button12_2
-
-About_41.Name = "About"
-About_41.Parent = Button12_2
-About_41.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_41.BackgroundTransparency = 1.000
-About_41.BorderSizePixel = 0
-About_41.Position = UDim2.new(0.0460818186, 0, 0.99903363, 0)
-About_41.Size = UDim2.new(0, 112, 0, 11)
-About_41.Font = Enum.Font.SourceSansBold
-About_41.Text = "  About: Equip Fist 2x"
-About_41.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_41.TextSize = 12.000
-About_41.TextXAlignment = Enum.TextXAlignment.Left
-
-Button13_2.Name = "Button13"
-Button13_2.Parent = Page2
-Button13_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button13_2.BorderSizePixel = 0
-Button13_2.Position = UDim2.new(0.364747047, 0, 0.311372727, 0)
-Button13_2.Size = UDim2.new(0, 111, 0, 27)
-Button13_2.Font = Enum.Font.SourceSansBold
-Button13_2.Text = "Sword KillAura"
-Button13_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button13_2.TextSize = 16.000
-Button13_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/zHJlBLYFoMnj/raw"))()
-end)
-
-UICorner_45.CornerRadius = UDim.new(0, 6)
-UICorner_45.Parent = Button13_2
-
-About_42.Name = "About"
-About_42.Parent = Button13_2
-About_42.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_42.BackgroundTransparency = 1.000
-About_42.BorderSizePixel = 0
-About_42.Position = UDim2.new(0.00849928334, 0, 0.99903363, 0)
-About_42.Size = UDim2.new(0, 110, 0, 11)
-About_42.Font = Enum.Font.SourceSansBold
-About_42.Text = "  About: Equip Sword 2x"
-About_42.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_42.TextSize = 12.000
-About_42.TextXAlignment = Enum.TextXAlignment.Left
-
-Button14_2.Name = "Button14"
-Button14_2.Parent = Page2
-Button14_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button14_2.BorderSizePixel = 0
-Button14_2.Position = UDim2.new(0.539275348, 0, 0.311372727, 0)
-Button14_2.Size = UDim2.new(0, 111, 0, 27)
-Button14_2.Font = Enum.Font.SourceSansBold
-Button14_2.Text = "Half-Quest Somi"
-Button14_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button14_2.TextSize = 16.000
-Button14_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/9x95El1AYxmR/raw"))()
-end)
-
-UICorner_46.CornerRadius = UDim.new(0, 6)
-UICorner_46.Parent = Button14_2
-
-About_43.Name = "About"
-About_43.Parent = Button14_2
-About_43.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_43.BackgroundTransparency = 1.000
-About_43.BorderSizePixel = 0
-About_43.Position = UDim2.new(0.0540537797, 0, 0.99903363, 0)
-About_43.Size = UDim2.new(0, 111, 0, 11)
-About_43.Font = Enum.Font.SourceSansBold
-About_43.Text = "About: Be Next To Somi"
-About_43.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_43.TextSize = 12.000
-About_43.TextXAlignment = Enum.TextXAlignment.Left
-
-Button15_2.Name = "Button15"
-Button15_2.Parent = Page2
-Button15_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button15_2.BorderSizePixel = 0
-Button15_2.Position = UDim2.new(0.712231338, 0, 0.311372727, 0)
-Button15_2.Size = UDim2.new(0, 111, 0, 27)
-Button15_2.Font = Enum.Font.SourceSansBold
-Button15_2.Text = "ServerHop"
-Button15_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button15_2.TextSize = 16.000
-Button15_2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://api.upload.systems/pastes/3WxTjEGrtNmv/raw"))()
-end)
-
-UICorner_47.CornerRadius = UDim.new(0, 6)
-UICorner_47.Parent = Button15_2
-
-About_44.Name = "About"
-About_44.Parent = Button15_2
-About_44.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_44.BackgroundTransparency = 1.000
-About_44.BorderSizePixel = 0
-About_44.Position = UDim2.new(0.0540540554, 0, 0.99903363, 0)
-About_44.Size = UDim2.new(0, 126, 0, 11)
-About_44.Font = Enum.Font.SourceSansBold
-About_44.Text = "About: Goes Random Server"
-About_44.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_44.TextSize = 12.000
-About_44.TextXAlignment = Enum.TextXAlignment.Left
-
-Button16_2.Name = "Button16"
-Button16_2.Parent = Page2
-Button16_2.BackgroundColor3 = Color3.fromRGB(168, 0, 0)
-Button16_2.BorderSizePixel = 0
-Button16_2.Position = UDim2.new(0.364747047, 0, 0.455988109, 0)
-Button16_2.Size = UDim2.new(0, 148, 0, 27)
-Button16_2.Font = Enum.Font.SourceSansBold
-Button16_2.Text = "OP AutoFarm Npc Menu"
-Button16_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Button16_2.TextSize = 16.000
-Button16_2.MouseButton1Down:connect(function()
-	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Credits To LeadMarker --CandyLean#2645", "All")
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/LeadMarker/Scripts/main/ProjectSlayer.lua"))()
-end)
-
-UICorner_48.CornerRadius = UDim.new(0, 6)
-UICorner_48.Parent = Button16_2
-
-About_45.Name = "About"
-About_45.Parent = Button16_2
-About_45.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-About_45.BackgroundTransparency = 1.000
-About_45.BorderSizePixel = 0
-About_45.Position = UDim2.new(0.0540540554, 0, 0.99903363, 0)
-About_45.Size = UDim2.new(0, 126, 0, 11)
-About_45.Font = Enum.Font.SourceSansBold
-About_45.Text = "About: LeadMarkers Menu"
-About_45.TextColor3 = Color3.fromRGB(179, 179, 179)
-About_45.TextSize = 12.000
-About_45.TextXAlignment = Enum.TextXAlignment.Left
-
-ImageLabel.Parent = MainBar
+ImageLabel.Parent = Main_2
 ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.BorderSizePixel = 0
-ImageLabel.Size = UDim2.new(0, 45, 0, 49)
-ImageLabel.Image = "http://www.roblox.com/asset/?id=2747400694"
+ImageLabel.Position = UDim2.new(0, 0, 0.0122438576, 0)
+ImageLabel.Size = UDim2.new(0, 54, 0, 54)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=2000479016"
+ImageLabel.ImageColor3 = Color3.fromRGB(132, 67, 132)
 
-ImageLabel_2.Parent = MainBar
+ImageLabel_2.Parent = Main_2
 ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BackgroundTransparency = 1.000
 ImageLabel_2.BorderSizePixel = 0
-ImageLabel_2.Size = UDim2.new(0, 635, 0, 345)
+ImageLabel_2.Size = UDim2.new(0, 395, 0, 185)
 ImageLabel_2.ZIndex = 0
-ImageLabel_2.Image = "http://www.roblox.com/asset/?id=3565825938"
-ImageLabel_2.ImageColor3 = Color3.fromRGB(159, 29, 29)
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=9799840046"
+ImageLabel_2.ImageColor3 = Color3.fromRGB(116, 88, 255)
+
+UsernameNprofile.Name = "UsernameNprofile"
+UsernameNprofile.Parent = Main_2
+UsernameNprofile.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+UsernameNprofile.BorderSizePixel = 0
+UsernameNprofile.Position = UDim2.new(0.457518607, 0, 0.0122438408, 0)
+UsernameNprofile.Size = UDim2.new(0, 197, 0, 54)
+UsernameNprofile.Style = Enum.FrameStyle.DropShadow
+
+PlayerImage.Name = "PlayerImage"
+PlayerImage.Parent = UsernameNprofile
+PlayerImage.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+PlayerImage.BackgroundTransparency = 1.000
+PlayerImage.BorderSizePixel = 0
+PlayerImage.Position = UDim2.new(0.00428532064, 0, -0.018455375, 0)
+PlayerImage.Size = UDim2.new(0, 51, 0, 45)
+PlayerImage.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+
+PlayerName.Name = "PlayerName"
+PlayerName.Parent = UsernameNprofile
+PlayerName.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+PlayerName.BackgroundTransparency = 1.000
+PlayerName.BorderSizePixel = 0
+PlayerName.Position = UDim2.new(0.364674836, 0, 0.323187888, 0)
+PlayerName.Size = UDim2.new(0, 109, 0, 17)
+PlayerName.Font = Enum.Font.GothamMedium
+PlayerName.TextColor3 = Color3.fromRGB(255, 255, 255)
+PlayerName.TextScaled = true
+PlayerName.TextSize = 14.000
+PlayerName.TextWrapped = true
+
+Frame.Parent = PlayerName
+Frame.BackgroundColor3 = Color3.fromRGB(129, 163, 255)
+Frame.BorderColor3 = Color3.fromRGB(125, 131, 255)
+Frame.Position = UDim2.new(0.0909090936, 0, 1.73684216, 0)
+Frame.Size = UDim2.new(0, 100, 0, 0)
 
 -- Scripts:
 
-local function IDYX_fake_script() -- ImageButton.Script 
-	local script = Instance.new('Script', ImageButton)
+local function ZMKDMHV_fake_script() -- Main_2.LocalScript 
+	local script = Instance.new('LocalScript', Main_2)
 
-	script.Parent.MouseButton1Down:Connect(function()
-		script.Parent.Parent.Parent.MainBar:Destroy()(true)
-	end)
-end
-coroutine.wrap(IDYX_fake_script)()
-local function UBZGSF_fake_script() -- TextButton.Script 
-	local script = Instance.new('Script', TextButton)
-
-	script.Parent.MouseButton1Down:Connect(function()
-		script.Parent.Parent.Parent.MainBar:Destroy()(true)
-	end)
-end
-coroutine.wrap(UBZGSF_fake_script)()
-local function POIVO_fake_script() -- Page1b.LocalScript 
-	local script = Instance.new('LocalScript', Page1b)
-
-	script.Parent.MouseButton1Down:Connect(function()
-		script.Parent.Parent.Parent.Page.Visible = true
-	end)
+	local Plr = game.Players.LocalPlayer
 	
-	script.Parent.MouseButton1Down:Connect(function()
-		script.Parent.Parent.Parent.Page2.Visible = false
-	end)
-end
-coroutine.wrap(POIVO_fake_script)()
-local function NJVF_fake_script() -- Page2b.LocalScript 
-	local script = Instance.new('LocalScript', Page2b)
-
-	script.Parent.MouseButton1Down:Connect(function()
-		script.Parent.Parent.Parent.Page2.Visible = true
-	end)
-	
-	script.Parent.MouseButton1Down:Connect(function()
-		script.Parent.Parent.Parent.Page.Visible = false
-	end)
-end
-coroutine.wrap(NJVF_fake_script)()
-local function EPHFJSA_fake_script() -- MainBar.LocalScript 
-	local script = Instance.new('LocalScript', MainBar)
-
-	local UserInputService = game:GetService("UserInputService")
-	
-	function onKeyPress(inputObject, gameProcessedEvent)
-		if not gameProcessedEvent then
-			if inputObject.KeyCode == Enum.KeyCode.T then 
-				if script.Parent.Parent.MainBar.Visible == false then
-					script.Parent.Parent.MainBar.Visible = true
-				else
-					script.Parent.Parent.MainBar.Visible = false
-				end
-			end
+	Plr:GetMouse().KeyDown:Connect(function(K)
+		if K == "-" then
+			script.Parent.Visible = true
 		end
-	end
+	end)
 	
-	UserInputService.InputBegan:connect(onKeyPress)
+	
+	local Plr = game.Players.LocalPlayer
+	
+	Plr:GetMouse().KeyDown:Connect(function(K)
+		if K == "=" then
+			script.Parent.Visible = false
+		end
+	end)
 end
-coroutine.wrap(EPHFJSA_fake_script)()
-local function COWMOO_fake_script() -- ScreenGui.LocalScript 
-	local script = Instance.new('LocalScript', ScreenGui)
+coroutine.wrap(ZMKDMHV_fake_script)()
+local function FYWOQZ_fake_script() -- UsernameNprofile.LocalScript 
+	local script = Instance.new('LocalScript', UsernameNprofile)
 
-	script.Active = true
-	script.Draggable = true
+	local frame = script.Parent
+	
+	
+	
+	local player = game.Players.LocalPlayer
+	
+	
+	
+	local userId = player.UserId
+	
+	local thumbType = Enum.ThumbnailType.AvatarBust
+	
+	local thumbSize = Enum.ThumbnailSize.Size420x420
+	
+	local content, isReady = game.Players:GetUserThumbnailAsync(userId, thumbType, thumbSize)
+	
+	
+	
+	
+	
+	frame.PlayerImage.Image = content
+	
+	frame.PlayerName.Text = player.Name
 end
-coroutine.wrap(COWMOO_fake_script)()
+coroutine.wrap(FYWOQZ_fake_script)()
