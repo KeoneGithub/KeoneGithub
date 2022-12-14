@@ -42,4 +42,1852 @@ notifications:notify{
     Length = 8.5
 }
 wait(8.6)
- local r = Instance.new("\83\99\114\101\101\110\71\117\105") local o = Instance.new("\70\114\97\109\101") local e = Instance.new("\73\109\97\103\101\76\97\98\101\108") local a = Instance.new("\70\114\97\109\101") local g = Instance.new("\84\101\120\116\76\97\98\101\108") local h = Instance.new("\70\114\97\109\101") local q = Instance.new("\85\73\76\105\115\116\76\97\121\111\117\116") local f = Instance.new("\84\101\120\116\76\97\98\101\108") local d = Instance.new("\83\99\114\111\108\108\105\110\103\70\114\97\109\101") local b = Instance.new("\70\114\97\109\101") local t = Instance.new("\85\73\76\105\115\116\76\97\121\111\117\116") local l = Instance.new("\84\101\120\116\66\117\116\116\111\110") local n = Instance.new("\84\101\120\116\76\97\98\101\108") local p = Instance.new("\84\101\120\116\66\117\116\116\111\110") local m = Instance.new("\84\101\120\116\76\97\98\101\108") local _ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local j_ = Instance.new("\84\101\120\116\76\97\98\101\108") local cj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local i = Instance.new("\84\101\120\116\76\97\98\101\108") local si = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rs = Instance.new("\84\101\120\116\76\97\98\101\108") local ors = Instance.new("\84\101\120\116\66\117\116\116\111\110") local eo = Instance.new("\84\101\120\116\76\97\98\101\108") local ae = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ga = Instance.new("\84\101\120\116\76\97\98\101\108") local hg = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qh = Instance.new("\84\101\120\116\76\97\98\101\108") local fq = Instance.new("\84\101\120\116\66\117\116\116\111\110") local df = Instance.new("\84\101\120\116\76\97\98\101\108") local bd = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_12 = Instance.new("\84\101\120\116\76\97\98\101\108") local lt = Instance.new("\84\101\120\116\66\117\116\116\111\110") local nl = Instance.new("\84\101\120\116\76\97\98\101\108") local pn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_14 = Instance.new("\84\101\120\116\76\97\98\101\108") local _m = Instance.new("\84\101\120\116\66\117\116\116\111\110") local j_m = Instance.new("\84\101\120\116\76\97\98\101\108") local cj_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ic = Instance.new("\84\101\120\116\76\97\98\101\108") local sic = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rsi = Instance.new("\84\101\120\116\76\97\98\101\108") local orsi = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_18 = Instance.new("\84\101\120\116\76\97\98\101\108") local aeo = Instance.new("\84\101\120\116\66\117\116\116\111\110") local gae = Instance.new("\84\101\120\116\76\97\98\101\108") local hga = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qhg = Instance.new("\84\101\120\116\76\97\98\101\108") local fqh = Instance.new("\84\101\120\116\66\117\116\116\111\110") local dfq = Instance.new("\84\101\120\116\76\97\98\101\108") local bdf = Instance.new("\84\101\120\116\66\117\116\116\111\110") local tbd = Instance.new("\84\101\120\116\76\97\98\101\108") local ltb = Instance.new("\84\101\120\116\66\117\116\116\111\110") local nlt = Instance.new("\84\101\120\116\76\97\98\101\108") local pnl = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mpn = Instance.new("\84\101\120\116\76\97\98\101\108") local _mp = Instance.new("\84\101\120\116\66\117\116\116\111\110") local j_mp = Instance.new("\84\101\120\116\76\97\98\101\108") local cj_m = Instance.new("\84\101\120\116\66\117\116\116\111\110") local icj = Instance.new("\84\101\120\116\76\97\98\101\108") local sicj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rsic = Instance.new("\84\101\120\116\76\97\98\101\108") local orsic = Instance.new("\84\101\120\116\66\117\116\116\111\110") local eors = Instance.new("\84\101\120\116\76\97\98\101\108") local aeor = Instance.new("\84\101\120\116\66\117\116\116\111\110") local gaeo = Instance.new("\84\101\120\116\76\97\98\101\108") local hgae = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qhga = Instance.new("\84\101\120\116\76\97\98\101\108") local fqhg = Instance.new("\84\101\120\116\66\117\116\116\111\110") local dfqh = Instance.new("\84\101\120\116\76\97\98\101\108") local bdfq = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_32 = Instance.new("\84\101\120\116\76\97\98\101\108") local ltbd = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_33 = Instance.new("\84\101\120\116\76\97\98\101\108") local pnlt = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_34 = Instance.new("\84\101\120\116\76\97\98\101\108") local _mpn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local j_mpn = Instance.new("\84\101\120\116\76\97\98\101\108") local pn_4 = Instance.new("\84\101\120\116\66\117\116\116\111\110") local icj_ = Instance.new("\84\101\120\116\76\97\98\101\108") local sicj_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rsicj = Instance.new("\84\101\120\116\76\97\98\101\108") local orsicj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local eorsi = Instance.new("\84\101\120\116\76\97\98\101\108") local aeors = Instance.new("\84\101\120\116\66\117\116\116\111\110") local gaeor = Instance.new("\84\101\120\116\76\97\98\101\108") local hgaeo = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qhgae = Instance.new("\84\101\120\116\76\97\98\101\108") local fqhga = Instance.new("\84\101\120\116\66\117\116\116\111\110") local dfqhg = Instance.new("\84\101\120\116\76\97\98\101\108") local bdfqh = Instance.new("\84\101\120\116\66\117\116\116\111\110") local tbdfq = Instance.new("\84\101\120\116\76\97\98\101\108") local ltbdf = Instance.new("\84\101\120\116\66\117\116\116\111\110") local g_43 = Instance.new("\84\101\120\116\76\97\98\101\108") local pnltb = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mpnlt = Instance.new("\84\101\120\116\76\97\98\101\108") local _mpnl = Instance.new("\84\101\120\116\66\117\116\116\111\110") local j_mpnl = Instance.new("\84\101\120\116\76\97\98\101\108") local cj_mpn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local icj_m = Instance.new("\84\101\120\116\76\97\98\101\108") local sicj_m = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rsicj_ = Instance.new("\84\101\120\116\76\97\98\101\108") local orsicj_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local eorsic = Instance.new("\84\101\120\116\76\97\98\101\108") local aeorsi = Instance.new("\84\101\120\116\66\117\116\116\111\110") local gaeors = Instance.new("\84\101\120\116\76\97\98\101\108") local hgaeor = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qhgaeo = Instance.new("\84\101\120\116\76\97\98\101\108") local fqhgae = Instance.new("\73\109\97\103\101\76\97\98\101\108") local dfqhga = Instance.new("\73\109\97\103\101\76\97\98\101\108") local bdfqhg = Instance.new("\84\101\120\116\76\97\98\101\108") local tbdfqh = Instance.new("\70\114\97\109\101") local ltbdfq = Instance.new("\73\109\97\103\101\76\97\98\101\108") local nltbdf = Instance.new("\84\101\120\116\76\97\98\101\108") local pnltbd = Instance.new("\70\114\97\109\101") r.Name = "\85\105\95\112\101\110\105\115" r.Parent = game.CoreGui r.ZIndexBehavior = Enum.ZIndexBehavior.Sibling o.Name = "\77\97\105\110\95\50" o.Parent = r o.BackgroundColor3 = Color3.fromRGB(23, 21, 30) o.BorderSizePixel = 0 o.Position = UDim2.new(0.240499958, 0, 0.161982521, 0) o.Size = UDim2.new(0, 395, 0, 388) o.Active = true o.Draggable = true e.Name = "\71\108\111\119" e.Parent = o e.BackgroundColor3 = Color3.fromRGB(99, 85, 255) e.BackgroundTransparency = 1.000 e.BorderSizePixel = 3 e.Position = UDim2.new(0, -15, 0, -15) e.Size = UDim2.new(1, 30, 1, 30) e.ZIndex = 0 e.Image = "\114\98\120\97\115\115\101\116\105\100\58\47\47\52\57\57\54\56\57\49\57\55\48" e.ImageColor3 = Color3.fromRGB(145, 101, 255) e.ScaleType = Enum.ScaleType.Slice e.SliceCenter = Rect.new(20, 20, 280, 280) a.Name = "\84\111\112\95\67\111\110\116\97\105\110\101\114" a.Parent = o a.AnchorPoint = Vector2.new(0.5, 0) a.BackgroundColor3 = Color3.fromRGB(255, 255, 255) a.BackgroundTransparency = 1.000 a.Position = UDim2.new(0.5, 0, 0, 18) a.Size = UDim2.new(1, -40, 0, 20) g.Name = "\84\105\116\108\101" g.Parent = a g.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g.BackgroundTransparency = 1.000 g.Position = UDim2.new(0.064788729, 0, 1.10000002, 0) g.Size = UDim2.new(0.413003027, 0, 0.600000024, 0) g.Font = Enum.Font.GothamBlack g.Text = "\66\121\32\67\97\110\100\121\76\101\97\110\35\50\54\52\53" g.TextColor3 = Color3.fromRGB(255, 170, 255) g.TextSize = 14.000 g.TextXAlignment = Enum.TextXAlignment.Left h.Name = "\84\97\98\95\67\111\110\116\97\105\110\101\114" h.Parent = a h.AnchorPoint = Vector2.new(1, 0) h.BackgroundColor3 = Color3.fromRGB(255, 255, 255) h.BackgroundTransparency = 1.000 h.Position = UDim2.new(1, 0, 0, 0) h.Size = UDim2.new(1, 0, 1, 0) q.Name = "\76\105\115\116" q.Parent = h q.FillDirection = Enum.FillDirection.Horizontal q.HorizontalAlignment = Enum.HorizontalAlignment.Right q.SortOrder = Enum.SortOrder.LayoutOrder q.Padding = UDim.new(0, 14) f.Name = "\84\105\116\108\101" f.Parent = a f.BackgroundColor3 = Color3.fromRGB(255, 255, 255) f.BackgroundTransparency = 1.000 f.Position = UDim2.new(0.064788729, 0, -0.0499984622, 0) f.Size = UDim2.new(0.360563368, 0, 1.09999847, 0) f.Font = Enum.Font.GothamBlack f.Text = "\76\69\65\78\89\87\69\83\84" f.TextColor3 = Color3.fromRGB(129, 169, 255) f.TextSize = 20.000 f.TextXAlignment = Enum.TextXAlignment.Left d.Name = "\83\99\114\111\108\108" d.Parent = o d.Active = true d.AnchorPoint = Vector2.new(0.5, 0) d.BackgroundColor3 = Color3.fromRGB(255, 255, 255) d.BackgroundTransparency = 1.000 d.BorderSizePixel = 0 d.Position = UDim2.new(0.5, 4, 0, 59) d.Size = UDim2.new(1, -20, 1, -77) d.BottomImage = "\114\98\120\97\115\115\101\116\105\100\58\47\47\53\50\51\52\51\56\56\49\53\56" d.CanvasSize = UDim2.new(0, 0, 0, 10050) d.MidImage = "\114\98\120\97\115\115\101\116\105\100\58\47\47\53\50\51\52\51\56\56\49\53\56" d.ScrollBarThickness = 6 d.TopImage = "\114\98\120\97\115\115\101\116\105\100\58\47\47\53\50\51\52\51\56\56\49\53\56" b.Name = "\66\111\116\116\111\109\95\67\111\110\116\97\105\110\101\114" b.Parent = d b.BackgroundColor3 = Color3.fromRGB(255, 255, 255) b.BackgroundTransparency = 1.000 b.Size = UDim2.new(1, -11, 1, 0) t.Name = "\76\105\115\116" t.Parent = b t.SortOrder = Enum.SortOrder.LayoutOrder t.Padding = UDim.new(0, 2) l.Name = "\66\117\116\116\111\110\95\49" l.Parent = b l.BackgroundColor3 = Color3.fromRGB(43, 42, 49) l.BorderColor3 = Color3.fromRGB(146, 138, 255) l.LayoutOrder = 1 l.Position = UDim2.new(0.0467032976, 0, 0.0088888891, 0) l.Size = UDim2.new(1, 0, 0, 26) l.AutoButtonColor = false l.Font = Enum.Font.GothamBold l.Text = "\71\85\78\32\77\79\68\83\47\80\76\65\89\69\82" l.TextColor3 = Color3.fromRGB(255, 255, 255) l.TextSize = 16.000 n.Name = "\84\105\116\108\101" n.Parent = l n.AnchorPoint = Vector2.new(0, 0.5) n.BackgroundColor3 = Color3.fromRGB(255, 255, 255) n.BackgroundTransparency = 1.000 n.Position = UDim2.new(0, 8, 0.5, 0) n.Size = UDim2.new(0, 49, 1, -8) n.Font = Enum.Font.Gotham n.Text = "" n.TextColor3 = Color3.fromRGB(255, 255, 255) n.TextSize = 10.000 n.TextTransparency = 0.300 n.TextXAlignment = Enum.TextXAlignment.Left p.Name = "\66\117\116\116\111\110\95\50" p.Parent = b p.BackgroundColor3 = Color3.fromRGB(43, 42, 49) p.BorderSizePixel = 0 p.LayoutOrder = 1 p.Position = UDim2.new(-0.00824175868, 0, -0.0311111119, 0) p.Size = UDim2.new(1, 0, 0, 26) p.AutoButtonColor = false p.Font = Enum.Font.SourceSans p.Text = "" p.TextColor3 = Color3.fromRGB(0, 0, 0) p.TextSize = 14.000 p.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\83\114\69\99\87\106\56\105\102\74\118\86\47\114\97\119",true))() end) m.Name = "\84\105\116\108\101" m.Parent = p m.AnchorPoint = Vector2.new(0, 0.5) m.BackgroundColor3 = Color3.fromRGB(255, 255, 255) m.BackgroundTransparency = 1.000 m.Position = UDim2.new(0, 8, 0.5, 0) m.Size = UDim2.new(0, 49, 1, -8) m.Font = Enum.Font.Gotham m.Text = "\65\78\84\73\32\65\73\77" m.TextColor3 = Color3.fromRGB(255, 255, 255) m.TextSize = 10.000 m.TextTransparency = 0.300 m.TextXAlignment = Enum.TextXAlignment.Left _.Name = "\66\117\116\116\111\110\95\51" _.Parent = b _.BackgroundColor3 = Color3.fromRGB(43, 42, 49) _.BorderSizePixel = 0 _.LayoutOrder = 1 _.Position = UDim2.new(-0.0384615399, 0, -0.0422222205, 0) _.Size = UDim2.new(1, 0, 0, 26) _.AutoButtonColor = false _.Font = Enum.Font.SourceSans _.Text = "" _.TextColor3 = Color3.fromRGB(0, 0, 0) _.TextSize = 14.000 _.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\98\116\65\70\121\106\114\74\107\83\105\116\47\114\97\119",true))() end) j_.Name = "\84\105\116\108\101" j_.Parent = _ j_.AnchorPoint = Vector2.new(0, 0.5) j_.BackgroundColor3 = Color3.fromRGB(255, 255, 255) j_.BackgroundTransparency = 1.000 j_.Position = UDim2.new(0, 8, 0.5, 0) j_.Size = UDim2.new(0, 49, 1, -8) j_.Font = Enum.Font.Gotham j_.Text = "\67\82\79\83\83\72\65\73\82\32\84\79\71\71\76\69" j_.TextColor3 = Color3.fromRGB(255, 255, 255) j_.TextSize = 10.000 j_.TextTransparency = 0.300 j_.TextXAlignment = Enum.TextXAlignment.Left cj.Name = "\66\117\116\116\111\110\95\52" cj.Parent = b cj.BackgroundColor3 = Color3.fromRGB(43, 42, 49) cj.BorderSizePixel = 0 cj.LayoutOrder = 1 cj.Size = UDim2.new(1, 0, 0, 26) cj.AutoButtonColor = false cj.Font = Enum.Font.SourceSans cj.Text = "" cj.TextColor3 = Color3.fromRGB(0, 0, 0) cj.TextSize = 14.000 cj.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\118\84\76\66\106\55\87\67\110\78\113\83\47\114\97\119",true))() end) i.Name = "\84\105\116\108\101" i.Parent = cj i.AnchorPoint = Vector2.new(0, 0.5) i.BackgroundColor3 = Color3.fromRGB(255, 255, 255) i.BackgroundTransparency = 1.000 i.Position = UDim2.new(0, 8, 0.5, 0) i.Size = UDim2.new(0, 49, 1, -8) i.Font = Enum.Font.Gotham i.Text = "\83\73\76\69\78\84\32\65\73\77\66\79\84\32\91\66\69\84\65\93" i.TextColor3 = Color3.fromRGB(255, 255, 255) i.TextSize = 10.000 i.TextTransparency = 0.300 i.TextXAlignment = Enum.TextXAlignment.Left si.Name = "\66\117\116\116\111\110\95\53" si.Parent = b si.BackgroundColor3 = Color3.fromRGB(43, 42, 49) si.BorderSizePixel = 0 si.LayoutOrder = 1 si.Size = UDim2.new(1, 0, 0, 26) si.AutoButtonColor = false si.Font = Enum.Font.Gotham si.Text = "" si.TextColor3 = Color3.fromRGB(255, 255, 255) si.TextSize = 14.000 si.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\89\110\75\82\111\111\121\100\71\76\85\106\47\114\97\119",true))() end) rs.Name = "\84\105\116\108\101" rs.Parent = si rs.AnchorPoint = Vector2.new(0, 0.5) rs.BackgroundColor3 = Color3.fromRGB(255, 255, 255) rs.BackgroundTransparency = 1.000 rs.Position = UDim2.new(0, 8, 0.5, 0) rs.Size = UDim2.new(0.843406618, 49, 1, -8) rs.Font = Enum.Font.Gotham rs.Text = "\78\79\32\82\69\67\79\73\76" rs.TextColor3 = Color3.fromRGB(255, 255, 255) rs.TextSize = 10.000 rs.TextTransparency = 0.300 rs.TextXAlignment = Enum.TextXAlignment.Left ors.Name = "\66\117\116\116\111\110\95\54" ors.Parent = b ors.BackgroundColor3 = Color3.fromRGB(43, 42, 49) ors.BorderSizePixel = 0 ors.LayoutOrder = 1 ors.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) ors.Size = UDim2.new(1, 0, 0, 26) ors.AutoButtonColor = false ors.Font = Enum.Font.Gotham ors.Text = "" ors.TextColor3 = Color3.fromRGB(255, 255, 255) ors.TextSize = 14.000 ors.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\75\99\118\111\120\53\84\69\78\119\119\115\47\114\97\119",true))() end) eo.Name = "\84\105\116\108\101" eo.Parent = ors eo.AnchorPoint = Vector2.new(0, 0.5) eo.BackgroundColor3 = Color3.fromRGB(255, 255, 255) eo.BackgroundTransparency = 1.000 eo.Position = UDim2.new(0, 8, 0.5, 0) eo.Size = UDim2.new(0.0412087925, 49, 1, -8) eo.Font = Enum.Font.Gotham eo.Text = "\71\85\78\70\73\82\69\32\83\80\69\69\68" eo.TextColor3 = Color3.fromRGB(255, 255, 255) eo.TextSize = 10.000 eo.TextTransparency = 0.300 eo.TextXAlignment = Enum.TextXAlignment.Left ae.Name = "\66\117\116\116\111\110\95\55" ae.Parent = b ae.BackgroundColor3 = Color3.fromRGB(43, 42, 49) ae.BorderSizePixel = 0 ae.LayoutOrder = 1 ae.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) ae.Size = UDim2.new(1, 0, 0, 26) ae.AutoButtonColor = false ae.Font = Enum.Font.Gotham ae.Text = "" ae.TextColor3 = Color3.fromRGB(255, 255, 255) ae.TextSize = 14.000 ae.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\54\53\73\57\122\116\113\77\116\49\51\89\47\114\97\119",true))() end) ga.Name = "\84\105\116\108\101" ga.Parent = ae ga.AnchorPoint = Vector2.new(0, 0.5) ga.BackgroundColor3 = Color3.fromRGB(255, 255, 255) ga.BackgroundTransparency = 1.000 ga.Position = UDim2.new(0, 8, 0.5, 0) ga.Size = UDim2.new(0.0412087925, 49, 1, -8) ga.Font = Enum.Font.Gotham ga.Text = "\73\78\83\84\65\78\84\32\82\69\76\79\65\68" ga.TextColor3 = Color3.fromRGB(255, 255, 255) ga.TextSize = 10.000 ga.TextTransparency = 0.300 ga.TextXAlignment = Enum.TextXAlignment.Left hg.Name = "\66\117\116\116\111\110\95\56" hg.Parent = b hg.BackgroundColor3 = Color3.fromRGB(43, 42, 49) hg.BorderSizePixel = 0 hg.LayoutOrder = 1 hg.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) hg.Size = UDim2.new(1, 0, 0, 26) hg.AutoButtonColor = false hg.Font = Enum.Font.Gotham hg.Text = "" hg.TextColor3 = Color3.fromRGB(255, 255, 255) hg.TextSize = 14.000 hg.MouseButton1Down:connect(function() _G.RadarSettings = { RADAR_LINES = true;  SMOOTH_ROT = true;  RADAR_SCALE = 1;  RADAR_RADIUS = 100;  RADAR_LINE_DISTANCE = 50;  DISPLAY_TEAM_COLORS = true;  DISPLAY_OFFSCREEN = true;  DISPLAY_TEAMMATES = true;  OFFSCREEN_TRANSPARENCY = 0.4;  USE_QUADS = true;  MARKER_SCALEMIN = 0.85;  MARKER_SCALEMAX = 1.75;  RADAR_THEME = { Outline = Color3.fromRGB(6, 6, 6); Background = Color3.fromRGB(25, 25, 30); DragHandle = Color3.fromRGB(51, 51, 255); Cardinal_Lines = Color3.fromRGB(100, 100, 155);  Distance_Lines = Color3.fromRGB(64, 64, 69);  Generic_Marker = Color3.fromRGB(255, 0, 107);  Local_Marker = Color3.fromRGB(36, 0, 175);  }; } loadstring(game:HttpGet('https://paste.gg/p/anonymous/3c004a7a0829499189771aeca1a81734/files/6f0b90b3d81942c0a0e3a49c080fb5dd/raw'))() end) qh.Name = "\84\105\116\108\101" qh.Parent = hg qh.AnchorPoint = Vector2.new(0, 0.5) qh.BackgroundColor3 = Color3.fromRGB(255, 255, 255) qh.BackgroundTransparency = 1.000 qh.Position = UDim2.new(0, 8, 0.5, 0) qh.Size = UDim2.new(0.0412087925, 49, 1, -8) qh.Font = Enum.Font.Gotham qh.Text = "\84\69\65\77\32\82\65\68\65\82\32\69\83\80" qh.TextColor3 = Color3.fromRGB(255, 255, 255) qh.TextSize = 10.000 qh.TextTransparency = 0.300 qh.TextXAlignment = Enum.TextXAlignment.Left fq.Name = "\66\117\116\116\111\110\95\57" fq.Parent = b fq.BackgroundColor3 = Color3.fromRGB(43, 42, 49) fq.BorderSizePixel = 0 fq.LayoutOrder = 1 fq.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) fq.Size = UDim2.new(1, 0, 0, 26) fq.AutoButtonColor = false fq.Font = Enum.Font.Gotham fq.Text = "" fq.TextColor3 = Color3.fromRGB(255, 255, 255) fq.TextSize = 14.000 fq.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\66\76\88\78\109\65\115\48\55\53\111\108\47\114\97\119",true))() end) df.Name = "\84\105\116\108\101" df.Parent = fq df.AnchorPoint = Vector2.new(0, 0.5) df.BackgroundColor3 = Color3.fromRGB(255, 255, 255) df.BackgroundTransparency = 1.000 df.Position = UDim2.new(0, 8, 0.5, 0) df.Size = UDim2.new(0.0412087925, 49, 1, -8) df.Font = Enum.Font.Gotham df.Text = "\69\83\80\32\65\76\76\32\80\76\65\89\69\82\83" df.TextColor3 = Color3.fromRGB(255, 255, 255) df.TextSize = 10.000 df.TextTransparency = 0.300 df.TextXAlignment = Enum.TextXAlignment.Left bd.Name = "\66\117\116\116\111\110\95\49\48" bd.Parent = b bd.BackgroundColor3 = Color3.fromRGB(43, 42, 49) bd.BorderSizePixel = 0 bd.LayoutOrder = 1 bd.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) bd.Size = UDim2.new(1, 0, 0, 26) bd.AutoButtonColor = false bd.Font = Enum.Font.Gotham bd.Text = "" bd.TextColor3 = Color3.fromRGB(255, 255, 255) bd.TextSize = 14.000 bd.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\111\122\116\97\107\55\74\50\112\54\116\82\47\114\97\119",true))() end) g_12.Name = "\84\105\116\108\101" g_12.Parent = bd g_12.AnchorPoint = Vector2.new(0, 0.5) g_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_12.BackgroundTransparency = 1.000 g_12.Position = UDim2.new(0, 8, 0.5, 0) g_12.Size = UDim2.new(0.0412087925, 49, 1, -8) g_12.Font = Enum.Font.Gotham g_12.Text = "\72\73\71\72\76\73\71\72\84\32\69\83\80\32\80\76\65\89\69\82\83" g_12.TextColor3 = Color3.fromRGB(255, 255, 255) g_12.TextSize = 10.000 g_12.TextTransparency = 0.300 g_12.TextXAlignment = Enum.TextXAlignment.Left lt.Name = "\66\117\116\116\111\110\95\49\49" lt.Parent = b lt.BackgroundColor3 = Color3.fromRGB(43, 42, 49) lt.BorderSizePixel = 0 lt.LayoutOrder = 1 lt.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) lt.Size = UDim2.new(1, 0, 0, 26) lt.AutoButtonColor = false lt.Font = Enum.Font.Gotham lt.Text = "" lt.TextColor3 = Color3.fromRGB(255, 255, 255) lt.TextSize = 14.000 lt.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\111\122\99\49\72\77\80\68\51\89\56\72\47\114\97\119",true))() end) nl.Name = "\84\105\116\108\101" nl.Parent = lt nl.AnchorPoint = Vector2.new(0, 0.5) nl.BackgroundColor3 = Color3.fromRGB(255, 255, 255) nl.BackgroundTransparency = 1.000 nl.Position = UDim2.new(0, 8, 0.5, 0) nl.Size = UDim2.new(0.0412087925, 49, 1, -8) nl.Font = Enum.Font.Gotham nl.Text = "\78\79\32\70\65\76\76\32\68\77\71\47\83\84\65\77\73\78\65" nl.TextColor3 = Color3.fromRGB(255, 255, 255) nl.TextSize = 10.000 nl.TextTransparency = 0.300 nl.TextXAlignment = Enum.TextXAlignment.Left pn.Name = "\116\105\116\108\101" pn.Parent = b pn.BackgroundColor3 = Color3.fromRGB(43, 42, 49) pn.BorderColor3 = Color3.fromRGB(146, 138, 255) pn.BorderSizePixel = 2 pn.LayoutOrder = 1 pn.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) pn.Size = UDim2.new(1, 0, 0, 26) pn.AutoButtonColor = false pn.Font = Enum.Font.GothamBold pn.Text = "\70\65\82\77\73\78\71\32\83\84\85\70\70" pn.TextColor3 = Color3.fromRGB(255, 255, 255) pn.TextSize = 16.000 g_14.Name = "\84\105\116\108\101" g_14.Parent = pn g_14.AnchorPoint = Vector2.new(0, 0.5) g_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_14.BackgroundTransparency = 1.000 g_14.Position = UDim2.new(0, 8, 0.5, 0) g_14.Size = UDim2.new(0.0412087925, 49, 1, -8) g_14.Font = Enum.Font.Gotham g_14.Text = "" g_14.TextColor3 = Color3.fromRGB(255, 255, 255) g_14.TextSize = 10.000 g_14.TextTransparency = 0.300 g_14.TextXAlignment = Enum.TextXAlignment.Left _m.Name = "\66\117\116\116\111\110\95\49\51" _m.Parent = b _m.BackgroundColor3 = Color3.fromRGB(43, 42, 49) _m.BorderSizePixel = 0 _m.LayoutOrder = 1 _m.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) _m.Size = UDim2.new(1, 0, 0, 26) _m.AutoButtonColor = false _m.Font = Enum.Font.GothamBold _m.Text = "" _m.TextColor3 = Color3.fromRGB(255, 255, 255) _m.TextSize = 16.000 _m.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\68\76\49\56\85\56\69\65\105\52\110\82\47\114\97\119",true))() end) j_m.Name = "\84\105\116\108\101" j_m.Parent = _m j_m.AnchorPoint = Vector2.new(0, 0.5) j_m.BackgroundColor3 = Color3.fromRGB(255, 255, 255) j_m.BackgroundTransparency = 1.000 j_m.Position = UDim2.new(0, 8, 0.5, 0) j_m.Size = UDim2.new(0.0412087925, 49, 1, -8) j_m.Font = Enum.Font.Gotham j_m.Text = "\65\76\76\32\77\73\78\73\78\71\32\79\82\69\32\69\83\80" j_m.TextColor3 = Color3.fromRGB(255, 255, 255) j_m.TextSize = 10.000 j_m.TextTransparency = 0.300 j_m.TextXAlignment = Enum.TextXAlignment.Left cj_.Name = "\66\117\116\116\111\110\95\49\52" cj_.Parent = b cj_.BackgroundColor3 = Color3.fromRGB(43, 42, 49) cj_.BorderSizePixel = 0 cj_.LayoutOrder = 1 cj_.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) cj_.Size = UDim2.new(1, 0, 0, 26) cj_.AutoButtonColor = false cj_.Font = Enum.Font.GothamBold cj_.Text = "" cj_.TextColor3 = Color3.fromRGB(255, 255, 255) cj_.TextSize = 16.000 cj_.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\70\68\75\70\51\106\69\102\80\109\81\53\47\114\97\119",true))() end) ic.Name = "\84\105\116\108\101" ic.Parent = cj_ ic.AnchorPoint = Vector2.new(0, 0.5) ic.BackgroundColor3 = Color3.fromRGB(255, 255, 255) ic.BackgroundTransparency = 1.000 ic.Position = UDim2.new(0, 8, 0.5, 0) ic.Size = UDim2.new(0.252747267, 49, 1, -8) ic.Font = Enum.Font.Gotham ic.Text = "\76\69\71\69\78\68\65\82\89\32\65\78\73\77\65\76\32\69\83\80" ic.TextColor3 = Color3.fromRGB(255, 255, 255) ic.TextSize = 10.000 ic.TextTransparency = 0.300 ic.TextXAlignment = Enum.TextXAlignment.Left sic.Name = "\66\117\116\116\111\110\95\49\53" sic.Parent = b sic.BackgroundColor3 = Color3.fromRGB(43, 42, 49) sic.BorderSizePixel = 0 sic.LayoutOrder = 1 sic.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) sic.Size = UDim2.new(1, 0, 0, 26) sic.AutoButtonColor = false sic.Font = Enum.Font.GothamBold sic.Text = "" sic.TextColor3 = Color3.fromRGB(255, 255, 255) sic.TextSize = 16.000 sic.MouseButton1Down:connect(function() for i, v in pairs(game.Workspace.WORKSPACE_Entities.Animals:GetChildren()) do if v.Name == "\66\105\115\111\110" or v.Name == "\68\101\101\114" or v.Name == "\66\101\97\114" or v.Name == "\71\97\116\111\114" then v.HumanoidRootPart.Size = Vector3.new(5,5,5) v.Body.Size = Vector3.new(10,10,10) v.Body.Transparency = 0.5 v.HumanoidRootPart.Transparency = 0.5 end end end) rsi.Name = "\84\105\116\108\101" rsi.Parent = sic rsi.AnchorPoint = Vector2.new(0, 0.5) rsi.BackgroundColor3 = Color3.fromRGB(255, 255, 255) rsi.BackgroundTransparency = 1.000 rsi.Position = UDim2.new(0, 8, 0.5, 0) rsi.Size = UDim2.new(0.252747267, 49, 1, -8) rsi.Font = Enum.Font.Gotham rsi.Text = "\76\69\71\69\78\68\65\82\89\32\65\78\73\77\65\76\32\72\73\84\66\79\88\32\69\88\80\65\78\68\69\82" rsi.TextColor3 = Color3.fromRGB(255, 255, 255) rsi.TextSize = 10.000 rsi.TextTransparency = 0.300 rsi.TextXAlignment = Enum.TextXAlignment.Left orsi.Name = "\116\105\116\108\101" orsi.Parent = b orsi.BackgroundColor3 = Color3.fromRGB(43, 42, 49) orsi.BorderColor3 = Color3.fromRGB(146, 138, 255) orsi.BorderSizePixel = 2 orsi.LayoutOrder = 1 orsi.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) orsi.Size = UDim2.new(1, 0, 0, 26) orsi.AutoButtonColor = false orsi.Font = Enum.Font.GothamBold orsi.Text = "\80\76\65\89\69\82\32\83\84\85\70\70\32\86\50" orsi.TextColor3 = Color3.fromRGB(255, 255, 255) orsi.TextSize = 16.000 g_18.Name = "\84\105\116\108\101" g_18.Parent = orsi g_18.AnchorPoint = Vector2.new(0, 0.5) g_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_18.BackgroundTransparency = 1.000 g_18.Position = UDim2.new(0, 8, 0.5, 0) g_18.Size = UDim2.new(0.252747267, 49, 1, -8) g_18.Font = Enum.Font.Gotham g_18.Text = "" g_18.TextColor3 = Color3.fromRGB(255, 255, 255) g_18.TextSize = 10.000 g_18.TextTransparency = 0.300 g_18.TextXAlignment = Enum.TextXAlignment.Left aeo.Name = "\66\117\116\116\111\110\95\49\55" aeo.Parent = b aeo.BackgroundColor3 = Color3.fromRGB(43, 42, 49) aeo.BorderSizePixel = 0 aeo.LayoutOrder = 1 aeo.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) aeo.Size = UDim2.new(1, 0, 0, 26) aeo.AutoButtonColor = false aeo.Font = Enum.Font.GothamBold aeo.Text = "" aeo.TextColor3 = Color3.fromRGB(255, 255, 255) aeo.TextSize = 16.000 aeo.MouseButton1Down:connect(function() local mpnltb = game.Players.LocalPlayer mpnltb.CameraMaxZoomDistance = 9998 mpnltb.CameraMinZoomDistance = 5 end) gae.Name = "\84\105\116\108\101" gae.Parent = aeo gae.AnchorPoint = Vector2.new(0, 0.5) gae.BackgroundColor3 = Color3.fromRGB(255, 255, 255) gae.BackgroundTransparency = 1.000 gae.Position = UDim2.new(0, 8, 0.5, 0) gae.Size = UDim2.new(0.252747267, 49, 1, -8) gae.Font = Enum.Font.Gotham gae.Text = "\77\65\88\32\90\79\79\77" gae.TextColor3 = Color3.fromRGB(255, 255, 255) gae.TextSize = 10.000 gae.TextTransparency = 0.300 gae.TextXAlignment = Enum.TextXAlignment.Left hga.Name = "\66\117\116\116\111\110\95\49\56" hga.Parent = b hga.BackgroundColor3 = Color3.fromRGB(43, 42, 49) hga.BorderSizePixel = 0 hga.LayoutOrder = 1 hga.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) hga.Size = UDim2.new(1, 0, 0, 26) hga.AutoButtonColor = false hga.Font = Enum.Font.GothamBold hga.Text = "" hga.TextColor3 = Color3.fromRGB(255, 255, 255) hga.TextSize = 16.000 hga.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\75\51\97\70\110\109\83\71\50\73\110\82\47\114\97\119",true))() end) qhg.Name = "\84\105\116\108\101" qhg.Parent = hga qhg.AnchorPoint = Vector2.new(0, 0.5) qhg.BackgroundColor3 = Color3.fromRGB(255, 255, 255) qhg.BackgroundTransparency = 1.000 qhg.Position = UDim2.new(0, 8, 0.5, 0) qhg.Size = UDim2.new(0.252747267, 49, 1, -8) qhg.Font = Enum.Font.Gotham qhg.Text = "\76\79\87\32\72\73\80\72\69\73\71\72\84" qhg.TextColor3 = Color3.fromRGB(255, 255, 255) qhg.TextSize = 10.000 qhg.TextTransparency = 0.300 qhg.TextXAlignment = Enum.TextXAlignment.Left fqh.Name = "\66\117\116\116\111\110\95\49\57" fqh.Parent = b fqh.BackgroundColor3 = Color3.fromRGB(43, 42, 49) fqh.BorderSizePixel = 0 fqh.LayoutOrder = 1 fqh.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) fqh.Size = UDim2.new(1, 0, 0, 26) fqh.AutoButtonColor = false fqh.Font = Enum.Font.GothamBold fqh.Text = "" fqh.TextColor3 = Color3.fromRGB(255, 255, 255) fqh.TextSize = 16.000 fqh.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\103\48\99\76\104\106\115\51\65\104\86\69\47\114\97\119",true))() end) dfq.Name = "\84\105\116\108\101" dfq.Parent = fqh dfq.AnchorPoint = Vector2.new(0, 0.5) dfq.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dfq.BackgroundTransparency = 1.000 dfq.Position = UDim2.new(0, 8, 0.5, 0) dfq.Size = UDim2.new(0.252747267, 49, 1, -8) dfq.Font = Enum.Font.Gotham dfq.Text = "\78\79\82\77\65\76\32\72\73\80\72\69\73\71\72\84" dfq.TextColor3 = Color3.fromRGB(255, 255, 255) dfq.TextSize = 10.000 dfq.TextTransparency = 0.300 dfq.TextXAlignment = Enum.TextXAlignment.Left bdf.Name = "\66\117\116\116\111\110\95\50\48" bdf.Parent = b bdf.BackgroundColor3 = Color3.fromRGB(43, 42, 49) bdf.BorderSizePixel = 0 bdf.LayoutOrder = 1 bdf.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) bdf.Size = UDim2.new(1, 0, 0, 26) bdf.AutoButtonColor = false bdf.Font = Enum.Font.GothamBold bdf.Text = "" bdf.TextColor3 = Color3.fromRGB(255, 255, 255) bdf.TextSize = 16.000 bdf.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\56\67\55\55\53\74\85\105\88\118\100\109\47\114\97\119",true))() end) tbd.Name = "\84\105\116\108\101" tbd.Parent = bdf tbd.AnchorPoint = Vector2.new(0, 0.5) tbd.BackgroundColor3 = Color3.fromRGB(255, 255, 255) tbd.BackgroundTransparency = 1.000 tbd.Position = UDim2.new(0, 8, 0.5, 0) tbd.Size = UDim2.new(0.252747267, 49, 1, -8) tbd.Font = Enum.Font.Gotham tbd.Text = "\72\73\71\72\32\72\73\80\72\69\73\71\72\84" tbd.TextColor3 = Color3.fromRGB(255, 255, 255) tbd.TextSize = 10.000 tbd.TextTransparency = 0.300 tbd.TextXAlignment = Enum.TextXAlignment.Left ltb.Name = "\66\117\116\116\111\110\95\50\49" ltb.Parent = b ltb.BackgroundColor3 = Color3.fromRGB(43, 42, 49) ltb.BorderSizePixel = 0 ltb.LayoutOrder = 1 ltb.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) ltb.Size = UDim2.new(1, 0, 0, 26) ltb.AutoButtonColor = false ltb.Font = Enum.Font.GothamBold ltb.Text = "" ltb.TextColor3 = Color3.fromRGB(255, 255, 255) ltb.TextSize = 16.000 ltb.MouseButton1Down:connect(function() wait() game.workspace.Gravity = 082.2 end) nlt.Name = "\84\105\116\108\101" nlt.Parent = ltb nlt.AnchorPoint = Vector2.new(0, 0.5) nlt.BackgroundColor3 = Color3.fromRGB(255, 255, 255) nlt.BackgroundTransparency = 1.000 nlt.Position = UDim2.new(0, 8, 0.5, 0) nlt.Size = UDim2.new(0.252747267, 49, 1, -8) nlt.Font = Enum.Font.Gotham nlt.Text = "\76\79\87\32\71\82\65\86\73\84\89" nlt.TextColor3 = Color3.fromRGB(255, 255, 255) nlt.TextSize = 10.000 nlt.TextTransparency = 0.300 nlt.TextXAlignment = Enum.TextXAlignment.Left pnl.Name = "\66\117\116\116\111\110\95\50\50" pnl.Parent = b pnl.BackgroundColor3 = Color3.fromRGB(43, 42, 49) pnl.BorderSizePixel = 0 pnl.LayoutOrder = 1 pnl.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) pnl.Size = UDim2.new(1, 0, 0, 26) pnl.AutoButtonColor = false pnl.Font = Enum.Font.GothamBold pnl.Text = "" pnl.TextColor3 = Color3.fromRGB(255, 255, 255) pnl.TextSize = 16.000 pnl.MouseButton1Down:connect(function() wait() game.workspace.Gravity = 165 end) mpn.Name = "\84\105\116\108\101" mpn.Parent = pnl mpn.AnchorPoint = Vector2.new(0, 0.5) mpn.BackgroundColor3 = Color3.fromRGB(255, 255, 255) mpn.BackgroundTransparency = 1.000 mpn.Position = UDim2.new(0, 8, 0.5, 0) mpn.Size = UDim2.new(0.252747267, 49, 1, -8) mpn.Font = Enum.Font.Gotham mpn.Text = "\76\79\87\32\71\82\65\86\73\84\89\32\79\70\70" mpn.TextColor3 = Color3.fromRGB(255, 255, 255) mpn.TextSize = 10.000 mpn.TextTransparency = 0.300 mpn.TextXAlignment = Enum.TextXAlignment.Left _mp.Name = "\66\117\116\116\111\110\95\50\51" _mp.Parent = b _mp.BackgroundColor3 = Color3.fromRGB(43, 42, 49) _mp.BorderSizePixel = 0 _mp.LayoutOrder = 1 _mp.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) _mp.Size = UDim2.new(1, 0, 0, 26) _mp.AutoButtonColor = false _mp.Font = Enum.Font.GothamBold _mp.Text = "" _mp.TextColor3 = Color3.fromRGB(255, 255, 255) _mp.TextSize = 16.000 _mp.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\56\70\109\113\119\66\54\102\71\108\84\88\47\114\97\119",true))() end) j_mp.Name = "\84\105\116\108\101" j_mp.Parent = _mp j_mp.AnchorPoint = Vector2.new(0, 0.5) j_mp.BackgroundColor3 = Color3.fromRGB(255, 255, 255) j_mp.BackgroundTransparency = 1.000 j_mp.Position = UDim2.new(0, 8, 0.5, 0) j_mp.Size = UDim2.new(0.252747267, 49, 1, -8) j_mp.Font = Enum.Font.Gotham j_mp.Text = "\87\65\76\75\83\80\69\69\68" j_mp.TextColor3 = Color3.fromRGB(255, 255, 255) j_mp.TextSize = 10.000 j_mp.TextTransparency = 0.300 j_mp.TextXAlignment = Enum.TextXAlignment.Left cj_m.Name = "\66\117\116\116\111\110\95\50\52" cj_m.Parent = b cj_m.BackgroundColor3 = Color3.fromRGB(43, 42, 49) cj_m.BorderSizePixel = 0 cj_m.LayoutOrder = 1 cj_m.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) cj_m.Size = UDim2.new(1, 0, 0, 26) cj_m.AutoButtonColor = false cj_m.Font = Enum.Font.GothamBold cj_m.Text = "" cj_m.TextColor3 = Color3.fromRGB(255, 255, 255) cj_m.TextSize = 16.000 cj_m.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\49\51\103\80\109\117\112\80\97\55\110\78\47\114\97\119",true))() end) icj.Name = "\84\105\116\108\101" icj.Parent = cj_m icj.AnchorPoint = Vector2.new(0, 0.5) icj.BackgroundColor3 = Color3.fromRGB(255, 255, 255) icj.BackgroundTransparency = 1.000 icj.Position = UDim2.new(0, 8, 0.5, 0) icj.Size = UDim2.new(0.252747267, 49, 1, -8) icj.Font = Enum.Font.Gotham icj.Text = "\84\79\71\71\76\69\32\70\76\89\32\91\69\93" icj.TextColor3 = Color3.fromRGB(255, 255, 255) icj.TextSize = 10.000 icj.TextTransparency = 0.300 icj.TextXAlignment = Enum.TextXAlignment.Left sicj.Name = "\66\117\116\116\111\110\95\50\53" sicj.Parent = b sicj.BackgroundColor3 = Color3.fromRGB(43, 42, 49) sicj.BorderSizePixel = 0 sicj.LayoutOrder = 1 sicj.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) sicj.Size = UDim2.new(1, 0, 0, 26) sicj.AutoButtonColor = false sicj.Font = Enum.Font.GothamBold sicj.Text = "" sicj.TextColor3 = Color3.fromRGB(255, 255, 255) sicj.TextSize = 16.000 sicj.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\89\109\65\81\65\77\117\90\79\80\87\90\47\114\97\119",true))() end) rsic.Name = "\84\105\116\108\101" rsic.Parent = sicj rsic.AnchorPoint = Vector2.new(0, 0.5) rsic.BackgroundColor3 = Color3.fromRGB(255, 255, 255) rsic.BackgroundTransparency = 1.000 rsic.Position = UDim2.new(0, 8, 0.5, 0) rsic.Size = UDim2.new(0.252747267, 49, 1, -8) rsic.Font = Enum.Font.Gotham rsic.Text = "\84\79\71\71\76\69\32\70\76\89\32\86\50\32\91\90\93" rsic.TextColor3 = Color3.fromRGB(255, 255, 255) rsic.TextSize = 10.000 rsic.TextTransparency = 0.300 rsic.TextXAlignment = Enum.TextXAlignment.Left orsic.Name = "\116\105\116\108\101" orsic.Parent = b orsic.BackgroundColor3 = Color3.fromRGB(43, 42, 49) orsic.BorderColor3 = Color3.fromRGB(146, 138, 255) orsic.BorderSizePixel = 2 orsic.LayoutOrder = 1 orsic.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) orsic.Size = UDim2.new(1, 0, 0, 26) orsic.AutoButtonColor = false orsic.Font = Enum.Font.GothamBold orsic.Text = "\86\73\83\85\65\76\83\47\69\88\84\82\65" orsic.TextColor3 = Color3.fromRGB(255, 255, 255) orsic.TextSize = 16.000 eors.Name = "\84\105\116\108\101" eors.Parent = orsic eors.AnchorPoint = Vector2.new(0, 0.5) eors.BackgroundColor3 = Color3.fromRGB(255, 255, 255) eors.BackgroundTransparency = 1.000 eors.Position = UDim2.new(0, 8, 0.5, 0) eors.Size = UDim2.new(0.252747267, 49, 1, -8) eors.Font = Enum.Font.Gotham eors.Text = "" eors.TextColor3 = Color3.fromRGB(255, 255, 255) eors.TextSize = 10.000 eors.TextTransparency = 0.300 eors.TextXAlignment = Enum.TextXAlignment.Left aeor.Name = "\66\117\116\116\111\110\95\50\55" aeor.Parent = b aeor.BackgroundColor3 = Color3.fromRGB(43, 42, 49) aeor.BorderSizePixel = 0 aeor.LayoutOrder = 1 aeor.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) aeor.Size = UDim2.new(1, 0, 0, 26) aeor.AutoButtonColor = false aeor.Font = Enum.Font.GothamBold aeor.Text = "" aeor.TextColor3 = Color3.fromRGB(255, 255, 255) aeor.TextSize = 16.000 aeor.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\84\113\102\72\97\51\53\53\75\108\48\67\47\114\97\119",true))() end) gaeo.Name = "\84\105\116\108\101" gaeo.Parent = aeor gaeo.AnchorPoint = Vector2.new(0, 0.5) gaeo.BackgroundColor3 = Color3.fromRGB(255, 255, 255) gaeo.BackgroundTransparency = 1.000 gaeo.Position = UDim2.new(0, 8, 0.5, 0) gaeo.Size = UDim2.new(0.252747267, 49, 1, -8) gaeo.Font = Enum.Font.Gotham gaeo.Text = "\72\73\68\69\32\78\65\77\69\32\67\76\73\69\78\84" gaeo.TextColor3 = Color3.fromRGB(255, 255, 255) gaeo.TextSize = 10.000 gaeo.TextTransparency = 0.300 gaeo.TextXAlignment = Enum.TextXAlignment.Left hgae.Name = "\66\117\116\116\111\110\95\50\56" hgae.Parent = b hgae.BackgroundColor3 = Color3.fromRGB(43, 42, 49) hgae.BorderSizePixel = 0 hgae.LayoutOrder = 1 hgae.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) hgae.Size = UDim2.new(1, 0, 0, 26) hgae.AutoButtonColor = false hgae.Font = Enum.Font.GothamBold hgae.Text = "" hgae.TextColor3 = Color3.fromRGB(255, 255, 255) hgae.TextSize = 16.000 hgae.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\86\71\78\98\73\89\72\98\112\120\109\77\47\114\97\119",true))() end) qhga.Name = "\84\105\116\108\101" qhga.Parent = hgae qhga.AnchorPoint = Vector2.new(0, 0.5) qhga.BackgroundColor3 = Color3.fromRGB(255, 255, 255) qhga.BackgroundTransparency = 1.000 qhga.Position = UDim2.new(0, 8, 0.5, 0) qhga.Size = UDim2.new(0.252747267, 49, 1, -8) qhga.Font = Enum.Font.Gotham qhga.Text = "\65\78\84\73\32\65\70\75\47\65\78\84\73\32\73\68\76\69" qhga.TextColor3 = Color3.fromRGB(255, 255, 255) qhga.TextSize = 10.000 qhga.TextTransparency = 0.300 qhga.TextXAlignment = Enum.TextXAlignment.Left fqhg.Name = "\66\117\116\116\111\110\95\50\57" fqhg.Parent = b fqhg.BackgroundColor3 = Color3.fromRGB(43, 42, 49) fqhg.BorderSizePixel = 0 fqhg.LayoutOrder = 1 fqhg.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) fqhg.Size = UDim2.new(1, 0, 0, 26) fqhg.AutoButtonColor = false fqhg.Font = Enum.Font.GothamBold fqhg.Text = "" fqhg.TextColor3 = Color3.fromRGB(255, 255, 255) fqhg.TextSize = 16.000 fqhg.MouseButton1Down:connect(function() local hgaeors = game:GetService("\86\105\114\116\117\97\108\85\115\101\114") game:GetService("\80\108\97\121\101\114\115").LocalPlayer.Idled:connect(function() hgaeors:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame) wait(1) hgaeors:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame) end) local qhgaeor = Instance.new("\77\101\115\115\97\103\101", workspace) qhgaeor.Text = "\87\97\114\110\105\110\103\58\32\87\105\108\108\32\114\101\106\111\105\110\32\105\102\32\109\111\100\32\104\101\114\101\33" wait(4.8) qhgaeor:Destroy() while wait() do for i,mpnltb in pairs(game.Players:GetChildren()) do if mpnltb:IsInGroup(10734627) then game:GetService("\84\101\108\101\112\111\114\116\83\101\114\118\105\99\101"):Teleport(2317712696) end end end end) dfqh.Name = "\84\105\116\108\101" dfqh.Parent = fqhg dfqh.AnchorPoint = Vector2.new(0, 0.5) dfqh.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dfqh.BackgroundTransparency = 1.000 dfqh.Position = UDim2.new(0, 8, 0.5, 0) dfqh.Size = UDim2.new(0.252747267, 49, 1, -8) dfqh.Font = Enum.Font.Gotham dfqh.Text = "\65\78\84\73\32\77\79\68\69\82\65\84\79\82\83" dfqh.TextColor3 = Color3.fromRGB(255, 255, 255) dfqh.TextSize = 10.000 dfqh.TextTransparency = 0.300 dfqh.TextXAlignment = Enum.TextXAlignment.Left bdfq.Name = "\66\117\116\116\111\110\95\51\48" bdfq.Parent = b bdfq.BackgroundColor3 = Color3.fromRGB(43, 42, 49) bdfq.BorderSizePixel = 0 bdfq.LayoutOrder = 1 bdfq.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) bdfq.Size = UDim2.new(1, 0, 0, 26) bdfq.AutoButtonColor = false bdfq.Font = Enum.Font.GothamBold bdfq.Text = "" bdfq.TextColor3 = Color3.fromRGB(255, 255, 255) bdfq.TextSize = 16.000 bdfq.MouseButton1Down:connect(function() if not game:IsLoaded() then game.Loaded:Wait() end wait() local cj_mpnl = Instance.new("\67\111\108\111\114\67\111\114\114\101\99\116\105\111\110\69\102\102\101\99\116") local icj_mp = game:GetService("\76\105\103\104\116\105\110\103") local sicj_mp = Instance.new("\83\107\121") sicj_mp.Parent = icj_mp sicj_mp.SkyboxBk = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\50\55\49\48\52\50\53\49\54" sicj_mp.SkyboxDn = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\50\55\49\48\55\55\50\52\51" sicj_mp.SkyboxFt = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\50\55\49\48\52\50\53\53\54" sicj_mp.SkyboxLf = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\50\55\49\48\52\50\51\49\48" sicj_mp.SkyboxRt = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\50\55\49\48\52\50\52\54\55" sicj_mp.SkyboxUp = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\50\55\49\48\55\55\57\53\56" icj_mp.Ambient = Color3.fromRGB(140, 0, 255) icj_mp.FogColor = Color3.fromRGB(140, 0, 255) icj_mp.ClockTime = 3 icj_mp.FogEnd = 2000 for i, v in pairs(game:GetService("\87\111\114\107\115\112\97\99\101"):GetChildren()) do if v:IsA("\66\97\115\101\80\97\114\116") and v.Material == Enum.Material.Grass then v.Transparency = 0.25 v.Color = Color3.fromRGB(125, 125, 200) end end end) g_32.Name = "\84\105\116\108\101" g_32.Parent = bdfq g_32.AnchorPoint = Vector2.new(0, 0.5) g_32.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_32.BackgroundTransparency = 1.000 g_32.Position = UDim2.new(0, 8, 0.5, 0) g_32.Size = UDim2.new(0.252747267, 49, 1, -8) g_32.Font = Enum.Font.Gotham g_32.Text = "\76\69\65\78\32\65\77\66\73\69\78\67\69" g_32.TextColor3 = Color3.fromRGB(255, 255, 255) g_32.TextSize = 10.000 g_32.TextTransparency = 0.300 g_32.TextXAlignment = Enum.TextXAlignment.Left ltbd.Name = "\66\117\116\116\111\110\95\51\49" ltbd.Parent = b ltbd.BackgroundColor3 = Color3.fromRGB(43, 42, 49) ltbd.BorderSizePixel = 0 ltbd.LayoutOrder = 1 ltbd.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) ltbd.Size = UDim2.new(1, 0, 0, 26) ltbd.AutoButtonColor = false ltbd.Font = Enum.Font.GothamBold ltbd.Text = "" ltbd.TextColor3 = Color3.fromRGB(255, 255, 255) ltbd.TextSize = 16.000 ltbd.MouseButton1Down:connect(function() game:GetService("\77\97\116\101\114\105\97\108\83\101\114\118\105\99\101")["\85\115\101\50\48\50\50\77\97\116\101\114\105\97\108\115"] = true end) g_33.Name = "\84\105\116\108\101" g_33.Parent = ltbd g_33.AnchorPoint = Vector2.new(0, 0.5) g_33.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_33.BackgroundTransparency = 1.000 g_33.Position = UDim2.new(0, 8, 0.5, 0) g_33.Size = UDim2.new(0.252747267, 49, 1, -8) g_33.Font = Enum.Font.Gotham g_33.Text = "\83\77\79\79\84\72\32\71\82\65\80\72\73\67\83" g_33.TextColor3 = Color3.fromRGB(255, 255, 255) g_33.TextSize = 10.000 g_33.TextTransparency = 0.300 g_33.TextXAlignment = Enum.TextXAlignment.Left pnlt.Name = "\66\117\116\116\111\110\95\51\50" pnlt.Parent = b pnlt.BackgroundColor3 = Color3.fromRGB(43, 42, 49) pnlt.BorderSizePixel = 0 pnlt.LayoutOrder = 1 pnlt.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) pnlt.Size = UDim2.new(1, 0, 0, 26) pnlt.AutoButtonColor = false pnlt.Font = Enum.Font.GothamBold pnlt.Text = "" pnlt.TextColor3 = Color3.fromRGB(255, 255, 255) pnlt.TextSize = 16.000 pnlt.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\86\119\53\103\67\83\100\86\82\122\56\107\47\114\97\119",true))() end) g_34.Name = "\84\105\116\108\101" g_34.Parent = pnlt g_34.AnchorPoint = Vector2.new(0, 0.5) g_34.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_34.BackgroundTransparency = 1.000 g_34.Position = UDim2.new(0, 8, 0.5, 0) g_34.Size = UDim2.new(0.252747267, 49, 1, -8) g_34.Font = Enum.Font.Gotham g_34.Text = "\70\85\76\76\32\66\82\73\71\72\84" g_34.TextColor3 = Color3.fromRGB(255, 255, 255) g_34.TextSize = 10.000 g_34.TextTransparency = 0.300 g_34.TextXAlignment = Enum.TextXAlignment.Left _mpn.Name = "\66\117\116\116\111\110\95\51\51" _mpn.Parent = b _mpn.BackgroundColor3 = Color3.fromRGB(43, 42, 49) _mpn.BorderSizePixel = 0 _mpn.LayoutOrder = 1 _mpn.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) _mpn.Size = UDim2.new(1, 0, 0, 26) _mpn.AutoButtonColor = false _mpn.Font = Enum.Font.GothamBold _mpn.Text = "" _mpn.TextColor3 = Color3.fromRGB(255, 255, 255) _mpn.TextSize = 16.000 _mpn.MouseButton1Down:connect(function() game.Lighting.Atmosphere:Destroy() game.Lighting.DepthOfField:Destroy() game.Lighting.FogStart = 1e20 game.Lighting.FogEnd = 1e20 end) j_mpn.Name = "\84\105\116\108\101" j_mpn.Parent = _mpn j_mpn.AnchorPoint = Vector2.new(0, 0.5) j_mpn.BackgroundColor3 = Color3.fromRGB(255, 255, 255) j_mpn.BackgroundTransparency = 1.000 j_mpn.Position = UDim2.new(0, 8, 0.5, 0) j_mpn.Size = UDim2.new(0.252747267, 49, 1, -8) j_mpn.Font = Enum.Font.Gotham j_mpn.Text = "\67\76\69\65\82\32\70\79\71" j_mpn.TextColor3 = Color3.fromRGB(255, 255, 255) j_mpn.TextSize = 10.000 j_mpn.TextTransparency = 0.300 j_mpn.TextXAlignment = Enum.TextXAlignment.Left pn_4.Name = "\116\105\116\108\101" pn_4.Parent = b pn_4.BackgroundColor3 = Color3.fromRGB(43, 42, 49) pn_4.BorderColor3 = Color3.fromRGB(146, 138, 255) pn_4.BorderSizePixel = 2 pn_4.LayoutOrder = 1 pn_4.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) pn_4.Size = UDim2.new(1, 0, 0, 26) pn_4.AutoButtonColor = false pn_4.Font = Enum.Font.GothamBold pn_4.Text = "\84\69\76\69\80\79\82\84\83" pn_4.TextColor3 = Color3.fromRGB(255, 255, 255) pn_4.TextSize = 16.000 icj_.Name = "\84\105\116\108\101" icj_.Parent = pn_4 icj_.AnchorPoint = Vector2.new(0, 0.5) icj_.BackgroundColor3 = Color3.fromRGB(255, 255, 255) icj_.BackgroundTransparency = 1.000 icj_.Position = UDim2.new(0, 8, 0.5, 0) icj_.Size = UDim2.new(0.252747267, 49, 1, -8) icj_.Font = Enum.Font.Gotham icj_.Text = "" icj_.TextColor3 = Color3.fromRGB(255, 255, 255) icj_.TextSize = 10.000 icj_.TextTransparency = 0.300 icj_.TextXAlignment = Enum.TextXAlignment.Left sicj_.Name = "\66\117\116\116\111\110\95\51\53" sicj_.Parent = b sicj_.BackgroundColor3 = Color3.fromRGB(43, 42, 49) sicj_.BorderSizePixel = 0 sicj_.LayoutOrder = 1 sicj_.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) sicj_.Size = UDim2.new(1, 0, 0, 26) sicj_.AutoButtonColor = false sicj_.Font = Enum.Font.GothamBold sicj_.Text = "" sicj_.TextColor3 = Color3.fromRGB(255, 255, 255) sicj_.TextSize = 16.000 sicj_.MouseButton1Down:connect(function() local gaeorsi = { [1] = "\66\114\111\110\122\101" } game:GetService("\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101").Communication.Functions.Respawn:InvokeServer(unpack(gaeorsi)) end) rsicj.Name = "\84\105\116\108\101" rsicj.Parent = sicj_ rsicj.AnchorPoint = Vector2.new(0, 0.5) rsicj.BackgroundColor3 = Color3.fromRGB(255, 255, 255) rsicj.BackgroundTransparency = 1.000 rsicj.Position = UDim2.new(0, 8, 0.5, 0) rsicj.Size = UDim2.new(0.252747267, 49, 1, -8) rsicj.Font = Enum.Font.Gotham rsicj.Text = "\66\82\79\78\90\69\32\67\73\84\89" rsicj.TextColor3 = Color3.fromRGB(255, 255, 255) rsicj.TextSize = 10.000 rsicj.TextTransparency = 0.300 rsicj.TextXAlignment = Enum.TextXAlignment.Left orsicj.Name = "\66\117\116\116\111\110\95\51\54" orsicj.Parent = b orsicj.BackgroundColor3 = Color3.fromRGB(43, 42, 49) orsicj.BorderSizePixel = 0 orsicj.LayoutOrder = 1 orsicj.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) orsicj.Size = UDim2.new(1, 0, 0, 26) orsicj.AutoButtonColor = false orsicj.Font = Enum.Font.GothamBold orsicj.Text = "" orsicj.TextColor3 = Color3.fromRGB(255, 255, 255) orsicj.TextSize = 16.000 orsicj.MouseButton1Down:connect(function() local gaeorsi = { [1] = "\68\111\114\97\100\111" } game:GetService("\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101").Communication.Functions.Respawn:InvokeServer(unpack(gaeorsi)) end) eorsi.Name = "\84\105\116\108\101" eorsi.Parent = orsicj eorsi.AnchorPoint = Vector2.new(0, 0.5) eorsi.BackgroundColor3 = Color3.fromRGB(255, 255, 255) eorsi.BackgroundTransparency = 1.000 eorsi.Position = UDim2.new(0, 8, 0.5, 0) eorsi.Size = UDim2.new(0.252747267, 49, 1, -8) eorsi.Font = Enum.Font.Gotham eorsi.Text = "\80\85\69\82\84\79\32\68\79\82\65\68\79" eorsi.TextColor3 = Color3.fromRGB(255, 255, 255) eorsi.TextSize = 10.000 eorsi.TextTransparency = 0.300 eorsi.TextXAlignment = Enum.TextXAlignment.Left aeors.Name = "\66\117\116\116\111\110\95\51\55" aeors.Parent = b aeors.BackgroundColor3 = Color3.fromRGB(43, 42, 49) aeors.BorderSizePixel = 0 aeors.LayoutOrder = 1 aeors.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) aeors.Size = UDim2.new(1, 0, 0, 26) aeors.AutoButtonColor = false aeors.Font = Enum.Font.GothamBold aeors.Text = "" aeors.TextColor3 = Color3.fromRGB(255, 255, 255) aeors.TextSize = 16.000 aeors.MouseButton1Down:connect(function() local gaeorsi = { [1] = "\84\114\105\98\97\108" } game:GetService("\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101").Communication.Functions.Respawn:InvokeServer(unpack(gaeorsi)) end) gaeor.Name = "\84\105\116\108\101" gaeor.Parent = aeors gaeor.AnchorPoint = Vector2.new(0, 0.5) gaeor.BackgroundColor3 = Color3.fromRGB(255, 255, 255) gaeor.BackgroundTransparency = 1.000 gaeor.Position = UDim2.new(0, 8, 0.5, 0) gaeor.Size = UDim2.new(0.252747267, 49, 1, -8) gaeor.Font = Enum.Font.Gotham gaeor.Text = "\82\69\83\69\82\86\65\84\73\79\78\32\67\65\77\80" gaeor.TextColor3 = Color3.fromRGB(255, 255, 255) gaeor.TextSize = 10.000 gaeor.TextTransparency = 0.300 gaeor.TextXAlignment = Enum.TextXAlignment.Left hgaeo.Name = "\66\117\116\116\111\110\95\51\56" hgaeo.Parent = b hgaeo.BackgroundColor3 = Color3.fromRGB(43, 42, 49) hgaeo.BorderSizePixel = 0 hgaeo.LayoutOrder = 1 hgaeo.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) hgaeo.Size = UDim2.new(1, 0, 0, 26) hgaeo.AutoButtonColor = false hgaeo.Font = Enum.Font.GothamBold hgaeo.Text = "" hgaeo.TextColor3 = Color3.fromRGB(255, 255, 255) hgaeo.TextSize = 16.000 hgaeo.MouseButton1Down:connect(function() local gaeorsi = { [1] = "\68\101\108\111\114\101\115" } game:GetService("\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101").Communication.Functions.Respawn:InvokeServer(unpack(gaeorsi)) end) qhgae.Name = "\84\105\116\108\101" qhgae.Parent = hgaeo qhgae.AnchorPoint = Vector2.new(0, 0.5) qhgae.BackgroundColor3 = Color3.fromRGB(255, 255, 255) qhgae.BackgroundTransparency = 1.000 qhgae.Position = UDim2.new(0, 8, 0.5, 0) qhgae.Size = UDim2.new(0.252747267, 49, 1, -8) qhgae.Font = Enum.Font.Gotham qhgae.Text = "\67\65\76\76\65\72\65\78\32\77\65\78\79\82" qhgae.TextColor3 = Color3.fromRGB(255, 255, 255) qhgae.TextSize = 10.000 qhgae.TextTransparency = 0.300 qhgae.TextXAlignment = Enum.TextXAlignment.Left fqhga.Name = "\66\117\116\116\111\110\95\51\57" fqhga.Parent = b fqhga.BackgroundColor3 = Color3.fromRGB(43, 42, 49) fqhga.BorderSizePixel = 0 fqhga.LayoutOrder = 1 fqhga.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) fqhga.Size = UDim2.new(1, 0, 0, 26) fqhga.AutoButtonColor = false fqhga.Font = Enum.Font.GothamBold fqhga.Text = "" fqhga.TextColor3 = Color3.fromRGB(255, 255, 255) fqhga.TextSize = 16.000 fqhga.MouseButton1Down:connect(function() local gaeorsi = { [1] = "\87\105\110\100\109\105\108\108\67\97\109\112" } game:GetService("\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101").Communication.Functions.Respawn:InvokeServer(unpack(gaeorsi)) end) dfqhg.Name = "\84\105\116\108\101" dfqhg.Parent = fqhga dfqhg.AnchorPoint = Vector2.new(0, 0.5) dfqhg.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dfqhg.BackgroundTransparency = 1.000 dfqhg.Position = UDim2.new(0, 8, 0.5, 0) dfqhg.Size = UDim2.new(0.252747267, 49, 1, -8) dfqhg.Font = Enum.Font.Gotham dfqhg.Text = "\87\73\78\68\77\73\76\76\32\67\65\77\80" dfqhg.TextColor3 = Color3.fromRGB(255, 255, 255) dfqhg.TextSize = 10.000 dfqhg.TextTransparency = 0.300 dfqhg.TextXAlignment = Enum.TextXAlignment.Left bdfqh.Name = "\116\105\116\108\101" bdfqh.Parent = b bdfqh.BackgroundColor3 = Color3.fromRGB(43, 42, 49) bdfqh.BorderColor3 = Color3.fromRGB(152, 143, 255) bdfqh.BorderSizePixel = 2 bdfqh.LayoutOrder = 1 bdfqh.Position = UDim2.new(-0.104395606, 0, 0.406467676, 0) bdfqh.Size = UDim2.new(1, 0, 0, 26) bdfqh.AutoButtonColor = false bdfqh.Font = Enum.Font.GothamBold bdfqh.Text = "\69\88\80\69\82\73\77\69\78\84\65\76" bdfqh.TextColor3 = Color3.fromRGB(255, 255, 255) bdfqh.TextSize = 16.000 tbdfq.Name = "\84\105\116\108\101" tbdfq.Parent = bdfqh tbdfq.AnchorPoint = Vector2.new(0, 0.5) tbdfq.BackgroundColor3 = Color3.fromRGB(255, 255, 255) tbdfq.BackgroundTransparency = 1.000 tbdfq.Position = UDim2.new(0, 8, 0.5, 0) tbdfq.Size = UDim2.new(0.252747267, 49, 1, -8) tbdfq.Font = Enum.Font.Gotham tbdfq.Text = "" tbdfq.TextColor3 = Color3.fromRGB(255, 255, 255) tbdfq.TextSize = 10.000 tbdfq.TextTransparency = 0.300 tbdfq.TextXAlignment = Enum.TextXAlignment.Left ltbdf.Name = "\66\117\116\116\111\110\95\52\49" ltbdf.Parent = b ltbdf.BackgroundColor3 = Color3.fromRGB(43, 42, 49) ltbdf.BorderSizePixel = 0 ltbdf.LayoutOrder = 1 ltbdf.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) ltbdf.Size = UDim2.new(1, 0, 0, 26) ltbdf.AutoButtonColor = false ltbdf.Font = Enum.Font.GothamBold ltbdf.Text = "" ltbdf.TextColor3 = Color3.fromRGB(255, 255, 255) ltbdf.TextSize = 16.000 ltbdf.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\98\109\51\66\97\99\119\114\114\115\106\89\47\114\97\119",true))() end) g_43.Name = "\84\105\116\108\101" g_43.Parent = ltbdf g_43.AnchorPoint = Vector2.new(0, 0.5) g_43.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g_43.BackgroundTransparency = 1.000 g_43.Position = UDim2.new(0, 8, 0.5, 0) g_43.Size = UDim2.new(0.252747267, 49, 1, -8) g_43.Font = Enum.Font.Gotham g_43.Text = "\70\82\69\69\32\67\65\77\32\91\83\72\73\70\84\32\43\32\80\93" g_43.TextColor3 = Color3.fromRGB(255, 255, 255) g_43.TextSize = 10.000 g_43.TextTransparency = 0.300 g_43.TextXAlignment = Enum.TextXAlignment.Left pnltb.Name = "\66\117\116\116\111\110\95\52\50" pnltb.Parent = b pnltb.BackgroundColor3 = Color3.fromRGB(43, 42, 49) pnltb.BorderSizePixel = 0 pnltb.LayoutOrder = 1 pnltb.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) pnltb.Size = UDim2.new(1, 0, 0, 26) pnltb.AutoButtonColor = false pnltb.Font = Enum.Font.GothamBold pnltb.Text = "" pnltb.TextColor3 = Color3.fromRGB(255, 255, 255) pnltb.TextSize = 16.000 pnltb.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\97\112\105\46\117\112\108\111\97\100\46\115\121\115\116\101\109\115\47\112\97\115\116\101\115\47\108\81\99\70\106\116\71\109\50\57\79\73\47\114\97\119",true))() end) mpnlt.Name = "\84\105\116\108\101" mpnlt.Parent = pnltb mpnlt.AnchorPoint = Vector2.new(0, 0.5) mpnlt.BackgroundColor3 = Color3.fromRGB(255, 255, 255) mpnlt.BackgroundTransparency = 1.000 mpnlt.Position = UDim2.new(0, 8, 0.5, 0) mpnlt.Size = UDim2.new(0.252747267, 49, 1, -8) mpnlt.Font = Enum.Font.Gotham mpnlt.Text = "\83\69\69\32\84\72\82\79\85\71\72\32\87\65\76\76\83\47\88\82\65\89\32\91\88\93" mpnlt.TextColor3 = Color3.fromRGB(255, 255, 255) mpnlt.TextSize = 10.000 mpnlt.TextTransparency = 0.300 mpnlt.TextXAlignment = Enum.TextXAlignment.Left _mpnl.Name = "\66\117\116\116\111\110\95\52\51" _mpnl.Parent = b _mpnl.BackgroundColor3 = Color3.fromRGB(43, 42, 49) _mpnl.BorderSizePixel = 0 _mpnl.LayoutOrder = 1 _mpnl.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) _mpnl.Size = UDim2.new(1, 0, 0, 26) _mpnl.AutoButtonColor = false _mpnl.Font = Enum.Font.GothamBold _mpnl.Text = "" _mpnl.TextColor3 = Color3.fromRGB(255, 255, 255) _mpnl.TextSize = 16.000 _mpnl.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\46\103\103\47\112\47\97\110\111\110\121\109\111\117\115\47\50\100\57\49\53\56\51\56\97\48\101\49\52\54\48\52\56\100\49\55\57\53\57\53\56\52\55\99\50\48\51\99\47\102\105\108\101\115\47\57\50\53\49\99\97\100\52\53\98\102\102\52\57\99\53\56\51\101\101\51\98\52\55\55\52\101\55\51\102\102\100\47\114\97\119",true))() end) j_mpnl.Name = "\84\105\116\108\101" j_mpnl.Parent = _mpnl j_mpnl.AnchorPoint = Vector2.new(0, 0.5) j_mpnl.BackgroundColor3 = Color3.fromRGB(255, 255, 255) j_mpnl.BackgroundTransparency = 1.000 j_mpnl.Position = UDim2.new(0, 8, 0.5, 0) j_mpnl.Size = UDim2.new(0.252747267, 49, 1, -8) j_mpnl.Font = Enum.Font.Gotham j_mpnl.Text = "\67\76\73\69\78\84\32\77\85\83\73\67\32\80\76\65\89\69\82\32" j_mpnl.TextColor3 = Color3.fromRGB(255, 255, 255) j_mpnl.TextSize = 10.000 j_mpnl.TextTransparency = 0.300 j_mpnl.TextXAlignment = Enum.TextXAlignment.Left cj_mpn.Name = "\66\117\116\116\111\110\95\52\52" cj_mpn.Parent = b cj_mpn.BackgroundColor3 = Color3.fromRGB(43, 42, 49) cj_mpn.BorderSizePixel = 0 cj_mpn.LayoutOrder = 1 cj_mpn.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) cj_mpn.Size = UDim2.new(1, 0, 0, 26) cj_mpn.AutoButtonColor = false cj_mpn.Font = Enum.Font.GothamBold cj_mpn.Text = "" cj_mpn.TextColor3 = Color3.fromRGB(255, 255, 255) cj_mpn.TextSize = 16.000 cj_mpn.MouseButton1Down:connect(function() local hgaeors = game:GetService("\86\105\114\116\117\97\108\85\115\101\114") game:GetService("\80\108\97\121\101\114\115").LocalPlayer.Idled:connect(function() hgaeors:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame) wait(1) hgaeors:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame) end) local qhgaeor = Instance.new("\77\101\115\115\97\103\101", workspace) qhgaeor.Text = "\84\104\120\32\84\111\32\80\105\97\110\111\32\77\97\110\32\83\119\49\100\108\101\114\32\70\111\114\32\84\104\105\115" wait(2.2) qhgaeor:Destroy() loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/RobloxScripts/main/Misc%20Scripts/PianoAutoplayer.lua",true))() end) icj_m.Name = "\84\105\116\108\101" icj_m.Parent = cj_mpn icj_m.AnchorPoint = Vector2.new(0, 0.5) icj_m.BackgroundColor3 = Color3.fromRGB(255, 255, 255) icj_m.BackgroundTransparency = 1.000 icj_m.Position = UDim2.new(0, 8, 0.5, 0) icj_m.Size = UDim2.new(0.252747267, 49, 1, -8) icj_m.Font = Enum.Font.Gotham icj_m.Text = "\80\73\65\78\79\32\65\85\84\79\80\76\65\89\69\82" icj_m.TextColor3 = Color3.fromRGB(255, 255, 255) icj_m.TextSize = 10.000 icj_m.TextTransparency = 0.300 icj_m.TextXAlignment = Enum.TextXAlignment.Left sicj_m.Name = "\116\105\116\108\101" sicj_m.Parent = b sicj_m.BackgroundColor3 = Color3.fromRGB(43, 42, 49) sicj_m.BorderColor3 = Color3.fromRGB(146, 138, 255) sicj_m.BorderSizePixel = 2 sicj_m.LayoutOrder = 1 sicj_m.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) sicj_m.Size = UDim2.new(1, 0, 0, 26) sicj_m.AutoButtonColor = false sicj_m.Font = Enum.Font.GothamBold sicj_m.Text = "\83\69\82\86\69\82" sicj_m.TextColor3 = Color3.fromRGB(255, 255, 255) sicj_m.TextSize = 16.000 rsicj_.Name = "\84\105\116\108\101" rsicj_.Parent = sicj_m rsicj_.AnchorPoint = Vector2.new(0, 0.5) rsicj_.BackgroundColor3 = Color3.fromRGB(255, 255, 255) rsicj_.BackgroundTransparency = 1.000 rsicj_.Position = UDim2.new(0, 8, 0.5, 0) rsicj_.Size = UDim2.new(0.252747267, 49, 1, -8) rsicj_.Font = Enum.Font.Gotham rsicj_.Text = "" rsicj_.TextColor3 = Color3.fromRGB(255, 255, 255) rsicj_.TextSize = 10.000 rsicj_.TextTransparency = 0.300 rsicj_.TextXAlignment = Enum.TextXAlignment.Left orsicj_.Name = "\66\117\116\116\111\110\95\52\54" orsicj_.Parent = b orsicj_.BackgroundColor3 = Color3.fromRGB(43, 42, 49) orsicj_.BorderColor3 = Color3.fromRGB(146, 138, 255) orsicj_.BorderSizePixel = 0 orsicj_.LayoutOrder = 1 orsicj_.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) orsicj_.Size = UDim2.new(1, 0, 0, 26) orsicj_.AutoButtonColor = false orsicj_.Font = Enum.Font.GothamBold orsicj_.Text = "" orsicj_.TextColor3 = Color3.fromRGB(255, 255, 255) orsicj_.TextSize = 16.000 orsicj_.MouseButton1Down:connect(function() game.SocialService:PromptGameInvite(game.Players.LocalPlayer) end) eorsic.Name = "\84\105\116\108\101" eorsic.Parent = orsicj_ eorsic.AnchorPoint = Vector2.new(0, 0.5) eorsic.BackgroundColor3 = Color3.fromRGB(255, 255, 255) eorsic.BackgroundTransparency = 1.000 eorsic.Position = UDim2.new(0, 8, 0.5, 0) eorsic.Size = UDim2.new(0.252747267, 49, 1, -8) eorsic.Font = Enum.Font.Gotham eorsic.Text = "\73\78\86\73\84\69\32\70\82\73\69\78\68\83" eorsic.TextColor3 = Color3.fromRGB(255, 255, 255) eorsic.TextSize = 10.000 eorsic.TextTransparency = 0.300 eorsic.TextXAlignment = Enum.TextXAlignment.Left aeorsi.Name = "\66\117\116\116\111\110\95\52\55" aeorsi.Parent = b aeorsi.BackgroundColor3 = Color3.fromRGB(43, 42, 49) aeorsi.BorderColor3 = Color3.fromRGB(146, 138, 255) aeorsi.BorderSizePixel = 0 aeorsi.LayoutOrder = 1 aeorsi.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) aeorsi.Size = UDim2.new(1, 0, 0, 26) aeorsi.AutoButtonColor = false aeorsi.Font = Enum.Font.GothamBold aeorsi.Text = "" aeorsi.TextColor3 = Color3.fromRGB(255, 255, 255) aeorsi.TextSize = 16.000 aeorsi.MouseButton1Down:connect(function() warn"\82\101\106\111\105\110\105\110\103\32\67\111\109\109\97\110\100\32\83\101\110\116\46\46\46\46" local fqhgaeo = game:GetService("\84\101\108\101\112\111\114\116\83\101\114\118\105\99\101") local dfqhgae = game:GetService("\80\108\97\121\101\114\115") local bdfqhga = dfqhgae.LocalPlayer local tbdfqhg = coroutine.create(function() local ltbdfqh, ErrorMessage = pcall(function() fqhgaeo:Teleport(game.PlaceId, bdfqhga) end) if ErrorMessage and not ltbdfqh then warn(ErrorMessage) end end) wait(2) print"\91\83\69\82\86\69\82\93\32\82\101\106\111\105\110\32\99\111\109\109\97\110\100\32\97\99\99\101\112\116\101\100" wait(1) coroutine.resume(tbdfqhg) print"\91\83\69\82\86\69\82\93\32\82\101\106\111\105\110\105\110\103" end) gaeors.Name = "\84\105\116\108\101" gaeors.Parent = aeorsi gaeors.AnchorPoint = Vector2.new(0, 0.5) gaeors.BackgroundColor3 = Color3.fromRGB(255, 255, 255) gaeors.BackgroundTransparency = 1.000 gaeors.Position = UDim2.new(0, 8, 0.5, 0) gaeors.Size = UDim2.new(0.252747267, 49, 1, -8) gaeors.Font = Enum.Font.Gotham gaeors.Text = "\82\69\74\79\73\78\32\83\69\82\86\69\82" gaeors.TextColor3 = Color3.fromRGB(255, 255, 255) gaeors.TextSize = 10.000 gaeors.TextTransparency = 0.300 gaeors.TextXAlignment = Enum.TextXAlignment.Left hgaeor.Name = "\66\117\116\116\111\110\95\52\56" hgaeor.Parent = b hgaeor.BackgroundColor3 = Color3.fromRGB(43, 42, 49) hgaeor.BorderColor3 = Color3.fromRGB(146, 138, 255) hgaeor.BorderSizePixel = 0 hgaeor.LayoutOrder = 1 hgaeor.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0) hgaeor.Size = UDim2.new(1, 0, 0, 26) hgaeor.AutoButtonColor = false hgaeor.Font = Enum.Font.GothamBold hgaeor.Text = "" hgaeor.TextColor3 = Color3.fromRGB(255, 255, 255) hgaeor.TextSize = 16.000 hgaeor.MouseButton1Down:connect(function() loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\86\100\117\66\84\50\110\116"))() end) qhgaeo.Name = "\84\105\116\108\101" qhgaeo.Parent = hgaeor qhgaeo.AnchorPoint = Vector2.new(0, 0.5) qhgaeo.BackgroundColor3 = Color3.fromRGB(255, 255, 255) qhgaeo.BackgroundTransparency = 1.000 qhgaeo.Position = UDim2.new(0, 8, 0.5, 0) qhgaeo.Size = UDim2.new(0.252747267, 49, 1, -8) qhgaeo.Font = Enum.Font.Gotham qhgaeo.Text = "\83\69\82\86\69\82\32\72\79\80" qhgaeo.TextColor3 = Color3.fromRGB(255, 255, 255) qhgaeo.TextSize = 10.000 qhgaeo.TextTransparency = 0.300 qhgaeo.TextXAlignment = Enum.TextXAlignment.Left fqhgae.Parent = o fqhgae.BackgroundColor3 = Color3.fromRGB(255, 255, 255) fqhgae.BackgroundTransparency = 1.000 fqhgae.BorderSizePixel = 0 fqhgae.Position = UDim2.new(0, 0, 0.0257730391, 0) fqhgae.Size = UDim2.new(0, 43, 0, 49) fqhgae.Image = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\52\57\51\52\49\53\48\52\48\51" fqhgae.ImageColor3 = Color3.fromRGB(255, 170, 255) dfqhga.Parent = o dfqhga.BackgroundColor3 = Color3.fromRGB(255, 255, 255) dfqhga.BorderSizePixel = 0 dfqhga.Size = UDim2.new(0, 395, 0, 387) dfqhga.ZIndex = 0 dfqhga.Image = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\55\49\50\51\50\56\48\56\54\55" dfqhga.ImageColor3 = Color3.fromRGB(116, 88, 255) bdfqhg.Parent = o bdfqhg.BackgroundColor3 = Color3.fromRGB(0, 0, 0) bdfqhg.BackgroundTransparency = 1.000 bdfqhg.Position = UDim2.new(0.108860761, 0, 0.0108430609, 0) bdfqhg.Size = UDim2.new(0, 128, 0, 12) bdfqhg.Font = Enum.Font.Gotham bdfqhg.Text = "" bdfqhg.TextColor3 = Color3.fromRGB(255, 255, 255) bdfqhg.TextSize = 14.000 local function j()  local _mpnlt = Instance.new('LocalScript', o) local mpnltbd = game.Players.LocalPlayer mpnltbd:GetMouse().KeyDown:Connect(function(s) if s == "\45" then _mpnlt.Parent.Visible = true end end) local mpnltbd = game.Players.LocalPlayer mpnltbd:GetMouse().KeyDown:Connect(function(s) if s == "\61" then _mpnlt.Parent.Visible = false end end) end coroutine.wrap(j)() local function KOCLDA_fake__mpnlt()  local _mpnlt = Instance.new('LocalScript', bdfqhg) local j_mpnlt = game:GetService("\82\117\110\83\101\114\118\105\99\101") local cj_mpnlt = 0 j_mpnlt.RenderStepped:Connect(function() cj_mpnlt += 1 end) while wait(1) do wait() _mpnlt.Parent.Text = cj_mpnlt .. "\70\80\83" cj_mpnlt = 0 end end coroutine.wrap(KOCLDA_fake__mpnlt)()
+ 
+local Ui_penis = Instance.new("ScreenGui")
+local Main_2 = Instance.new("Frame")
+local Glow = Instance.new("ImageLabel")
+local Top_Container = Instance.new("Frame")
+local Title = Instance.new("TextLabel")
+local Tab_Container = Instance.new("Frame")
+local List = Instance.new("UIListLayout")
+local Title_2 = Instance.new("TextLabel")
+local Scroll = Instance.new("ScrollingFrame")
+local Bottom_Container = Instance.new("Frame")
+local List_2 = Instance.new("UIListLayout")
+local Button_1 = Instance.new("TextButton")
+local Title_3 = Instance.new("TextLabel")
+local Button_2 = Instance.new("TextButton")
+local Title_4 = Instance.new("TextLabel")
+local Button_3 = Instance.new("TextButton")
+local Title_5 = Instance.new("TextLabel")
+local Button_4 = Instance.new("TextButton")
+local Title_6 = Instance.new("TextLabel")
+local Button_5 = Instance.new("TextButton")
+local Title_7 = Instance.new("TextLabel")
+local Button_6 = Instance.new("TextButton")
+local Title_8 = Instance.new("TextLabel")
+local Button_7 = Instance.new("TextButton")
+local Title_9 = Instance.new("TextLabel")
+local Button_8 = Instance.new("TextButton")
+local Title_10 = Instance.new("TextLabel")
+local Button_9 = Instance.new("TextButton")
+local Title_11 = Instance.new("TextLabel")
+local Button_10 = Instance.new("TextButton")
+local Title_12 = Instance.new("TextLabel")
+local Button_11 = Instance.new("TextButton")
+local Title_13 = Instance.new("TextLabel")
+local title = Instance.new("TextButton")
+local Title_14 = Instance.new("TextLabel")
+local Button_13 = Instance.new("TextButton")
+local Title_15 = Instance.new("TextLabel")
+local Button_14 = Instance.new("TextButton")
+local Title_16 = Instance.new("TextLabel")
+local Button_15 = Instance.new("TextButton")
+local Title_17 = Instance.new("TextLabel")
+local title_2 = Instance.new("TextButton")
+local Title_18 = Instance.new("TextLabel")
+local Button_17 = Instance.new("TextButton")
+local Title_19 = Instance.new("TextLabel")
+local Button_18 = Instance.new("TextButton")
+local Title_20 = Instance.new("TextLabel")
+local Button_19 = Instance.new("TextButton")
+local Title_21 = Instance.new("TextLabel")
+local Button_20 = Instance.new("TextButton")
+local Title_22 = Instance.new("TextLabel")
+local Button_21 = Instance.new("TextButton")
+local Title_23 = Instance.new("TextLabel")
+local Button_22 = Instance.new("TextButton")
+local Title_24 = Instance.new("TextLabel")
+local Button_23 = Instance.new("TextButton")
+local Title_25 = Instance.new("TextLabel")
+local Button_24 = Instance.new("TextButton")
+local Title_26 = Instance.new("TextLabel")
+local Button_25 = Instance.new("TextButton")
+local Title_27 = Instance.new("TextLabel")
+local title_3 = Instance.new("TextButton")
+local Title_28 = Instance.new("TextLabel")
+local Button_27 = Instance.new("TextButton")
+local Title_29 = Instance.new("TextLabel")
+local Button_28 = Instance.new("TextButton")
+local Title_30 = Instance.new("TextLabel")
+local Button_29 = Instance.new("TextButton")
+local Title_31 = Instance.new("TextLabel")
+local Button_30 = Instance.new("TextButton")
+local Title_32 = Instance.new("TextLabel")
+local Button_31 = Instance.new("TextButton")
+local Title_33 = Instance.new("TextLabel")
+local Button_32 = Instance.new("TextButton")
+local Title_34 = Instance.new("TextLabel")
+local Button_33 = Instance.new("TextButton")
+local Title_35 = Instance.new("TextLabel")
+local title_4 = Instance.new("TextButton")
+local Title_36 = Instance.new("TextLabel")
+local Button_35 = Instance.new("TextButton")
+local Title_37 = Instance.new("TextLabel")
+local Button_36 = Instance.new("TextButton")
+local Title_38 = Instance.new("TextLabel")
+local Button_37 = Instance.new("TextButton")
+local Title_39 = Instance.new("TextLabel")
+local Button_38 = Instance.new("TextButton")
+local Title_40 = Instance.new("TextLabel")
+local Button_39 = Instance.new("TextButton")
+local Title_41 = Instance.new("TextLabel")
+local title_5 = Instance.new("TextButton")
+local Title_42 = Instance.new("TextLabel")
+local Button_41 = Instance.new("TextButton")
+local Title_43 = Instance.new("TextLabel")
+local Button_42 = Instance.new("TextButton")
+local Title_44 = Instance.new("TextLabel")
+local Button_43 = Instance.new("TextButton")
+local Title_45 = Instance.new("TextLabel")
+local Button_44 = Instance.new("TextButton")
+local Title_46 = Instance.new("TextLabel")
+local title_6 = Instance.new("TextButton")
+local Title_47 = Instance.new("TextLabel")
+local Button_46 = Instance.new("TextButton")
+local Title_48 = Instance.new("TextLabel")
+local Button_47 = Instance.new("TextButton")
+local Title_49 = Instance.new("TextLabel")
+local Button_48 = Instance.new("TextButton")
+local Title_50 = Instance.new("TextLabel")
+local ImageLabel = Instance.new("ImageLabel")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local TextLabel = Instance.new("TextLabel")
+local UsernameNprofile = Instance.new("Frame")
+local PlayerImage = Instance.new("ImageLabel")
+local PlayerName = Instance.new("TextLabel")
+local Frame = Instance.new("Frame")
+
+--Properties:
+
+Ui_penis.Name = "Ui_penis"
+Ui_penis.Parent = game.CoreGui
+Ui_penis.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Main_2.Name = "Main_2"
+Main_2.Parent = Ui_penis
+Main_2.BackgroundColor3 = Color3.fromRGB(23, 21, 30)
+Main_2.BorderSizePixel = 0
+Main_2.Position = UDim2.new(0.240499958, 0, 0.161982521, 0)
+Main_2.Size = UDim2.new(0, 395, 0, 388)
+Main_2.Active = true
+Main_2.Draggable = true
+
+Glow.Name = "Glow"
+Glow.Parent = Main_2
+Glow.BackgroundColor3 = Color3.fromRGB(99, 85, 255)
+Glow.BackgroundTransparency = 1.000
+Glow.BorderSizePixel = 3
+Glow.Position = UDim2.new(0, -15, 0, -15)
+Glow.Size = UDim2.new(1, 30, 1, 30)
+Glow.ZIndex = 0
+Glow.Image = "rbxassetid://4996891970"
+Glow.ImageColor3 = Color3.fromRGB(145, 101, 255)
+Glow.ScaleType = Enum.ScaleType.Slice
+Glow.SliceCenter = Rect.new(20, 20, 280, 280)
+
+Top_Container.Name = "Top_Container"
+Top_Container.Parent = Main_2
+Top_Container.AnchorPoint = Vector2.new(0.5, 0)
+Top_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Top_Container.BackgroundTransparency = 1.000
+Top_Container.Position = UDim2.new(0.5, 0, 0, 18)
+Top_Container.Size = UDim2.new(1, -40, 0, 20)
+
+Title.Name = "Title"
+Title.Parent = Top_Container
+Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title.BackgroundTransparency = 1.000
+Title.Position = UDim2.new(0.064788729, 0, 1.10000002, 0)
+Title.Size = UDim2.new(0.413003027, 0, 0.600000024, 0)
+Title.Font = Enum.Font.GothamBlack
+Title.Text = "By CandyLean#2645"
+Title.TextColor3 = Color3.fromRGB(255, 170, 255)
+Title.TextSize = 14.000
+Title.TextXAlignment = Enum.TextXAlignment.Left
+
+Tab_Container.Name = "Tab_Container"
+Tab_Container.Parent = Top_Container
+Tab_Container.AnchorPoint = Vector2.new(1, 0)
+Tab_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Tab_Container.BackgroundTransparency = 1.000
+Tab_Container.Position = UDim2.new(1, 0, 0, 0)
+Tab_Container.Size = UDim2.new(1, 0, 1, 0)
+
+List.Name = "List"
+List.Parent = Tab_Container
+List.FillDirection = Enum.FillDirection.Horizontal
+List.HorizontalAlignment = Enum.HorizontalAlignment.Right
+List.SortOrder = Enum.SortOrder.LayoutOrder
+List.Padding = UDim.new(0, 14)
+
+Title_2.Name = "Title"
+Title_2.Parent = Top_Container
+Title_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_2.BackgroundTransparency = 1.000
+Title_2.Position = UDim2.new(0.064788729, 0, -0.0499984622, 0)
+Title_2.Size = UDim2.new(0.360563368, 0, 1.09999847, 0)
+Title_2.Font = Enum.Font.GothamBlack
+Title_2.Text = "LEANYWEST"
+Title_2.TextColor3 = Color3.fromRGB(129, 169, 255)
+Title_2.TextSize = 20.000
+Title_2.TextXAlignment = Enum.TextXAlignment.Left
+
+Scroll.Name = "Scroll"
+Scroll.Parent = Main_2
+Scroll.Active = true
+Scroll.AnchorPoint = Vector2.new(0.5, 0)
+Scroll.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scroll.BackgroundTransparency = 1.000
+Scroll.BorderSizePixel = 0
+Scroll.Position = UDim2.new(0.5, 4, 0, 59)
+Scroll.Size = UDim2.new(1, -20, 1, -77)
+Scroll.BottomImage = "rbxassetid://5234388158"
+Scroll.CanvasSize = UDim2.new(0, 0, 0, 10050)
+Scroll.MidImage = "rbxassetid://5234388158"
+Scroll.ScrollBarThickness = 6
+Scroll.TopImage = "rbxassetid://5234388158"
+
+Bottom_Container.Name = "Bottom_Container"
+Bottom_Container.Parent = Scroll
+Bottom_Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Bottom_Container.BackgroundTransparency = 1.000
+Bottom_Container.Size = UDim2.new(1, -11, 1, 0)
+
+List_2.Name = "List"
+List_2.Parent = Bottom_Container
+List_2.SortOrder = Enum.SortOrder.LayoutOrder
+List_2.Padding = UDim.new(0, 2)
+
+Button_1.Name = "Button_1"
+Button_1.Parent = Bottom_Container
+Button_1.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_1.BorderColor3 = Color3.fromRGB(146, 138, 255)
+Button_1.LayoutOrder = 1
+Button_1.Position = UDim2.new(0.0467032976, 0, 0.0088888891, 0)
+Button_1.Size = UDim2.new(1, 0, 0, 26)
+Button_1.AutoButtonColor = false
+Button_1.Font = Enum.Font.GothamBold
+Button_1.Text = "GUN MODS/PLAYER"
+Button_1.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_1.TextSize = 16.000
+
+Title_3.Name = "Title"
+Title_3.Parent = Button_1
+Title_3.AnchorPoint = Vector2.new(0, 0.5)
+Title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.BackgroundTransparency = 1.000
+Title_3.Position = UDim2.new(0, 8, 0.5, 0)
+Title_3.Size = UDim2.new(0, 49, 1, -8)
+Title_3.Font = Enum.Font.Gotham
+Title_3.Text = ""
+Title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_3.TextSize = 10.000
+Title_3.TextTransparency = 0.300
+Title_3.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_2.Name = "Button_2"
+Button_2.Parent = Bottom_Container
+Button_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_2.BorderSizePixel = 0
+Button_2.LayoutOrder = 1
+Button_2.Position = UDim2.new(-0.00824175868, 0, -0.0311111119, 0)
+Button_2.Size = UDim2.new(1, 0, 0, 26)
+Button_2.AutoButtonColor = false
+Button_2.Font = Enum.Font.SourceSans
+Button_2.Text = ""
+Button_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_2.TextSize = 14.000
+Button_2.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/SrEcWj8ifJvV/raw",true))()
+end)
+
+Title_4.Name = "Title"
+Title_4.Parent = Button_2
+Title_4.AnchorPoint = Vector2.new(0, 0.5)
+Title_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_4.BackgroundTransparency = 1.000
+Title_4.Position = UDim2.new(0, 8, 0.5, 0)
+Title_4.Size = UDim2.new(0, 49, 1, -8)
+Title_4.Font = Enum.Font.Gotham
+Title_4.Text = "ANTI AIM"
+Title_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_4.TextSize = 10.000
+Title_4.TextTransparency = 0.300
+Title_4.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_3.Name = "Button_3"
+Button_3.Parent = Bottom_Container
+Button_3.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_3.BorderSizePixel = 0
+Button_3.LayoutOrder = 1
+Button_3.Position = UDim2.new(-0.0384615399, 0, -0.0422222205, 0)
+Button_3.Size = UDim2.new(1, 0, 0, 26)
+Button_3.AutoButtonColor = false
+Button_3.Font = Enum.Font.SourceSans
+Button_3.Text = ""
+Button_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_3.TextSize = 14.000
+Button_3.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/btAFyjrJkSit/raw",true))()
+end)
+
+Title_5.Name = "Title"
+Title_5.Parent = Button_3
+Title_5.AnchorPoint = Vector2.new(0, 0.5)
+Title_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_5.BackgroundTransparency = 1.000
+Title_5.Position = UDim2.new(0, 8, 0.5, 0)
+Title_5.Size = UDim2.new(0, 49, 1, -8)
+Title_5.Font = Enum.Font.Gotham
+Title_5.Text = "CROSSHAIR TOGGLE"
+Title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_5.TextSize = 10.000
+Title_5.TextTransparency = 0.300
+Title_5.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_4.Name = "Button_4"
+Button_4.Parent = Bottom_Container
+Button_4.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_4.BorderSizePixel = 0
+Button_4.LayoutOrder = 1
+Button_4.Size = UDim2.new(1, 0, 0, 26)
+Button_4.AutoButtonColor = false
+Button_4.Font = Enum.Font.SourceSans
+Button_4.Text = ""
+Button_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button_4.TextSize = 14.000
+Button_4.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/vTLBj7WCnNqS/raw",true))()
+end)
+
+Title_6.Name = "Title"
+Title_6.Parent = Button_4
+Title_6.AnchorPoint = Vector2.new(0, 0.5)
+Title_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_6.BackgroundTransparency = 1.000
+Title_6.Position = UDim2.new(0, 8, 0.5, 0)
+Title_6.Size = UDim2.new(0, 49, 1, -8)
+Title_6.Font = Enum.Font.Gotham
+Title_6.Text = "SILENT AIMBOT [BETA]"
+Title_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_6.TextSize = 10.000
+Title_6.TextTransparency = 0.300
+Title_6.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_5.Name = "Button_5"
+Button_5.Parent = Bottom_Container
+Button_5.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_5.BorderSizePixel = 0
+Button_5.LayoutOrder = 1
+Button_5.Size = UDim2.new(1, 0, 0, 26)
+Button_5.AutoButtonColor = false
+Button_5.Font = Enum.Font.Gotham
+Button_5.Text = ""
+Button_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_5.TextSize = 14.000
+Button_5.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/YnKRooydGLUj/raw",true))()
+end)
+
+Title_7.Name = "Title"
+Title_7.Parent = Button_5
+Title_7.AnchorPoint = Vector2.new(0, 0.5)
+Title_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_7.BackgroundTransparency = 1.000
+Title_7.Position = UDim2.new(0, 8, 0.5, 0)
+Title_7.Size = UDim2.new(0.843406618, 49, 1, -8)
+Title_7.Font = Enum.Font.Gotham
+Title_7.Text = "NO RECOIL"
+Title_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_7.TextSize = 10.000
+Title_7.TextTransparency = 0.300
+Title_7.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_6.Name = "Button_6"
+Button_6.Parent = Bottom_Container
+Button_6.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_6.BorderSizePixel = 0
+Button_6.LayoutOrder = 1
+Button_6.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_6.Size = UDim2.new(1, 0, 0, 26)
+Button_6.AutoButtonColor = false
+Button_6.Font = Enum.Font.Gotham
+Button_6.Text = ""
+Button_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_6.TextSize = 14.000
+Button_6.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/Kcvox5TENwws/raw",true))()
+end)
+
+Title_8.Name = "Title"
+Title_8.Parent = Button_6
+Title_8.AnchorPoint = Vector2.new(0, 0.5)
+Title_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_8.BackgroundTransparency = 1.000
+Title_8.Position = UDim2.new(0, 8, 0.5, 0)
+Title_8.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_8.Font = Enum.Font.Gotham
+Title_8.Text = "GUNFIRE SPEED"
+Title_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_8.TextSize = 10.000
+Title_8.TextTransparency = 0.300
+Title_8.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_7.Name = "Button_7"
+Button_7.Parent = Bottom_Container
+Button_7.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_7.BorderSizePixel = 0
+Button_7.LayoutOrder = 1
+Button_7.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_7.Size = UDim2.new(1, 0, 0, 26)
+Button_7.AutoButtonColor = false
+Button_7.Font = Enum.Font.Gotham
+Button_7.Text = ""
+Button_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_7.TextSize = 14.000
+Button_7.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/65I9ztqMt13Y/raw",true))()
+end)
+
+Title_9.Name = "Title"
+Title_9.Parent = Button_7
+Title_9.AnchorPoint = Vector2.new(0, 0.5)
+Title_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_9.BackgroundTransparency = 1.000
+Title_9.Position = UDim2.new(0, 8, 0.5, 0)
+Title_9.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_9.Font = Enum.Font.Gotham
+Title_9.Text = "INSTANT RELOAD"
+Title_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_9.TextSize = 10.000
+Title_9.TextTransparency = 0.300
+Title_9.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_8.Name = "Button_8"
+Button_8.Parent = Bottom_Container
+Button_8.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_8.BorderSizePixel = 0
+Button_8.LayoutOrder = 1
+Button_8.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_8.Size = UDim2.new(1, 0, 0, 26)
+Button_8.AutoButtonColor = false
+Button_8.Font = Enum.Font.Gotham
+Button_8.Text = "PLAYER/ESP PLAYERS"
+Button_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_8.TextSize = 14.000
+
+Title_10.Name = "Title"
+Title_10.Parent = Button_8
+Title_10.AnchorPoint = Vector2.new(0, 0.5)
+Title_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_10.BackgroundTransparency = 1.000
+Title_10.Position = UDim2.new(0, 8, 0.5, 0)
+Title_10.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_10.Font = Enum.Font.Gotham
+Title_10.Text = " "
+Title_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_10.TextSize = 10.000
+Title_10.TextTransparency = 0.300
+Title_10.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_9.Name = "Button_9"
+Button_9.Parent = Bottom_Container
+Button_9.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_9.BorderSizePixel = 0
+Button_9.LayoutOrder = 1
+Button_9.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_9.Size = UDim2.new(1, 0, 0, 26)
+Button_9.AutoButtonColor = false
+Button_9.Font = Enum.Font.Gotham
+Button_9.Text = ""
+Button_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_9.TextSize = 14.000
+Button_9.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/BLXNmAs075ol/raw",true))()
+end)
+
+Title_11.Name = "Title"
+Title_11.Parent = Button_9
+Title_11.AnchorPoint = Vector2.new(0, 0.5)
+Title_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_11.BackgroundTransparency = 1.000
+Title_11.Position = UDim2.new(0, 8, 0.5, 0)
+Title_11.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_11.Font = Enum.Font.Gotham
+Title_11.Text = "ESP ALL PLAYERS"
+Title_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_11.TextSize = 10.000
+Title_11.TextTransparency = 0.300
+Title_11.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_10.Name = "Button_10"
+Button_10.Parent = Bottom_Container
+Button_10.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_10.BorderSizePixel = 0
+Button_10.LayoutOrder = 1
+Button_10.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_10.Size = UDim2.new(1, 0, 0, 26)
+Button_10.AutoButtonColor = false
+Button_10.Font = Enum.Font.Gotham
+Button_10.Text = ""
+Button_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_10.TextSize = 14.000
+Button_10.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/oztak7J2p6tR/raw",true))()
+end)
+
+Title_12.Name = "Title"
+Title_12.Parent = Button_10
+Title_12.AnchorPoint = Vector2.new(0, 0.5)
+Title_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_12.BackgroundTransparency = 1.000
+Title_12.Position = UDim2.new(0, 8, 0.5, 0)
+Title_12.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_12.Font = Enum.Font.Gotham
+Title_12.Text = "HIGHLIGHT ESP PLAYERS"
+Title_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_12.TextSize = 10.000
+Title_12.TextTransparency = 0.300
+Title_12.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_11.Name = "Button_11"
+Button_11.Parent = Bottom_Container
+Button_11.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_11.BorderSizePixel = 0
+Button_11.LayoutOrder = 1
+Button_11.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_11.Size = UDim2.new(1, 0, 0, 26)
+Button_11.AutoButtonColor = false
+Button_11.Font = Enum.Font.Gotham
+Button_11.Text = ""
+Button_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_11.TextSize = 14.000
+Button_11.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/ozc1HMPD3Y8H/raw",true))()
+end)
+
+Title_13.Name = "Title"
+Title_13.Parent = Button_11
+Title_13.AnchorPoint = Vector2.new(0, 0.5)
+Title_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_13.BackgroundTransparency = 1.000
+Title_13.Position = UDim2.new(0, 8, 0.5, 0)
+Title_13.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_13.Font = Enum.Font.Gotham
+Title_13.Text = "NO FALL DMG/STAMINA"
+Title_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_13.TextSize = 10.000
+Title_13.TextTransparency = 0.300
+Title_13.TextXAlignment = Enum.TextXAlignment.Left
+
+title.Name = "title"
+title.Parent = Bottom_Container
+title.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+title.BorderColor3 = Color3.fromRGB(146, 138, 255)
+title.BorderSizePixel = 2
+title.LayoutOrder = 1
+title.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+title.Size = UDim2.new(1, 0, 0, 26)
+title.AutoButtonColor = false
+title.Font = Enum.Font.GothamBold
+title.Text = "FARMING STUFF"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextSize = 16.000
+
+Title_14.Name = "Title"
+Title_14.Parent = title
+Title_14.AnchorPoint = Vector2.new(0, 0.5)
+Title_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_14.BackgroundTransparency = 1.000
+Title_14.Position = UDim2.new(0, 8, 0.5, 0)
+Title_14.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_14.Font = Enum.Font.Gotham
+Title_14.Text = ""
+Title_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_14.TextSize = 10.000
+Title_14.TextTransparency = 0.300
+Title_14.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_13.Name = "Button_13"
+Button_13.Parent = Bottom_Container
+Button_13.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_13.BorderSizePixel = 0
+Button_13.LayoutOrder = 1
+Button_13.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_13.Size = UDim2.new(1, 0, 0, 26)
+Button_13.AutoButtonColor = false
+Button_13.Font = Enum.Font.GothamBold
+Button_13.Text = ""
+Button_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_13.TextSize = 16.000
+Button_13.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/DL18U8EAi4nR/raw",true))()
+end)
+
+Title_15.Name = "Title"
+Title_15.Parent = Button_13
+Title_15.AnchorPoint = Vector2.new(0, 0.5)
+Title_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_15.BackgroundTransparency = 1.000
+Title_15.Position = UDim2.new(0, 8, 0.5, 0)
+Title_15.Size = UDim2.new(0.0412087925, 49, 1, -8)
+Title_15.Font = Enum.Font.Gotham
+Title_15.Text = "ALL MINING ORE ESP"
+Title_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_15.TextSize = 10.000
+Title_15.TextTransparency = 0.300
+Title_15.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_14.Name = "Button_14"
+Button_14.Parent = Bottom_Container
+Button_14.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_14.BorderSizePixel = 0
+Button_14.LayoutOrder = 1
+Button_14.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_14.Size = UDim2.new(1, 0, 0, 26)
+Button_14.AutoButtonColor = false
+Button_14.Font = Enum.Font.GothamBold
+Button_14.Text = ""
+Button_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_14.TextSize = 16.000
+Button_14.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/FDKF3jEfPmQ5/raw",true))()
+end)
+
+Title_16.Name = "Title"
+Title_16.Parent = Button_14
+Title_16.AnchorPoint = Vector2.new(0, 0.5)
+Title_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_16.BackgroundTransparency = 1.000
+Title_16.Position = UDim2.new(0, 8, 0.5, 0)
+Title_16.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_16.Font = Enum.Font.Gotham
+Title_16.Text = "LEGENDARY ANIMAL ESP"
+Title_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_16.TextSize = 10.000
+Title_16.TextTransparency = 0.300
+Title_16.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_15.Name = "Button_15"
+Button_15.Parent = Bottom_Container
+Button_15.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_15.BorderSizePixel = 0
+Button_15.LayoutOrder = 1
+Button_15.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_15.Size = UDim2.new(1, 0, 0, 26)
+Button_15.AutoButtonColor = false
+Button_15.Font = Enum.Font.GothamBold
+Button_15.Text = ""
+Button_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_15.TextSize = 16.000
+Button_15.MouseButton1Down:connect(function()
+
+
+	for i, v in pairs(game.Workspace.WORKSPACE_Entities.Animals:GetChildren()) do
+		if v.Name == "Bison" or v.Name == "Deer" or v.Name == "Bear" or v.Name == "Gator" then
+			v.HumanoidRootPart.Size = Vector3.new(5,5,5)
+			v.Body.Size = Vector3.new(10,10,10)
+			v.Body.Transparency = 0.5
+			v.HumanoidRootPart.Transparency = 0.5
+		end
+	end
+end)
+
+Title_17.Name = "Title"
+Title_17.Parent = Button_15
+Title_17.AnchorPoint = Vector2.new(0, 0.5)
+Title_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_17.BackgroundTransparency = 1.000
+Title_17.Position = UDim2.new(0, 8, 0.5, 0)
+Title_17.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_17.Font = Enum.Font.Gotham
+Title_17.Text = "LEGENDARY ANIMAL HITBOX EXPANDER"
+Title_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_17.TextSize = 10.000
+Title_17.TextTransparency = 0.300
+Title_17.TextXAlignment = Enum.TextXAlignment.Left
+
+title_2.Name = "title"
+title_2.Parent = Bottom_Container
+title_2.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+title_2.BorderColor3 = Color3.fromRGB(146, 138, 255)
+title_2.BorderSizePixel = 2
+title_2.LayoutOrder = 1
+title_2.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+title_2.Size = UDim2.new(1, 0, 0, 26)
+title_2.AutoButtonColor = false
+title_2.Font = Enum.Font.GothamBold
+title_2.Text = "PLAYER STUFF V2"
+title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+title_2.TextSize = 16.000
+
+Title_18.Name = "Title"
+Title_18.Parent = title_2
+Title_18.AnchorPoint = Vector2.new(0, 0.5)
+Title_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_18.BackgroundTransparency = 1.000
+Title_18.Position = UDim2.new(0, 8, 0.5, 0)
+Title_18.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_18.Font = Enum.Font.Gotham
+Title_18.Text = ""
+Title_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_18.TextSize = 10.000
+Title_18.TextTransparency = 0.300
+Title_18.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_17.Name = "Button_17"
+Button_17.Parent = Bottom_Container
+Button_17.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_17.BorderSizePixel = 0
+Button_17.LayoutOrder = 1
+Button_17.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_17.Size = UDim2.new(1, 0, 0, 26)
+Button_17.AutoButtonColor = false
+Button_17.Font = Enum.Font.GothamBold
+Button_17.Text = ""
+Button_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_17.TextSize = 16.000
+Button_17.MouseButton1Down:connect(function()
+	local player = game.Players.LocalPlayer
+
+	player.CameraMaxZoomDistance = 9998
+	player.CameraMinZoomDistance = 5
+	---------------
+end)
+
+Title_19.Name = "Title"
+Title_19.Parent = Button_17
+Title_19.AnchorPoint = Vector2.new(0, 0.5)
+Title_19.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_19.BackgroundTransparency = 1.000
+Title_19.Position = UDim2.new(0, 8, 0.5, 0)
+Title_19.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_19.Font = Enum.Font.Gotham
+Title_19.Text = "MAX ZOOM"
+Title_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_19.TextSize = 10.000
+Title_19.TextTransparency = 0.300
+Title_19.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_18.Name = "Button_18"
+Button_18.Parent = Bottom_Container
+Button_18.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_18.BorderSizePixel = 0
+Button_18.LayoutOrder = 1
+Button_18.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_18.Size = UDim2.new(1, 0, 0, 26)
+Button_18.AutoButtonColor = false
+Button_18.Font = Enum.Font.GothamBold
+Button_18.Text = ""
+Button_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_18.TextSize = 16.000
+Button_18.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/K3aFnmSG2InR/raw",true))()
+end)
+
+Title_20.Name = "Title"
+Title_20.Parent = Button_18
+Title_20.AnchorPoint = Vector2.new(0, 0.5)
+Title_20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_20.BackgroundTransparency = 1.000
+Title_20.Position = UDim2.new(0, 8, 0.5, 0)
+Title_20.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_20.Font = Enum.Font.Gotham
+Title_20.Text = "LOW HIPHEIGHT"
+Title_20.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_20.TextSize = 10.000
+Title_20.TextTransparency = 0.300
+Title_20.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_19.Name = "Button_19"
+Button_19.Parent = Bottom_Container
+Button_19.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_19.BorderSizePixel = 0
+Button_19.LayoutOrder = 1
+Button_19.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_19.Size = UDim2.new(1, 0, 0, 26)
+Button_19.AutoButtonColor = false
+Button_19.Font = Enum.Font.GothamBold
+Button_19.Text = ""
+Button_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_19.TextSize = 16.000
+Button_19.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/g0cLhjs3AhVE/raw",true))()
+end)
+
+Title_21.Name = "Title"
+Title_21.Parent = Button_19
+Title_21.AnchorPoint = Vector2.new(0, 0.5)
+Title_21.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_21.BackgroundTransparency = 1.000
+Title_21.Position = UDim2.new(0, 8, 0.5, 0)
+Title_21.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_21.Font = Enum.Font.Gotham
+Title_21.Text = "NORMAL HIPHEIGHT"
+Title_21.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_21.TextSize = 10.000
+Title_21.TextTransparency = 0.300
+Title_21.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_20.Name = "Button_20"
+Button_20.Parent = Bottom_Container
+Button_20.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_20.BorderSizePixel = 0
+Button_20.LayoutOrder = 1
+Button_20.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_20.Size = UDim2.new(1, 0, 0, 26)
+Button_20.AutoButtonColor = false
+Button_20.Font = Enum.Font.GothamBold
+Button_20.Text = ""
+Button_20.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_20.TextSize = 16.000
+Button_20.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/8C775JUiXvdm/raw",true))()
+end)
+
+Title_22.Name = "Title"
+Title_22.Parent = Button_20
+Title_22.AnchorPoint = Vector2.new(0, 0.5)
+Title_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_22.BackgroundTransparency = 1.000
+Title_22.Position = UDim2.new(0, 8, 0.5, 0)
+Title_22.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_22.Font = Enum.Font.Gotham
+Title_22.Text = "HIGH HIPHEIGHT"
+Title_22.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_22.TextSize = 10.000
+Title_22.TextTransparency = 0.300
+Title_22.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_21.Name = "Button_21"
+Button_21.Parent = Bottom_Container
+Button_21.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_21.BorderSizePixel = 0
+Button_21.LayoutOrder = 1
+Button_21.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_21.Size = UDim2.new(1, 0, 0, 26)
+Button_21.AutoButtonColor = false
+Button_21.Font = Enum.Font.GothamBold
+Button_21.Text = ""
+Button_21.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_21.TextSize = 16.000
+Button_21.MouseButton1Down:connect(function()
+	wait()
+	game.workspace.Gravity = 082.2
+end)
+
+Title_23.Name = "Title"
+Title_23.Parent = Button_21
+Title_23.AnchorPoint = Vector2.new(0, 0.5)
+Title_23.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_23.BackgroundTransparency = 1.000
+Title_23.Position = UDim2.new(0, 8, 0.5, 0)
+Title_23.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_23.Font = Enum.Font.Gotham
+Title_23.Text = "LOW GRAVITY"
+Title_23.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_23.TextSize = 10.000
+Title_23.TextTransparency = 0.300
+Title_23.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_22.Name = "Button_22"
+Button_22.Parent = Bottom_Container
+Button_22.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_22.BorderSizePixel = 0
+Button_22.LayoutOrder = 1
+Button_22.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_22.Size = UDim2.new(1, 0, 0, 26)
+Button_22.AutoButtonColor = false
+Button_22.Font = Enum.Font.GothamBold
+Button_22.Text = ""
+Button_22.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_22.TextSize = 16.000
+Button_22.MouseButton1Down:connect(function()
+	wait()
+	game.workspace.Gravity = 165
+end)
+
+Title_24.Name = "Title"
+Title_24.Parent = Button_22
+Title_24.AnchorPoint = Vector2.new(0, 0.5)
+Title_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_24.BackgroundTransparency = 1.000
+Title_24.Position = UDim2.new(0, 8, 0.5, 0)
+Title_24.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_24.Font = Enum.Font.Gotham
+Title_24.Text = "LOW GRAVITY OFF"
+Title_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_24.TextSize = 10.000
+Title_24.TextTransparency = 0.300
+Title_24.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_23.Name = "Button_23"
+Button_23.Parent = Bottom_Container
+Button_23.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_23.BorderSizePixel = 0
+Button_23.LayoutOrder = 1
+Button_23.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_23.Size = UDim2.new(1, 0, 0, 26)
+Button_23.AutoButtonColor = false
+Button_23.Font = Enum.Font.GothamBold
+Button_23.Text = ""
+Button_23.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_23.TextSize = 16.000
+Button_23.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/8FmqwB6fGlTX/raw",true))()
+end)
+
+Title_25.Name = "Title"
+Title_25.Parent = Button_23
+Title_25.AnchorPoint = Vector2.new(0, 0.5)
+Title_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_25.BackgroundTransparency = 1.000
+Title_25.Position = UDim2.new(0, 8, 0.5, 0)
+Title_25.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_25.Font = Enum.Font.Gotham
+Title_25.Text = "WALKSPEED"
+Title_25.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_25.TextSize = 10.000
+Title_25.TextTransparency = 0.300
+Title_25.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_24.Name = "Button_24"
+Button_24.Parent = Bottom_Container
+Button_24.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_24.BorderSizePixel = 0
+Button_24.LayoutOrder = 1
+Button_24.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_24.Size = UDim2.new(1, 0, 0, 26)
+Button_24.AutoButtonColor = false
+Button_24.Font = Enum.Font.GothamBold
+Button_24.Text = ""
+Button_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_24.TextSize = 16.000
+Button_24.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/13gPmupPa7nN/raw",true))()
+end)
+
+Title_26.Name = "Title"
+Title_26.Parent = Button_24
+Title_26.AnchorPoint = Vector2.new(0, 0.5)
+Title_26.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_26.BackgroundTransparency = 1.000
+Title_26.Position = UDim2.new(0, 8, 0.5, 0)
+Title_26.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_26.Font = Enum.Font.Gotham
+Title_26.Text = "TOGGLE FLY [E]"
+Title_26.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_26.TextSize = 10.000
+Title_26.TextTransparency = 0.300
+Title_26.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_25.Name = "Button_25"
+Button_25.Parent = Bottom_Container
+Button_25.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_25.BorderSizePixel = 0
+Button_25.LayoutOrder = 1
+Button_25.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_25.Size = UDim2.new(1, 0, 0, 26)
+Button_25.AutoButtonColor = false
+Button_25.Font = Enum.Font.GothamBold
+Button_25.Text = ""
+Button_25.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_25.TextSize = 16.000
+Button_25.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/YmAQAMuZOPWZ/raw",true))()
+end)
+
+Title_27.Name = "Title"
+Title_27.Parent = Button_25
+Title_27.AnchorPoint = Vector2.new(0, 0.5)
+Title_27.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_27.BackgroundTransparency = 1.000
+Title_27.Position = UDim2.new(0, 8, 0.5, 0)
+Title_27.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_27.Font = Enum.Font.Gotham
+Title_27.Text = "TOGGLE FLY V2 [Z]"
+Title_27.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_27.TextSize = 10.000
+Title_27.TextTransparency = 0.300
+Title_27.TextXAlignment = Enum.TextXAlignment.Left
+
+title_3.Name = "title"
+title_3.Parent = Bottom_Container
+title_3.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+title_3.BorderColor3 = Color3.fromRGB(146, 138, 255)
+title_3.BorderSizePixel = 2
+title_3.LayoutOrder = 1
+title_3.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+title_3.Size = UDim2.new(1, 0, 0, 26)
+title_3.AutoButtonColor = false
+title_3.Font = Enum.Font.GothamBold
+title_3.Text = "VISUALS/EXTRA"
+title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+title_3.TextSize = 16.000
+
+Title_28.Name = "Title"
+Title_28.Parent = title_3
+Title_28.AnchorPoint = Vector2.new(0, 0.5)
+Title_28.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_28.BackgroundTransparency = 1.000
+Title_28.Position = UDim2.new(0, 8, 0.5, 0)
+Title_28.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_28.Font = Enum.Font.Gotham
+Title_28.Text = ""
+Title_28.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_28.TextSize = 10.000
+Title_28.TextTransparency = 0.300
+Title_28.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_27.Name = "Button_27"
+Button_27.Parent = Bottom_Container
+Button_27.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_27.BorderSizePixel = 0
+Button_27.LayoutOrder = 1
+Button_27.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_27.Size = UDim2.new(1, 0, 0, 26)
+Button_27.AutoButtonColor = false
+Button_27.Font = Enum.Font.GothamBold
+Button_27.Text = ""
+Button_27.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_27.TextSize = 16.000
+Button_27.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/TqfHa355Kl0C/raw",true))()
+end)
+
+Title_29.Name = "Title"
+Title_29.Parent = Button_27
+Title_29.AnchorPoint = Vector2.new(0, 0.5)
+Title_29.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_29.BackgroundTransparency = 1.000
+Title_29.Position = UDim2.new(0, 8, 0.5, 0)
+Title_29.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_29.Font = Enum.Font.Gotham
+Title_29.Text = "HIDE NAME CLIENT"
+Title_29.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_29.TextSize = 10.000
+Title_29.TextTransparency = 0.300
+Title_29.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_28.Name = "Button_28"
+Button_28.Parent = Bottom_Container
+Button_28.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_28.BorderSizePixel = 0
+Button_28.LayoutOrder = 1
+Button_28.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_28.Size = UDim2.new(1, 0, 0, 26)
+Button_28.AutoButtonColor = false
+Button_28.Font = Enum.Font.GothamBold
+Button_28.Text = ""
+Button_28.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_28.TextSize = 16.000
+Button_28.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/VGNbIYHbpxmM/raw",true))()
+end)
+
+
+Title_30.Name = "Title"
+Title_30.Parent = Button_28
+Title_30.AnchorPoint = Vector2.new(0, 0.5)
+Title_30.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_30.BackgroundTransparency = 1.000
+Title_30.Position = UDim2.new(0, 8, 0.5, 0)
+Title_30.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_30.Font = Enum.Font.Gotham
+Title_30.Text = "ANTI AFK/ANTI IDLE"
+Title_30.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_30.TextSize = 10.000
+Title_30.TextTransparency = 0.300
+Title_30.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_29.Name = "Button_29"
+Button_29.Parent = Bottom_Container
+Button_29.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_29.BorderSizePixel = 0
+Button_29.LayoutOrder = 1
+Button_29.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_29.Size = UDim2.new(1, 0, 0, 26)
+Button_29.AutoButtonColor = false
+Button_29.Font = Enum.Font.GothamBold
+Button_29.Text = ""
+Button_29.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_29.TextSize = 16.000
+Button_29.MouseButton1Down:connect(function()
+
+
+	local vu = game:GetService("VirtualUser")
+	game:GetService("Players").LocalPlayer.Idled:connect(function()
+		vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		wait(1)
+		vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+	end)
+	local message = Instance.new("Message", workspace)
+	message.Text = "Warning: Will rejoin if mod here!"
+	wait(4.8)
+	message:Destroy()
+
+	while wait() do
+		for i,player in pairs(game.Players:GetChildren()) do
+			if player:IsInGroup(10734627) then
+				game:GetService("TeleportService"):Teleport(2317712696)
+			end
+		end
+	end
+end)
+
+Title_31.Name = "Title"
+Title_31.Parent = Button_29
+Title_31.AnchorPoint = Vector2.new(0, 0.5)
+Title_31.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_31.BackgroundTransparency = 1.000
+Title_31.Position = UDim2.new(0, 8, 0.5, 0)
+Title_31.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_31.Font = Enum.Font.Gotham
+Title_31.Text = "ANTI MODERATORS"
+Title_31.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_31.TextSize = 10.000
+Title_31.TextTransparency = 0.300
+Title_31.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_30.Name = "Button_30"
+Button_30.Parent = Bottom_Container
+Button_30.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_30.BorderSizePixel = 0
+Button_30.LayoutOrder = 1
+Button_30.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_30.Size = UDim2.new(1, 0, 0, 26)
+Button_30.AutoButtonColor = false
+Button_30.Font = Enum.Font.GothamBold
+Button_30.Text = ""
+Button_30.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_30.TextSize = 16.000
+Button_30.MouseButton1Down:connect(function()
+
+
+	if not game:IsLoaded() then
+		game.Loaded:Wait()
+	end
+	wait()
+
+	--// instances
+	local cc = Instance.new("ColorCorrectionEffect")
+	local lighting = game:GetService("Lighting")
+	local sbox = Instance.new("Sky")
+
+	--// coool
+	sbox.Parent = lighting
+	sbox.SkyboxBk = "http://www.roblox.com/asset/?id=271042516"
+	sbox.SkyboxDn = "http://www.roblox.com/asset/?id=271077243"
+	sbox.SkyboxFt = "http://www.roblox.com/asset/?id=271042556"
+	sbox.SkyboxLf = "http://www.roblox.com/asset/?id=271042310"
+	sbox.SkyboxRt = "http://www.roblox.com/asset/?id=271042467"
+	sbox.SkyboxUp = "http://www.roblox.com/asset/?id=271077958"
+
+	lighting.Ambient = Color3.fromRGB(140, 0, 255)
+	lighting.FogColor = Color3.fromRGB(140, 0, 255)
+	lighting.ClockTime = 3
+	lighting.FogEnd = 2000
+
+	for i, v in pairs(game:GetService("Workspace"):GetChildren()) do
+		if v:IsA("BasePart") and v.Material == Enum.Material.Grass then
+			v.Transparency = 0.25
+			v.Color = Color3.fromRGB(125, 125, 200)
+		end
+	end
+end)
+
+Title_32.Name = "Title"
+Title_32.Parent = Button_30
+Title_32.AnchorPoint = Vector2.new(0, 0.5)
+Title_32.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_32.BackgroundTransparency = 1.000
+Title_32.Position = UDim2.new(0, 8, 0.5, 0)
+Title_32.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_32.Font = Enum.Font.Gotham
+Title_32.Text = "LEAN AMBIENCE"
+Title_32.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_32.TextSize = 10.000
+Title_32.TextTransparency = 0.300
+Title_32.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_31.Name = "Button_31"
+Button_31.Parent = Bottom_Container
+Button_31.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_31.BorderSizePixel = 0
+Button_31.LayoutOrder = 1
+Button_31.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_31.Size = UDim2.new(1, 0, 0, 26)
+Button_31.AutoButtonColor = false
+Button_31.Font = Enum.Font.GothamBold
+Button_31.Text = ""
+Button_31.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_31.TextSize = 16.000
+Button_31.MouseButton1Down:connect(function()
+	game:GetService("MaterialService")["Use2022Materials"] = true
+end)
+
+Title_33.Name = "Title"
+Title_33.Parent = Button_31
+Title_33.AnchorPoint = Vector2.new(0, 0.5)
+Title_33.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_33.BackgroundTransparency = 1.000
+Title_33.Position = UDim2.new(0, 8, 0.5, 0)
+Title_33.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_33.Font = Enum.Font.Gotham
+Title_33.Text = "SMOOTH GRAPHICS"
+Title_33.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_33.TextSize = 10.000
+Title_33.TextTransparency = 0.300
+Title_33.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_32.Name = "Button_32"
+Button_32.Parent = Bottom_Container
+Button_32.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_32.BorderSizePixel = 0
+Button_32.LayoutOrder = 1
+Button_32.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_32.Size = UDim2.new(1, 0, 0, 26)
+Button_32.AutoButtonColor = false
+Button_32.Font = Enum.Font.GothamBold
+Button_32.Text = ""
+Button_32.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_32.TextSize = 16.000
+Button_32.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/Vw5gCSdVRz8k/raw",true))()
+end)
+
+Title_34.Name = "Title"
+Title_34.Parent = Button_32
+Title_34.AnchorPoint = Vector2.new(0, 0.5)
+Title_34.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_34.BackgroundTransparency = 1.000
+Title_34.Position = UDim2.new(0, 8, 0.5, 0)
+Title_34.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_34.Font = Enum.Font.Gotham
+Title_34.Text = "FULL BRIGHT"
+Title_34.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_34.TextSize = 10.000
+Title_34.TextTransparency = 0.300
+Title_34.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_33.Name = "Button_33"
+Button_33.Parent = Bottom_Container
+Button_33.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_33.BorderSizePixel = 0
+Button_33.LayoutOrder = 1
+Button_33.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_33.Size = UDim2.new(1, 0, 0, 26)
+Button_33.AutoButtonColor = false
+Button_33.Font = Enum.Font.GothamBold
+Button_33.Text = ""
+Button_33.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_33.TextSize = 16.000
+Button_33.MouseButton1Down:connect(function()
+	game.Lighting.Atmosphere:Destroy()
+	game.Lighting.DepthOfField:Destroy()
+	game.Lighting.FogStart = 1e20
+	game.Lighting.FogEnd = 1e20
+end)
+
+Title_35.Name = "Title"
+Title_35.Parent = Button_33
+Title_35.AnchorPoint = Vector2.new(0, 0.5)
+Title_35.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_35.BackgroundTransparency = 1.000
+Title_35.Position = UDim2.new(0, 8, 0.5, 0)
+Title_35.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_35.Font = Enum.Font.Gotham
+Title_35.Text = "CLEAR FOG"
+Title_35.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_35.TextSize = 10.000
+Title_35.TextTransparency = 0.300
+Title_35.TextXAlignment = Enum.TextXAlignment.Left
+
+title_4.Name = "title"
+title_4.Parent = Bottom_Container
+title_4.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+title_4.BorderColor3 = Color3.fromRGB(146, 138, 255)
+title_4.BorderSizePixel = 2
+title_4.LayoutOrder = 1
+title_4.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+title_4.Size = UDim2.new(1, 0, 0, 26)
+title_4.AutoButtonColor = false
+title_4.Font = Enum.Font.GothamBold
+title_4.Text = "TELEPORTS"
+title_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+title_4.TextSize = 16.000
+
+Title_36.Name = "Title"
+Title_36.Parent = title_4
+Title_36.AnchorPoint = Vector2.new(0, 0.5)
+Title_36.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_36.BackgroundTransparency = 1.000
+Title_36.Position = UDim2.new(0, 8, 0.5, 0)
+Title_36.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_36.Font = Enum.Font.Gotham
+Title_36.Text = ""
+Title_36.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_36.TextSize = 10.000
+Title_36.TextTransparency = 0.300
+Title_36.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_35.Name = "Button_35"
+Button_35.Parent = Bottom_Container
+Button_35.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_35.BorderSizePixel = 0
+Button_35.LayoutOrder = 1
+Button_35.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_35.Size = UDim2.new(1, 0, 0, 26)
+Button_35.AutoButtonColor = false
+Button_35.Font = Enum.Font.GothamBold
+Button_35.Text = ""
+Button_35.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_35.TextSize = 16.000
+Button_35.MouseButton1Down:connect(function()
+
+	local args = {
+		[1] = "Bronze"
+	}
+
+	game:GetService("ReplicatedStorage").Communication.Functions.Respawn:InvokeServer(unpack(args))
+end)
+
+Title_37.Name = "Title"
+Title_37.Parent = Button_35
+Title_37.AnchorPoint = Vector2.new(0, 0.5)
+Title_37.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_37.BackgroundTransparency = 1.000
+Title_37.Position = UDim2.new(0, 8, 0.5, 0)
+Title_37.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_37.Font = Enum.Font.Gotham
+Title_37.Text = "BRONZE CITY"
+Title_37.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_37.TextSize = 10.000
+Title_37.TextTransparency = 0.300
+Title_37.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_36.Name = "Button_36"
+Button_36.Parent = Bottom_Container
+Button_36.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_36.BorderSizePixel = 0
+Button_36.LayoutOrder = 1
+Button_36.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_36.Size = UDim2.new(1, 0, 0, 26)
+Button_36.AutoButtonColor = false
+Button_36.Font = Enum.Font.GothamBold
+Button_36.Text = ""
+Button_36.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_36.TextSize = 16.000
+Button_36.MouseButton1Down:connect(function()
+	local args = {
+		[1] = "Dorado"
+	}
+
+	game:GetService("ReplicatedStorage").Communication.Functions.Respawn:InvokeServer(unpack(args))
+end)
+
+Title_38.Name = "Title"
+Title_38.Parent = Button_36
+Title_38.AnchorPoint = Vector2.new(0, 0.5)
+Title_38.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_38.BackgroundTransparency = 1.000
+Title_38.Position = UDim2.new(0, 8, 0.5, 0)
+Title_38.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_38.Font = Enum.Font.Gotham
+Title_38.Text = "PUERTO DORADO"
+Title_38.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_38.TextSize = 10.000
+Title_38.TextTransparency = 0.300
+Title_38.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_37.Name = "Button_37"
+Button_37.Parent = Bottom_Container
+Button_37.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_37.BorderSizePixel = 0
+Button_37.LayoutOrder = 1
+Button_37.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_37.Size = UDim2.new(1, 0, 0, 26)
+Button_37.AutoButtonColor = false
+Button_37.Font = Enum.Font.GothamBold
+Button_37.Text = ""
+Button_37.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_37.TextSize = 16.000
+Button_37.MouseButton1Down:connect(function()
+
+	local args = {
+		[1] = "Tribal"
+	}
+
+	game:GetService("ReplicatedStorage").Communication.Functions.Respawn:InvokeServer(unpack(args))
+end)
+
+Title_39.Name = "Title"
+Title_39.Parent = Button_37
+Title_39.AnchorPoint = Vector2.new(0, 0.5)
+Title_39.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_39.BackgroundTransparency = 1.000
+Title_39.Position = UDim2.new(0, 8, 0.5, 0)
+Title_39.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_39.Font = Enum.Font.Gotham
+Title_39.Text = "RESERVATION CAMP"
+Title_39.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_39.TextSize = 10.000
+Title_39.TextTransparency = 0.300
+Title_39.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_38.Name = "Button_38"
+Button_38.Parent = Bottom_Container
+Button_38.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_38.BorderSizePixel = 0
+Button_38.LayoutOrder = 1
+Button_38.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_38.Size = UDim2.new(1, 0, 0, 26)
+Button_38.AutoButtonColor = false
+Button_38.Font = Enum.Font.GothamBold
+Button_38.Text = ""
+Button_38.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_38.TextSize = 16.000
+Button_38.MouseButton1Down:connect(function()
+	local args = {
+		[1] = "Delores"
+	}
+
+	game:GetService("ReplicatedStorage").Communication.Functions.Respawn:InvokeServer(unpack(args))
+end)
+
+Title_40.Name = "Title"
+Title_40.Parent = Button_38
+Title_40.AnchorPoint = Vector2.new(0, 0.5)
+Title_40.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_40.BackgroundTransparency = 1.000
+Title_40.Position = UDim2.new(0, 8, 0.5, 0)
+Title_40.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_40.Font = Enum.Font.Gotham
+Title_40.Text = "CALLAHAN MANOR"
+Title_40.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_40.TextSize = 10.000
+Title_40.TextTransparency = 0.300
+Title_40.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_39.Name = "Button_39"
+Button_39.Parent = Bottom_Container
+Button_39.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_39.BorderSizePixel = 0
+Button_39.LayoutOrder = 1
+Button_39.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_39.Size = UDim2.new(1, 0, 0, 26)
+Button_39.AutoButtonColor = false
+Button_39.Font = Enum.Font.GothamBold
+Button_39.Text = ""
+Button_39.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_39.TextSize = 16.000
+Button_39.MouseButton1Down:connect(function()
+	local args = {
+		[1] = "WindmillCamp"
+	}
+
+	game:GetService("ReplicatedStorage").Communication.Functions.Respawn:InvokeServer(unpack(args))
+end)
+
+
+Title_41.Name = "Title"
+Title_41.Parent = Button_39
+Title_41.AnchorPoint = Vector2.new(0, 0.5)
+Title_41.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_41.BackgroundTransparency = 1.000
+Title_41.Position = UDim2.new(0, 8, 0.5, 0)
+Title_41.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_41.Font = Enum.Font.Gotham
+Title_41.Text = "WINDMILL CAMP"
+Title_41.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_41.TextSize = 10.000
+Title_41.TextTransparency = 0.300
+Title_41.TextXAlignment = Enum.TextXAlignment.Left
+
+title_5.Name = "title"
+title_5.Parent = Bottom_Container
+title_5.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+title_5.BorderColor3 = Color3.fromRGB(152, 143, 255)
+title_5.BorderSizePixel = 2
+title_5.LayoutOrder = 1
+title_5.Position = UDim2.new(-0.104395606, 0, 0.406467676, 0)
+title_5.Size = UDim2.new(1, 0, 0, 26)
+title_5.AutoButtonColor = false
+title_5.Font = Enum.Font.GothamBold
+title_5.Text = "EXPERIMENTAL"
+title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+title_5.TextSize = 16.000
+
+Title_42.Name = "Title"
+Title_42.Parent = title_5
+Title_42.AnchorPoint = Vector2.new(0, 0.5)
+Title_42.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_42.BackgroundTransparency = 1.000
+Title_42.Position = UDim2.new(0, 8, 0.5, 0)
+Title_42.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_42.Font = Enum.Font.Gotham
+Title_42.Text = ""
+Title_42.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_42.TextSize = 10.000
+Title_42.TextTransparency = 0.300
+Title_42.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_41.Name = "Button_41"
+Button_41.Parent = Bottom_Container
+Button_41.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_41.BorderSizePixel = 0
+Button_41.LayoutOrder = 1
+Button_41.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_41.Size = UDim2.new(1, 0, 0, 26)
+Button_41.AutoButtonColor = false
+Button_41.Font = Enum.Font.GothamBold
+Button_41.Text = ""
+Button_41.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_41.TextSize = 16.000
+Button_41.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/bm3BacwrrsjY/raw",true))()
+end)
+
+
+Title_43.Name = "Title"
+Title_43.Parent = Button_41
+Title_43.AnchorPoint = Vector2.new(0, 0.5)
+Title_43.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_43.BackgroundTransparency = 1.000
+Title_43.Position = UDim2.new(0, 8, 0.5, 0)
+Title_43.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_43.Font = Enum.Font.Gotham
+Title_43.Text = "FREE CAM [SHIFT + P]"
+Title_43.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_43.TextSize = 10.000
+Title_43.TextTransparency = 0.300
+Title_43.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_42.Name = "Button_42"
+Button_42.Parent = Bottom_Container
+Button_42.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_42.BorderSizePixel = 0
+Button_42.LayoutOrder = 1
+Button_42.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_42.Size = UDim2.new(1, 0, 0, 26)
+Button_42.AutoButtonColor = false
+Button_42.Font = Enum.Font.GothamBold
+Button_42.Text = ""
+Button_42.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_42.TextSize = 16.000
+Button_42.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://api.upload.systems/pastes/lQcFjtGm29OI/raw",true))()
+end)
+
+
+Title_44.Name = "Title"
+Title_44.Parent = Button_42
+Title_44.AnchorPoint = Vector2.new(0, 0.5)
+Title_44.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_44.BackgroundTransparency = 1.000
+Title_44.Position = UDim2.new(0, 8, 0.5, 0)
+Title_44.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_44.Font = Enum.Font.Gotham
+Title_44.Text = "SEE THROUGH WALLS/XRAY [X]"
+Title_44.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_44.TextSize = 10.000
+Title_44.TextTransparency = 0.300
+Title_44.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_43.Name = "Button_43"
+Button_43.Parent = Bottom_Container
+Button_43.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_43.BorderSizePixel = 0
+Button_43.LayoutOrder = 1
+Button_43.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_43.Size = UDim2.new(1, 0, 0, 26)
+Button_43.AutoButtonColor = false
+Button_43.Font = Enum.Font.GothamBold
+Button_43.Text = ""
+Button_43.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_43.TextSize = 16.000
+Button_43.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://paste.gg/p/anonymous/2d915838a0e146048d179595847c203c/files/9251cad45bff49c583ee3b4774e73ffd/raw",true))()
+	--------------------------
+end)
+
+
+Title_45.Name = "Title"
+Title_45.Parent = Button_43
+Title_45.AnchorPoint = Vector2.new(0, 0.5)
+Title_45.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_45.BackgroundTransparency = 1.000
+Title_45.Position = UDim2.new(0, 8, 0.5, 0)
+Title_45.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_45.Font = Enum.Font.Gotham
+Title_45.Text = "CLIENT MUSIC PLAYER "
+Title_45.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_45.TextSize = 10.000
+Title_45.TextTransparency = 0.300
+Title_45.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_44.Name = "Button_44"
+Button_44.Parent = Bottom_Container
+Button_44.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_44.BorderSizePixel = 0
+Button_44.LayoutOrder = 1
+Button_44.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_44.Size = UDim2.new(1, 0, 0, 26)
+Button_44.AutoButtonColor = false
+Button_44.Font = Enum.Font.GothamBold
+Button_44.Text = ""
+Button_44.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_44.TextSize = 16.000
+Button_44.MouseButton1Down:connect(function()
+
+	local vu = game:GetService("VirtualUser")
+	game:GetService("Players").LocalPlayer.Idled:connect(function()
+		vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		wait(1)
+		vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+	end)
+	local message = Instance.new("Message", workspace)
+	message.Text = "Thx To Piano Man Sw1dler For This"
+	wait(2.2)
+	message:Destroy()
+	---msg on screen popup infront
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/RobloxScripts/main/Misc%20Scripts/PianoAutoplayer.lua",true))()
+end)
+
+
+Title_46.Name = "Title"
+Title_46.Parent = Button_44
+Title_46.AnchorPoint = Vector2.new(0, 0.5)
+Title_46.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_46.BackgroundTransparency = 1.000
+Title_46.Position = UDim2.new(0, 8, 0.5, 0)
+Title_46.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_46.Font = Enum.Font.Gotham
+Title_46.Text = "PIANO AUTOPLAYER"
+Title_46.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_46.TextSize = 10.000
+Title_46.TextTransparency = 0.300
+Title_46.TextXAlignment = Enum.TextXAlignment.Left
+
+title_6.Name = "title"
+title_6.Parent = Bottom_Container
+title_6.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+title_6.BorderColor3 = Color3.fromRGB(146, 138, 255)
+title_6.BorderSizePixel = 2
+title_6.LayoutOrder = 1
+title_6.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+title_6.Size = UDim2.new(1, 0, 0, 26)
+title_6.AutoButtonColor = false
+title_6.Font = Enum.Font.GothamBold
+title_6.Text = "SERVER"
+title_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+title_6.TextSize = 16.000
+
+Title_47.Name = "Title"
+Title_47.Parent = title_6
+Title_47.AnchorPoint = Vector2.new(0, 0.5)
+Title_47.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_47.BackgroundTransparency = 1.000
+Title_47.Position = UDim2.new(0, 8, 0.5, 0)
+Title_47.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_47.Font = Enum.Font.Gotham
+Title_47.Text = ""
+Title_47.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_47.TextSize = 10.000
+Title_47.TextTransparency = 0.300
+Title_47.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_46.Name = "Button_46"
+Button_46.Parent = Bottom_Container
+Button_46.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_46.BorderColor3 = Color3.fromRGB(146, 138, 255)
+Button_46.BorderSizePixel = 0
+Button_46.LayoutOrder = 1
+Button_46.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_46.Size = UDim2.new(1, 0, 0, 26)
+Button_46.AutoButtonColor = false
+Button_46.Font = Enum.Font.GothamBold
+Button_46.Text = ""
+Button_46.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_46.TextSize = 16.000
+Button_46.MouseButton1Down:connect(function()
+	game.SocialService:PromptGameInvite(game.Players.LocalPlayer)
+	----------------
+end)
+
+
+Title_48.Name = "Title"
+Title_48.Parent = Button_46
+Title_48.AnchorPoint = Vector2.new(0, 0.5)
+Title_48.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_48.BackgroundTransparency = 1.000
+Title_48.Position = UDim2.new(0, 8, 0.5, 0)
+Title_48.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_48.Font = Enum.Font.Gotham
+Title_48.Text = "INVITE FRIENDS"
+Title_48.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_48.TextSize = 10.000
+Title_48.TextTransparency = 0.300
+Title_48.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_47.Name = "Button_47"
+Button_47.Parent = Bottom_Container
+Button_47.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_47.BorderColor3 = Color3.fromRGB(146, 138, 255)
+Button_47.BorderSizePixel = 0
+Button_47.LayoutOrder = 1
+Button_47.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_47.Size = UDim2.new(1, 0, 0, 26)
+Button_47.AutoButtonColor = false
+Button_47.Font = Enum.Font.GothamBold
+Button_47.Text = ""
+Button_47.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_47.TextSize = 16.000
+Button_47.MouseButton1Down:connect(function()
+	warn"Rejoining Command Sent...."
+	local TeleportService = game:GetService("TeleportService")
+	local Players = game:GetService("Players")
+	local LocalPlayer = Players.LocalPlayer
+
+	local Rejoin = coroutine.create(function()
+		local Success, ErrorMessage = pcall(function()
+			TeleportService:Teleport(game.PlaceId, LocalPlayer)
+		end)
+
+		if ErrorMessage and not Success then
+			warn(ErrorMessage)
+		end
+	end)
+	wait(2)
+	print"[SERVER] Rejoin command accepted"
+	wait(1)
+	coroutine.resume(Rejoin)
+	print"[SERVER] Rejoining"
+end)
+
+
+Title_49.Name = "Title"
+Title_49.Parent = Button_47
+Title_49.AnchorPoint = Vector2.new(0, 0.5)
+Title_49.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_49.BackgroundTransparency = 1.000
+Title_49.Position = UDim2.new(0, 8, 0.5, 0)
+Title_49.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_49.Font = Enum.Font.Gotham
+Title_49.Text = "REJOIN SERVER"
+Title_49.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_49.TextSize = 10.000
+Title_49.TextTransparency = 0.300
+Title_49.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_48.Name = "Button_48"
+Button_48.Parent = Bottom_Container
+Button_48.BackgroundColor3 = Color3.fromRGB(43, 42, 49)
+Button_48.BorderColor3 = Color3.fromRGB(146, 138, 255)
+Button_48.BorderSizePixel = 0
+Button_48.LayoutOrder = 1
+Button_48.Position = UDim2.new(-0.107142858, 0, 0.406666666, 0)
+Button_48.Size = UDim2.new(1, 0, 0, 26)
+Button_48.AutoButtonColor = false
+Button_48.Font = Enum.Font.GothamBold
+Button_48.Text = ""
+Button_48.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button_48.TextSize = 16.000
+Button_48.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/VduBT2nt"))()
+	--------------
+end)
+
+
+Title_50.Name = "Title"
+Title_50.Parent = Button_48
+Title_50.AnchorPoint = Vector2.new(0, 0.5)
+Title_50.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title_50.BackgroundTransparency = 1.000
+Title_50.Position = UDim2.new(0, 8, 0.5, 0)
+Title_50.Size = UDim2.new(0.252747267, 49, 1, -8)
+Title_50.Font = Enum.Font.Gotham
+Title_50.Text = "SERVER HOP"
+Title_50.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title_50.TextSize = 10.000
+Title_50.TextTransparency = 0.300
+Title_50.TextXAlignment = Enum.TextXAlignment.Left
+
+ImageLabel.Parent = Main_2
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.BorderSizePixel = 0
+ImageLabel.Position = UDim2.new(0, 0, 0.0257730391, 0)
+ImageLabel.Size = UDim2.new(0, 43, 0, 49)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=4934150403"
+ImageLabel.ImageColor3 = Color3.fromRGB(255, 170, 255)
+
+ImageLabel_2.Parent = Main_2
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BorderSizePixel = 0
+ImageLabel_2.Size = UDim2.new(0, 395, 0, 387)
+ImageLabel_2.ZIndex = 0
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=7123280867"
+ImageLabel_2.ImageColor3 = Color3.fromRGB(116, 88, 255)
+
+TextLabel.Parent = Main_2
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.108860761, 0, 0.0108430609, 0)
+TextLabel.Size = UDim2.new(0, 128, 0, 12)
+TextLabel.Font = Enum.Font.Gotham
+TextLabel.Text = ""
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextSize = 14.000
+
+
+local UsernameNprofile = Instance.new("Frame")
+local PlayerImage = Instance.new("ImageLabel")
+local PlayerName = Instance.new("TextLabel")
+local Frame = Instance.new("Frame")
+
+
+
+
+-- Scripts:
+
+
+local function EAESVX_fake_script() -- Main_2.LocalScript 
+	local script = Instance.new('LocalScript', Main_2)
+
+	local Plr = game.Players.LocalPlayer
+	
+	Plr:GetMouse().KeyDown:Connect(function(K)
+		if K == "-" then
+			script.Parent.Visible = true
+		end
+	end)
+	
+	
+	local Plr = game.Players.LocalPlayer
+	
+	Plr:GetMouse().KeyDown:Connect(function(K)
+		if K == "=" then
+			script.Parent.Visible = false
+		end
+	end)
+end
+coroutine.wrap(EAESVX_fake_script)()
+local function KOCLDA_fake_script() -- TextLabel.FPSCOUNTERLocalScript 
+	local script = Instance.new('LocalScript', TextLabel)
+
+	local RunService = game:GetService("RunService")
+	local FramesLoaded = 0
+	
+	RunService.RenderStepped:Connect(function()
+		FramesLoaded += 1
+	end)
+	
+	while wait(1) do
+		wait()
+		script.Parent.Text = FramesLoaded .. "FPS"
+		FramesLoaded = 0
+	end
+end
+coroutine.wrap(KOCLDA_fake_script)()
