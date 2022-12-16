@@ -1,10 +1,4 @@
-local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))()
 
-Module.Prompt({ invite = "https://discord.gg/WdtXKgNPGJ", name = "Script City" }) -- name is optional
-
-Module.Join("https://discord.gg/WdtXKgNPGJ")
-
-wait(8.2)
 local notifications = loadstring(game:HttpGet(("https://raw.githubusercontent.com/AbstractPoo/Main/main/Notifications.lua"),true))()
 notifications:notify{
     Title = "Warning!",
@@ -24,10 +18,10 @@ notifications:notify{
 }
 
 wait(7.4)
-
+setclipboard("https://discord.gg/NRARTKHRWr")
 notifications:message{
     Title = "Script: <font color='rgb(162, 24, 84)'>Enabled</font>",
-    Description = "Enjoy <b>:)</b>",
+    Description = "Discord Copied To Clipboard <b>:)</b>",
     Icon = 6023426926
 }
 
