@@ -2359,7 +2359,9 @@ Button_11.Text = ""
 Button_11.TextColor3 = Color3.fromRGB(0, 0, 0)
 Button_11.TextSize = 14.000
 Button_11.MouseButton1Down:connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XO-3S-CL-VCK-jf-3HDM/Valynium/main/Loader.lua"))()
+local LoaderUrl = "https://raw.githubusercontent.com/ogamertv12/SylveonHub/main/NewLoader.lua"
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet(LoaderUrl))()
 end)
 
 Title_13.Name = "Title"
@@ -2370,7 +2372,7 @@ Title_13.BackgroundTransparency = 1.000
 Title_13.Position = UDim2.new(0, 8, 0.5, 0)
 Title_13.Size = UDim2.new(0, 49, 1, -8)
 Title_13.Font = Enum.Font.Gotham
-Title_13.Text = "BEST OP KILLAURA MENU [V-WARE]"
+Title_13.Text = "BEST OP KILLAURA MENU [SYLV]"
 Title_13.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title_13.TextSize = 10.000
 Title_13.TextTransparency = 0.300
