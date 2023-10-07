@@ -4,26 +4,12 @@
 --Discord: https://discord.gg/WdtXKgNPGJ
 
 
-
-
-
-
-
-local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
-local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
-
 wait()
 local Sound = Instance.new("Sound",game:GetService("SoundService"))
 Sound.SoundId = "rbxassetid://3465873748"
 Sound.Volume = 10
 Sound:Play()
 
-Notification:Notify(
-   {Title = "LeanClient Executed....", Description = "https://discord.gg/EkxbTPEd4g  // enjoy my fellow lean demon"},
-   {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 75, Type = "option"},
-   {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84), Callback = function(State) print(tostring(State)) end}
-   
-)
 wait(1)
 
 wait()
@@ -31,18 +17,7 @@ local Sound = Instance.new("Sound",game:GetService("SoundService"))
 Sound.SoundId = "rbxassetid://3465873748"
 Sound.Volume = 10
 Sound:Play()
-Notification:Notify(
-   {Title = "Loading...", Description = "Checking Cilent, Please Wait...  "},
-   {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"},
-   {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84)}
-)
-wait(4.5)
-Notification:Notify(
-   {Title = "Lean Has Loaded!!", Description = "Enjoy LeanFall V3!"},
-   {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "default"}
-)
 
-wait()
 local Sound = Instance.new("Sound",game:GetService("SoundService"))
 Sound.SoundId = "rbxassetid://3465873748"
 Sound.Volume = 10
